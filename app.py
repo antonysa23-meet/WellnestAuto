@@ -243,8 +243,16 @@ def compose_email():
         "investing', 'Two women building at early stage', 'Women-led funds, shared thesis', 'Deep tech "
         "meets healthcare access'. No punctuation-heavy clickbait, no 'Quick question'.\n\n"
         f"REFERENCE EXAMPLES (match this voice and structure, with different content):\n{COMPOSE_EMAIL_EXAMPLES}\n\n"
-        "Respond with ONLY a JSON object: {\"subject\": string, \"body\": string}. No markdown code "
-        "fences, no ```json wrapper, no explanation before or after."
+        "The body MUST be broken into paragraphs separated by a blank line, the same way the "
+        "reference examples read when displayed (hook paragraph, then the Wellnest/bridge "
+        "paragraph, then the closing ask, then the sign-off on its own line) - never one unbroken "
+        "block of text. In the JSON string this means literal escaped newlines between paragraphs, "
+        "exactly like this shape:\n"
+        "{\"subject\": \"Two women building at early stage\", \"body\": \"Hi Addie, <opening "
+        "paragraph text>.\\n\\n<Wellnest/bridge paragraph text>.\\n\\n<closing ask paragraph>."
+        "\\n\\nAll the best,\\nZina\"}\n\n"
+        "Respond with ONLY the JSON object matching that shape. No markdown code fences, no "
+        "```json wrapper, no explanation before or after."
     )
 
     user_prompt = f"""
