@@ -1,0 +1,590 @@
+0 notifications
+
+
+Home
+8
+My Network
+Jobs
+Messaging
+23
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+
+Karen Kerr
+
+Managing Director at Exposition Ventures, previously Executive Managing Director at GE Ventures, Early Stage Venture Investor
+
+
+More
+
+Follow
+Message
+
+Karen Kerr
+· 3rd
+
+Managing Director at Exposition Ventures, previously Executive Managing Director at GE Ventures, Early Stage Venture Investor
+
+Greater Chicago Area
+
+·
+
+Contact info
+
+
+Exposition Ventures
+
+
+Bryn Mawr College
+
+500+
+
+connections
+
+Message
+
+Follow
+
+More
+Activity
+3,122 followers
+
+
+Follow
+
+Posts
+
+Comments
+View Karen Kerr’s profile
+Karen Kerr
+
+  • 3rd+
+
+Managing Director at Exposition Ventures, previously Executive Managing Director at GE Ventures, Early Stage Venture Investor
+
+2w • 
+
+
+Kence Anderson, the founder of our portfolio company AMESA, in collaboration with Dayan Rodriguez from Microsoft, shows how AI systems can make trusted operational decisions in manufacturing.  This is how the promise of IIoT is made real!… more
+
+View company: AMESA
+AMESA
+
+2w • 
+
+Introducing: Data to Autonomy, a new executive report presented by AMESA and Microsoft.
+
+Featuring a foreword by Dayan Rodriguez, Corporate Vice President, Global Manufacturing & Mobility at Microsoft, and an introduction by Kence Anderson, Founder & CEO of AMESA.
+
+For years, industrial organizations have invested billions in digital transformation. Yet many still struggle to bridge the gap between operational data, human expertise, and true autonomy.
+
+This report explores a practical methodology for transforming enterprise data and institutional knowledge into autonomous agent teams capable of making expert-level decisions.
+
+Swipe through for a preview and download the full report below.
+
+#Manufacturing #IndustrialAI #Industry40 #ArtificialIntelligence #AutonomousSystems… more
+
+
+Sample pages from Data to Autonomy Report
+
+5 pages
+
+
+10
+
+​
+
+​
+View Karen Kerr’s profile
+Karen Kerr
+
+  • 3rd+
+
+Managing Director at Exposition Ventures, previously Executive Managing Director at GE Ventures, Early Stage Venture Investor
+
+2mo • 
+
+
+Congratulations memQ! Defense Advanced Research Projects Agency (DARPA) selects memQ to develop software and circuit compiler for scalable heterogeneous quantum computing. Team was prescient in recognizing need for interconnects as an enabler for quantum computing.… more
+
+View company: memQ
+memQ
+
+2mo • 
+
+Big news for the memQ team. 🎖️
+
+DARPA has selected memQ to develop a hardware- and network-aware quantum compiler as part of its Heterogeneous Architectures for Quantum (HARQ) program.
+
+HARQ is built on a clear premise: no single qubit modality excels at everything. The path to utility-scale quantum computing runs through a "interconnected, heterogeneous quantum systems" architecture, leveraging different qubit types connected across quantum networks. The program aims to cut resource demands by a factor of 1,000 through this approach, with distributed compiler and component technology that can provide the high-fidelity interconnects that make it possible.
+
+That's exactly the problem memQ was built to solve. 🔬
+
+We'll lead a multi-organization team including qBraid and researchers from MIT, Yale, and the University of Chicago to deliver a qubit-agnostic compiler that maps and partitions optimized logical circuits across heterogeneous QPUs connected via quantum networking links.
+
+This builds directly on our xDQC work announced at NVIDIA GTC, and on the xQNA portfolio we've been developing since day one.
+
+Honored to be part of this. The work continues. 🚀
+
+🔗 Full announcement: https://lnkd.in/ebiUqDHp
+
+#QuantumComputing #DARPA #HARQ #DistributedQuantum #memQ #QuantumNetworking… more
+
+View image
+
+24
+
+1
+
+​
+View Karen Kerr’s profile
+Karen Kerr
+
+  • 3rd+
+
+Managing Director at Exposition Ventures, previously Executive Managing Director at GE Ventures, Early Stage Venture Investor
+
+4mo • 
+
+
+Great recognition for our portfolio AMESA in the San Francisco Business Times. AMESA is delivering real value to industrial business with its agentic orchestration platform and a novel skills based pricing model that works for customers. AMESA is innovating both technically and with its business model!… more
+
+View company: AMESA
+AMESA
+
+4mo • 
+
+AMESA was featured in the San Francisco Business Times this week. We're grateful for the spotlight on what our team has been building in agentic AI.
+
+Enterprise organizations are finally asking the right question:
+👉 What real value is AI delivering?
+
+As mentioned in the article, AMESA’s work in agentic AI is already being recognized for driving upwards of $100M realized across deployments. 
+
+Our approach trains teams of AI systems that learn, practice, and execute real work in complex industrial environments. When you combine deep expertise with autonomous agents that can reason and act, the results speak for themselves:
+
+✅ Capturing tacit operator know-how
+✅ Improving process outcomes
+✅ Scaling autonomy where it matters most
+
+Thank you to Sara B. for the feature and to all of our customers and partners who are pushing the frontier of AI autonomy with us.
+
+Read the full piece in the comments below.
+
+#AI #AgenticAI #EnterpriseAI #Manufacturing #Autonomy #Industry40 #OperationalAI… more
+
+View image
+
+18
+
+​
+
+​
+View Karen Kerr’s profile
+Karen Kerr
+
+  • 3rd+
+
+Managing Director at Exposition Ventures, previously Executive Managing Director at GE Ventures, Early Stage Venture Investor
+
+7mo • 
+
+
+Congratulations to Jeremy Goeckeritz and Momentum Optics.  The SPIE Prism selection recognizes their innovative work in transforming the manufacturing of optical components. Kudos!!… more
+
+
+Innovative photonics products selected as finalists for 2026 SPIE Prism AwardsInnovative photonics products selected as finalists for 2026 SPIE Prism Awards
+
+spie.org
+
+
+10
+
+1
+
+​
+View Karen Kerr’s profile
+Karen Kerr
+
+  • 3rd+
+
+Managing Director at Exposition Ventures, previously Executive Managing Director at GE Ventures, Early Stage Venture Investor
+
+8mo • 
+
+
+Excited for Composabl's next chapter as AMESA. AMESA is bringing its multi-AI agent orchestration from its industrial roots to the broader enterprise.  Congratulations Kence Anderson and team!!… more
+
+View Kence Anderson’s profile
+Kence Anderson
+
+  • 3rd+
+
+Advanced Modular Enterprise Systems for Autonomy
+
+8mo • 
+
+📢 Today we’re announcing that Composabl is now AMESA.
+
+AMESA stands for Advanced Modular Enterprise Systems of Autonomy. The new brand showcases how we're pioneering agentic orchestration as well as building a true #AI proving ground where agents can practice performing high-value enterprise tasks. 
+
+Eight years ago, I started building intelligent agents that could make complex decisions in real industrial environments. Not just analyze, but act.
+
+This work has never been theoretical for me.
+
+It’s come from long days in plants and control rooms, watching how real systems behave when things don’t go according to plan.
+
+When I launched Composabl, I made a deliberate choice to start in the toughest place possible: industrials. 
+
+If autonomous agents could deliver measurable ROI there – optimizing yield, improving efficiency and quality, and earning the trust of expert operators – they could work anywhere.
+
+But I’ve seen multi-agent systems work for a huge variety of enterprise use cases as diverse as: machine and control for manufacturing, supply chain and logistics, robotics, retail, banking, and even commodity trading.
+
+So, as AMESA, we’re expanding that same engineering-first approach to give enterprises across industries a proving ground for agent systems to practice and learn before they’re deployed.
+
+The future of AI belongs to those who prove it works.
+
+AMESA is the proving ground. I can't wait to see what you build with it.
+
+We’re launching two new products today as well.
+
+✅ AMESA Agent Orchestration Studio ✅ 
+Our no-code platform and supporting APIs serve as a command center for designing, managing, and optimizing teams of agents. 
+
+Fortune 500 companies have used this product for over a year to build agent teams with specialized skills, and organize hierarchies with orchestrators managing other agents, all supported by built-in feedback.
+ 
+❇️ AMESA Agent Cloud ❇️
+We’ve formalized our RL training infrastructure, and embedded LLMs, that can run on just about any major cloud platform or on premises to train autonomous agents. It’s a secure proving ground where intelligent agents can learn, test, and improve
+
+Connect data, attach digital twins, or use simulations to create realistic environments where agents experiment safely and learn from feedback.
+
+✳️ AMESA Assist Agents ✳️ 
+We've added LLM-based agents that you can build into your team of agents to interact with the humans on your team. They can explain what the team of agents is doing, and why. They can also provide insights and decision-support recommendations. 
+ 
+In addition to communication agents, we’ve built AMESA Assist Agents. They act as built-in guides that help teams configure and run agentic systems without requiring deep AI expertise. Assist agents simplify setup, design, and performance review while bridging the gap between technical and operational teams.… more
+
+
+
+
+13
+
+1
+
+​
+View Karen Kerr’s profile
+Karen Kerr reposted this
+
+
+View company: memQ
+memQ
+
+10mo • 
+
+🚀 Big news! We are thrilled to welcome Professor David Awschalom to our Advisory Board!
+
+Professor Awschalom is a globally recognized pioneer in the field of quantum science and currently serves as a distinguished professor at the University of Chicago as well as holding the position of senior scientist at Argonne National Laboratory. He was the Founding Director of the Chicago Quantum Exchange, the inaugural Director of Q-NEXT, one of the US DOE Quantum Information Science Research Centers, and has been integral to the emerging quantum ecosystem in Chicago and the State of Illinois.
+
+Read more in our announcement here:
+https://lnkd.in/dUq-aYcG
+
+(Image credit: University of Chicago)
+
+#Quantum #QuantumComputing #QuantumNetworking #DeepTech #Photonics #QuantumScience… more
+
+View image
+
+82
+
+​
+
+4
+View Karen Kerr’s profile
+Karen Kerr
+
+  • 3rd+
+
+Managing Director at Exposition Ventures, previously Executive Managing Director at GE Ventures, Early Stage Venture Investor
+
+10mo • 
+
+
+Honored to be included in the Forbes 50 over 50 of pioneering women. https://lnkd.in/gCNPcbKG
+
+
+50 Over 50: Investment50 Over 50: Investment
+
+social-www.forbes.com
+
+
+251
+
+96
+
+3
+View Karen Kerr’s profile
+Karen Kerr
+
+  • 3rd+
+
+Managing Director at Exposition Ventures, previously Executive Managing Director at GE Ventures, Early Stage Venture Investor
+
+11mo • 
+
+
+Congratulations to memQ which was selected by NASA and ONR to advance critical technologies for scalable quantum networking.
+
+View company: memQ
+memQ
+
+11mo • 
+
+📣 Big News! memQ has won two U.S. government awards to advance critical technologies that support our mission of building scalable quantum networks.
+
+🚀 NASA award for Integrated Photonics Control 
+• memQ will build on its existing technology portfolio for next-gen photonic integrated circuits (PICs) that use advanced materials
+• Commercial applications will include the controlled delivery of light to qubits, enabling a range of use cases from board-to-board communication to data center networks to satellite implementations
+
+⚓ Navy award for Cryogenic Modulators 
+• Working with the Navy, memQ will build on its existing technology portfolio for PIC-based control systems that can operate at cryogenic temperatures
+• Commercial use cases will include quantum and non-quantum applications. 
+
+A huge thank you to NASA - National Aeronautics and Space Administration and Office of Naval Research for their support and belief in our vision. We're excited to develop these powerful dual-use technologies.
+
+Follow us to stay updated on our progress!
+
+#QuantumComputing #QuantumNetworking #DeepTech #Innovation #Photonics #NASA #Navy… more
+
+View image
+
+30
+
+4
+
+​
+View Karen Kerr’s profile
+Karen Kerr
+
+  • 3rd+
+
+Managing Director at Exposition Ventures, previously Executive Managing Director at GE Ventures, Early Stage Venture Investor
+
+1yr • 
+
+
+Excited to welcome Xaba Inc. and its CEO, Massimiliano Moruzzi to the Exposition Ventures family.  Xaba's XCognition no-code platform integrates real time intelligence into automation, reducing the cost and time to deployment while enhancing the quality and flexibility of manufacturing operations.  Read more about how Xaba is giving robots brains in this VentureBeat article from Dean Takahashi: … more
+
+
+Xaba raises $6M from Hitachi Ventures to build synthetic brains for industrial robotsXaba raises $6M from Hitachi Ventures to build synthetic brains for industrial robots
+
+venturebeat.com
+
+
+45
+
+5
+
+1
+View Karen Kerr’s profile
+Karen Kerr
+
+  • 3rd+
+
+Managing Director at Exposition Ventures, previously Executive Managing Director at GE Ventures, Early Stage Venture Investor
+
+1yr • 
+
+
+We are excited to partner with OLOID as they enable the frontline industrial workforce and enhance the physical security of OT infrastructure.  Congrats to Mohit Garg and the entire team on the Workday partnership and the new round.
+
+#WDAYPartners
+#WorkdayPartners
+#IdentityAndAccessManagement
+#Partnership
+#Investment
+#FrontlineWorkers
+#AuthenticationOnSharedDevices… more
+
+View company: OLOID
+OLOID
+
+1yr • Edited • 
+
+What an amazing year it’s been for OLOID! We are pleased to share two exciting milestones in our journey to elevate the identity and access management of deskless workers: we are now a Gold-level, Workday Certified Partner! This certification ensures even more streamlined integration of OLOID with one of the leading enterprise platforms.
+
+In addition, we have also added incredible new investors—Yaletown Partners, Exposition Ventures George Kaiser Family Foundation, and Carya Venture Partners—who are fueling our growth with a fresh capital infusion and helping expand the OLOID network! We are also grateful for the continued support of our existing investor, Dell Technologies Capital who has doubled down by participating in this round and has been a great supporter and partner.
+
+With these achievements under our belt, we are ready to roll out even bigger, better, and more secure solutions for deskless workers and shared devices. Exciting times lie ahead—stay tuned!
+
+Read more here: https://lnkd.in/egXd4VtU
+
+#WDAYPartners #WorkdayPartners #IdentityAndAccessManagement #Partnership #Investment #FrontlineWorkers #AuthenticationOnSharedDevices… more
+
+View image
+
+25
+
+1
+
+​
+
+Show all posts
+Experience
+Exposition Ventures logo
+Managing Director
+
+Exposition Ventures
+
+Jan 2020 - Present · 6 yrs 7 mos
+
+Chicago, Illinois, United States
+
+mHUB Chicago logo
+Board Member
+
+mHUB Chicago
+
+2016 - Present · 10 yrs 7 mos
+
+Chicago, IL
+
+Clean Energy Trust logo
+Board Member
+
+Clean Energy Trust
+
+2019 - Present · 7 yrs 7 mos
+
+Chicago, IL
+
+Managing Director
+
+Agile Equities, LLC
+
+Mar 2005 - Present · 21 yrs 5 mos
+
+Chicago, IL
+
+Seed investing, strategic consulting and business plan development.
+
+ORAU logo
+Board Member
+
+ORAU
+
+2018 - 2024 · 6 yrs
+
+Oak Ridge, TN
+
+Show all
+Education
+Bryn Mawr College logo
+Bryn Mawr College
+
+AB, Chemistry
+
+University of Chicago logo
+University of Chicago
+
+PhD, Physical Chemistry
+
+NSF Pre-doctoral Fellow
+AAUW Dissertation Fellowship
+Awarded NSF Post-doctoral Fellowship (declined)
+Dissertation topic- High Resolution Infrared Spectroscopy of Solid Para Hydrogen… more
+
+Skills (16)
+Venture Capital
+
+
+Endorsed by 2 colleagues at GE
+
+6 endorsements
+
+Due Diligence
+
+Show all
+Recommendations
+
+Received
+
+Given (3)
+Nothing to see for now
+
+Recommendations that Karen receives will appear here.
+
+Interests
+
+Top Voices
+
+Companies
+
+Groups
+
+Schools
+
+Penny Pritzker 
+
+· 3rd
+
+Entrepreneur. Business builder. Civic leader.
+
+13,446 followers
+
+
+Follow
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Antony SalehStatus is online
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.

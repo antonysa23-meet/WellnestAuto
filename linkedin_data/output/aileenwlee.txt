@@ -1,0 +1,674 @@
+0 notifications
+
+
+Home
+8
+My Network
+Jobs
+Messaging
+23
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+
+Aileen Lee
+
+Early stage investor & founder at Cowboy Ventures
+
+
+More
+Message
+
+Follow
+
+Aileen Lee
+· 3rd
+
+Early stage investor & founder at Cowboy Ventures
+
+Palo Alto, California, United States
+
+·
+
+Contact info
+
+
+Cowboy Ventures
+
+
+Harvard Business School
+
+45,804 followers
+
+Followed by Pranai and Zakir
+
+
+Follow
+Message
+
+More
+About
+Early stage VC who loves working closely with startup teams to grow into high-impact B2B and B2C tech companies. Love to help founders with hiring, prioritization, storytelling, fundraising...and, to open lots of doors for customers, partners and community. 
+
+Proud founder of Cowboy Ventures, co-founder of All Raise and coiner of the business term "unicorn".  
+
+Please send venture opportunities to Hello@Cowboy.vc, we'll respond (pls do NOT send pitches via LI).
+
+** am NOT involved in any crypto investment vehicles. Please report any accounts citing my involvement or inviting you to invest to social media platforms and relevant authorities - they are not legitimate.**
+
+Activity
+45,804 followers
+
+
+Follow
+
+Posts
+
+Comments
+
+Images
+View Aileen Lee’s profile
+Aileen Lee reposted this
+
+
+View Ben Huffman’s profile
+Ben Huffman
+
+  • 2nd
+
+Co-Founder CEO at Contra.com
+
+1d • 
+
+Hey LinkedIn!
+
+Contra Labs is hiring multiple Strategic Project Leads in NY/SF to work on some very, very... cool projects 
+
+Tag someone who could be interested.… more
+
+
+77
+
+11
+
+8
+View Aileen Lee’s profile
+Aileen Lee
+
+  • 3rd+
+
+Early stage investor & founder at Cowboy Ventures
+
+1w • 
+
+
+Hmm, is summer 2026 the peak of "peak closed models"?  🤔  
+
+would love to build a 'gestalt tracker' in tech, to chart the historic cycles... this would be a fun point to add :)  … more
+
+View Jiquan Ngiam’s profile
+Jiquan Ngiam
+
+  • 2nd
+
+Building @ MintMCP
+
+1w • 
+
+I think we've hit peak on closed models.
+
+Models will keep going better, but I think we're at the peak of reason to chase the newest closed model. This is because we are at a convergence point of three things happening:
+
+1. We are at the top of the S-curve for many tasks already, you don't need a Mythos/Fable level model for most tasks. Opus is fine.
+
+2. Open source models like GLM-5.2 are showing performance at the level of Opus; they are now a possibility of being a daily driver for many tasks.
+
+3. We're getting squeezed by the foundation AI model companies; they are going public this year and need to show revenue growth.
+
+When Fable went away, I switched back to Opus for the tasks I'm doing - and somehow, it didn't feel like a huge difference. While Fable would try much harder to get a task done, many of the tasks my agents are taking on are much simpler - following up on sales, fixing bugs, improving a feature, organizing our issues - these are all not as challenging as trying to red-team attack a production system. 
+
+The latest jump over the last model felt incremental on a day to day basis. It is definitely more powerful, but I'm not sure if I'd pay a multiple more to use it.
+
+Meanwhile, GLM 5.2 crossed a threshold two weeks ago. Open weights aren't a benchmark curiosity anymore, and we are seeing people running them as a daily driver. While it's not Mythos-class yet, it's close enough that the model choice decision changes.
+
+When the gap shrinks, the premium on pricing has to be earned task by task. The frontier might still be worth it for the hardest jobs. But if most of your agent traffic runs fine on something cheaper, that will be the option most companies will start gravitating towards.
+
+This pressure is going to grow because the big labs need public-market margins: and if customers get more price-sensitive, open weights will keep gaining market share. You also get sovereignty on the intelligence model, and no one can take that model away from you.
+
+So if you're figuring out how to agentify your business, one of the things to do now is to set yourself up for this multi-AI future. Critically, you want your agent's memory to be something you own, and also the governance and controls to what data the agent can access via MCPs. … more
+
+
+13
+
+1
+
+1
+View Aileen Lee’s profile
+Aileen Lee
+
+  • 3rd+
+
+Early stage investor & founder at Cowboy Ventures
+
+1w • 
+
+
+First of all, awesome video team Mutiny!! 👏 👏 👏 
+
+If you want to leverage AI to turbocharge your GTM, check out their new product.  Built by exceptional, experienced folks who have done all the GTM jobs and have built product that really works, doesn't just create high volume slop 🙏 🚀🙏 🚀🙏 🚀 … more
+
+View Jaleh Rezaei’s profile
+Jaleh Rezaei
+
+  • 2nd
+
+CEO & Co-founder at Mutiny (we're hiring!)
+
+Visit my website
+
+1w • 
+
+Our launch today blows up the entire GTM stack.
+
+And replaces it with one agent that takes accounts from cold to closed.
+
+GTM teams spend $500,000+ per year on Sales AI, ABM platforms, and Sales enablement software. 
+
+And yet:
+
+» Revenue per rep is flat; reps spend 80% of their time not selling.
+» Marketing support for sales deals hasn’t scaled.
+» Customers get generic PDFs or AI slop.
+
+The common thread: existing tools can't handle customer-facing work, so they default to low-impact automation: data gathering, CRM updates, emailing PDFs. The work that wins buyers still falls on reps and marketers to do by themselves.
+
+So we built the opposite: the first AI good enough to create what customers see, not just shuffle data behind the scenes.
+
+In April we launched the best AI experience builder, with a 100 NPS. For the first time, reps shipped on-brand decks and deal rooms they're proud to send, and marketers kept brand control. 
+
+Today, we're launching the automation layer around all of it:
+
+1. Mutiny now accesses all your data and tools to automate workflows
+
+Mutiny connects with your email, calendar, CRM, call recording, Slack and 50+ tools to extract data and do work on your behalf.
+
+2. Automates the buyer experiences that actually land
+
+Mutiny stores your case studies and media in a content library along with your brand guidelines. The agent combines them with your call/CRM data to make breakthrough, personalized assets for every deal and tracks engagement.
+
+3. Works out of the box for any rep, not just AI experts 
+
+We’ve pre-built the highest leverage templates, skills and routines for marketers and reps, so they can hit the ground running on day one.
+
+Rippling, Snowflake, Uber, and GitLab are among the 3,000 companies using Mutiny to enable their sales and marketing teams to execute their work end-to-end:
+
+» Deal rooms and CRM records that update themselves after every call
+» Meeting prep and personalized decks ready for tomorrow’s calls
+» Buying committees mapped, with personalized market reports per persona in the BDR's inbox
+» Top ABM accounts surfaced with personalized sites and sequences ready to hit send
+
+Consolidate ABM, sales enablement and AI sales agents into one powerful agent that helps your reps (and the marketing teams that support them) move accounts from cold to closed. 
+
+Sign up for free on our website. 
+
+To celebrate the launch, comment “Mutiny” and I’ll triple your AI credits for free.… more
+
+
+
+
+21
+
+3
+
+1
+View Aileen Lee’s profile
+Aileen Lee
+
+  • 3rd+
+
+Early stage investor & founder at Cowboy Ventures
+
+3w • 
+
+
+💡💡💡👇👇👇
+
+View Johnny Kinder’s profile
+Johnny Kinder
+
+  • 3rd+
+
+AI @ Drata | Co-Founder/CEO @ Harmonize | Ex WePay/JPMorgan
+
+3w • 
+
+I've been opening every CISO call with the same question for months: 
+"how many AI agents are running in your environment?"
+
+Nobody has a good answer. One CISO told me "between 100 and 2,000." 
+Another pulled up a tool, clicked around, and said "that can't be right, it says 2... yeah, I have no idea what this thing is counting as an agent."
+
+Today Drata announced what we built for that problem. I wrote about what it took to get here, the team behind it, the lessons that shaped it, and why now is the right time to right the wrongs of the past.
+
+The Release, 4th in my Trust & Security in the AI Era series.
+
+Link in comments.
+
+Dave Knell Dean Clark… more
+
+
+22
+
+2
+
+​
+View Aileen Lee’s profile
+Aileen Lee
+
+  • 3rd+
+
+Early stage investor & founder at Cowboy Ventures
+
+1mo • 
+
+
+Request for startups:  💰💵  Helping solve credit card debt - a $1Tn +, growing problem for Americans 💵💰.
+ 
+Yrs ago at Cowboy Ventures we had the fortune of backing the team at Tally - to help Americans reduce late fees and automagically pay down their credit card debt.  Tally unfortunately didn't work out - but think of their unsolved mission often, and of Tally's force-of-nature late CEO/co-founder Jason Brown, who is deeply missed. 
+
+In the past decade, the problem has only gotten bigger.  Almost half of American households have credit card debt, and they pay on avg a 21% APR (!). Credit card companies make ~$15Bn/year in late fees.  Indebtedness and financial stress also cause huge negative impact on Americans' physical and mental health, divorce rates, and job productivity.
+
+This WSJ article did a great job of highlighting the problem.  
+
+The age of AI is a great time for smart founders to come up with a new, modern way to help Americans pay down their credit card debt and avoid late fees.  If you are working in this area or know someone who is - pls hit me / us up! 🙏🙏🙏
+
+https://lnkd.in/gKB6KvNy… more
+
+
+Americans Are Falling Behind on Their $1.25 Trillion Credit-Card BillAmericans Are Falling Behind on Their $1.25 Trillion Credit-Card Bill
+
+wsj.com
+
+
+90
+
+29
+
+6
+View Aileen Lee’s profile
+Aileen Lee
+
+  • 3rd+
+
+Early stage investor & founder at Cowboy Ventures
+
+1mo • 
+
+
+💡 AI is changing so much... which will drive big changes in the infra stack + tools developers use 💡.
+
+There's big opportunities to build for the future of software development -  more about why we're excited about this at Cowboy Ventures👇 👇 👇  
+
+h/t Kathy Huang Rohan Puranik Caroline Duffy 🤠
+… more
+
+View Kathy Huang’s profile
+Kathy Huang
+
+  • 3rd+
+
+Investing @ Cowboy Ventures | Stanford Engineer
+
+1mo • Edited • 
+
+⏰ 10/45 is the new rule of software development ⏰
+
+Software engineers will write hundreds of lines of code in 10 minutes but spend 45 minutes to review it. This is the 10/45 rule of AI code. 
+
+The problem with AI-generated code isn't just token costs. Many treat it like free code, but there’s no free lunch. The labor is simply shifting from writing to verification and context management. The 10/45 rule highlights the invisible costs now eroding productivity:
+
+🤝 The Labor Tax of Trust: 45% of developers say debugging AI-generated code takes longer than writing it themselves. Trust has dropped because a system that’s fast but unreliable shifts the time spent from creation to fixing and validating.
+📝 The Labor Tax of Intent: The richest artifact—the prompt and generation session—disappears the moment the code is committed, leaving engineers with no context for future architectural decisions.
+📚 The Labor Tax of Context Drift: Teams are creating files like AGENTS.md to guide agents, but keeping these files in sync with the actual codebase requires manual maintenance and discipline, turning the context layer into a liability.
+The foundation of software development needs to be rebuilt to account for this new reality. There is a massive window for new engineering tools built for the age of AI. We are actively looking to back founders in the four core areas that will define the new dev stack:
+
+1. Prompt and session capture as a platform primitive
+2. Code review rebuilt for agent-generated diffs
+3. Context management at the repo level
+4. Community and contribution infrastructure
+
+If you’re building to rebuild the dev stack, we’d love to meet you. 
+📩 kathy@cowboy.vc
+
+Our full article is linked in the comments below 👇
+
+Aileen Lee Caroline Duffy Rohan Puranik Donna Boyer Ryan Stroub Shimali P.… more
+
+
+21
+
+1
+
+​
+View Aileen Lee’s profile
+Aileen Lee reposted this
+
+
+View Allen Osgood’s profile
+Allen Osgood
+
+  • 3rd+
+
+CEO @ Eisen | Escheatment automation
+
+Visit my website
+
+1mo • 
+
+When I started Eisen, a lot of smart people told me escheatment sounded like a small market. States are sitting on $70 billion of people's retirement savings because of it.
+
+Every bank, brokerage, and exchange in the country is legally required to find owners of dormant accounts and return their money before the state takes it. These aren't abandoned accounts. They're retirement savings that someone hasn't logged into recently, or brokerage holdings a family never found after someone passed away. Millions of dormant accounts every year, and every institution in the country still manages this process on spreadsheets.
+
+Last year, states rewrote the dormancy rules for crypto and the problem got bigger by an order of magnitude - bringing millions of accounts at the largest exchanges in the world into regulatory scope overnight.
+
+We've spent two years building the platform to solve every one of these use cases, and have signed 40+ institutions including Adyen, AllianceBernstein, Binance.US, and BitGo. We just raised our Series A. It's time to grow.
+
+I'm hiring our Founding Marketer to define the next stage of our growth. Looking for someone who's been a senior B2B marketer through a scale phase, ideally in fintech or compliance.
+
+Here's what you'd own: 
+- The full growth function for a company expanding from one compliance vertical into a multi-vertical platform. 
+- The go-to-market playbook for financial institutions, crypto exchanges, and eventually insurance and telecom. 
+- How this category gets defined and who defines it.
+- The marketing org you build from scratch, and the budget that comes with it.
+
+This is demand gen for a market where the demand exists by law. We need someone who can take what's working and turn it into the growth story this market hasn't seen yet.
+
+If that's you, reach out. If you know who it is, send them my way.
+
+Apply here: https://lnkd.in/g3fdTj9T… more
+
+Founding MarketerFounding Marketer
+
+jobs.ashbyhq.com
+
+
+63
+
+6
+
+15
+View Aileen Lee’s profile
+Aileen Lee
+
+  • 3rd+
+
+Early stage investor & founder at Cowboy Ventures
+
+1mo • 
+
+
+🚀  Big congrats to Allen Osgood and team Eisen on your series A - and welcome team MissionOG!  We're proud at Cowboy Ventures to be on your team (and thanks also for helping each of us find funds we didn't realize were sitting waiting to be claimed.... 🚀
+
+Eisen is hiring - check out roles here: https://lnkd.in/ggY4JBGy
+
+And thanks to Jack Kubinec who shared their story so well in Fortune mag 🙏
+
+https://lnkd.in/g8taJwEW… more
+
+
+Eisen raises $18.5 million to help Americans recover over $70 billion in forgotten funds held by state governments | FortuneEisen raises $18.5 million to help Americans recover over $70 billion in forgotten funds held by state governments | Fortune
+
+fortune.com
+
+
+37
+
+2
+
+​
+View Aileen Lee’s profile
+Aileen Lee
+
+  • 3rd+
+
+Early stage investor & founder at Cowboy Ventures
+
+1mo • 
+
+
+🎉Huuuge congrats to wonderful humans Julie Choi, Bob Komin & team Cerebras for tackling a huge technical challenge, and bringing groundbreaking and deeply needed next gen compute to the market 🎉
+
+(We weren’t smart early investors like Steve Vassallo & Eric Vishria … but  
+so happy for this giant success, friends - and wishing you so much more ahead 🎉💪🏼🔥🥰)… more
+
+View image
+
+228
+
+12
+
+2
+View Aileen Lee’s profile
+Aileen Lee
+
+  • 3rd+
+
+Early stage investor & founder at Cowboy Ventures
+
+1mo • 
+
+
+💡 A framework can be incredibly useful tool to analyze a situation in a new way - and to find new ways to make small, or giant, needle moving improvements 💡
+
+I'm so excited Jon McNeill of DVx Ventures decided to share the 5 step framework he and Elon Musk developed while Jon was President of Tesla - called "the Algorithm" - that helped grow them from an innovative but often cash strapped startup to over $1Tn in value today - and also helped grow SpaceX to the $1Tn+ juggernaut it is today. 
+
+Jon is a ridiculously successful serial entrepreneur, CEO, problem solver and leader, who now sits on the boards of companies like General Motors, lululemon and Asurion, plus he's nice.  
+
+Next week on Tuesday May 19th, excited to host an Enrich virtual community conversation with Jon, where we'll talk about ways founders & operators can reframe their thinking, using the Algorithm - to turbo charge customer delight and company success.
+
+Come join us!  deets here: https://lnkd.in/ghS_UnYB 🤠 🤠 🚀 🚀 … more
+
+
+Conversation with: Jon McNeill (DVX Ventures + Author of The Algorithm) & Aileen Lee (Cowboy Ventures) · Zoom · LumaConversation with: Jon McNeill (DVX Ventures + Author of The Algorithm) & Aileen Lee (Cowboy Ventures) · Zoom · Luma
+
+luma.com
+
+
+13
+
+5
+
+2
+
+Show all posts
+Experience
+Cowboy Ventures logo
+Founder and Managing Partner
+
+Cowboy Ventures · Full-time
+
+Jul 2012 - Present · 14 yrs 1 mo
+
+palo alto, ca
+
+We partner closely with a diversity of innovative, tech driven startups from pre-seed through series E. This includes both enterprise software with AI/ML, vertical SaaS, fintech, marketplaces, consumer e-commerce and more.  Companies i've had the pleasure to support over the years include Bloom Energy, Dollar Shave Club, Guild Education, Hone, Lightstep, Mutiny, NuOrder, Rent the Runway, Tally, Textio, Trendyol and many more.
+
+At Cowboy Ventures, we invest in innovative US-based seed stage technology startup founders and help their companies grow.  We love meeting early stage teams building great software. If you are as early as pre-product or pre-revenue and plan to build a venture-backed software company, we'd to learn more - please email Hello@cowboy.vc to get in touch.… more
+
+All Raise logo
+Chairperson of the Board & Co-Founder
+
+All Raise · Part-time
+
+Mar 2018 - Present · 8 yrs 5 mos
+
+Remote
+
+Massachusetts Institute of Technology logo
+Massachusetts Institute of Technology
+
+Part-time · 6 yrs 4 mos
+
+Cambridge, Massachusetts, United States · Hybrid
+
+Member, Computer Science & Electrical Engineering Visiting Committee 
+
+Apr 2024 - Present · 2 yrs 4 mos
+
+Member, Media Lab Visiting Committee
+
+Apr 2020 - Present · 6 yrs 4 mos
+
+Castilleja School logo
+Member Board of Trustees
+
+Castilleja School
+
+Sep 2018 - Jun 2024 · 5 yrs 10 mos
+
+Palo Alto, California, United States
+
+TIME'S UP logo
+Board Member
+
+TIME'S UP
+
+Apr 2019 - Sep 2021 · 2 yrs 6 mos
+
+Show all
+Education
+Harvard Business School logo
+Harvard Business School
+
+Master of Business Administration (MBA)
+
+1995 – 1997
+
+Activities and societies: Section D President
+Retail & Apparel Club
+WestTrek
+
+Massachusetts Institute of Technology logo
+Massachusetts Institute of Technology
+
+Bachelor of Science (B.S.)
+
+Activities and societies: Class President
+Alpha Phi Sorority
+Varsity Women's Lacrosse
+
+Show all 3 educations
+Skills (11)
+Venture Capital
+
+
+Endorsed by Joel Cutler and 9 others who are highly skilled at this
+
+
+Endorsed by 2 colleagues at Cowboy Ventures
+
+81 endorsements
+
+Start-ups
+
+
+Endorsed by Steve Blank and 50 others who are highly skilled at this
+
+
+Endorsed by 2 colleagues at Cowboy Ventures
+
+99+ endorsements
+
+Show all
+Languages
+Chinese
+
+Interests
+
+Top Voices
+
+Companies
+
+Groups
+
+Newsletters
+
+Schools
+
+Christina Farr 
+
+· 3rd
+
+CEO of Second Opinion and GP at Scrub Capital
+
+184,750 followers
+
+
+Follow
+
+Marianne Cooper 
+
+· 3rd
+
+Senior Research Scholar, Stanford University | LinkedIn Top Voice In Gender Equity | Keynote Speaker | Senior Advisor
+
+500,892 followers
+
+
+Follow
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Antony SalehStatus is online
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.

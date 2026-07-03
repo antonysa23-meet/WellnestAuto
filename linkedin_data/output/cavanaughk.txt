@@ -1,0 +1,653 @@
+0 notifications
+
+
+Home
+8
+My Network
+Jobs
+Messaging
+23
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+Kathryn Cavanaugh
+
+Founder and Managing Partner at Capstar Ventures
+
+
+More
+Connect
+Message
+Cover photo
+Kathryn Cavanaugh
+· 3rd
+
+Founder and Managing Partner at Capstar Ventures
+
+Austin, Texas, United States
+
+·
+
+Contact info
+
+
+Capstar Ventures
+
+
+Harvard Business School
+
+Message
+Connect
+
+More
+Activity
+4,378 followers
+
+
+Follow
+
+Posts
+
+Comments
+Kathryn Cavanaugh
+
+  • 3rd+
+
+Founder and Managing Partner at Capstar Ventures
+
+3h • 
+
+
+I scream, you scream, we all scream for the opening of the MUSEUM OF ICE CREAM in Las Vegas today!🍦 
+
+Congratulations to this incredible team on opening their largest museum to date to bring this playful, social and immersive experience to Las Vegas for all generations to enjoy. 
+
+World's Largest Ice Cream Buffet 🍨 
+Ice Cream Cake Wedding Chapel 💒 
+Largest Sprinkle Pool in the World 🎉 
+
+Tickets are on sale now for MOIC Las Vegas at AREA15.
+https://lnkd.in/gnwaBiqi
+
+Manish V. Maryellis Bunn Jessie Young Carmen Morrell Bob Burns Gabrielle Yacoob Devin Poch John Anderson Branden Muhl William McClelland Hemi Zucker Mark Ribeiro CIM Group Capstar Ventures Elizabeth Street Ventures… more
+
+View Jessie Young’s profile, hiring
+Jessie Young
+
+  • 3rd+
+
+SVP, Brand & Marketing @ Museum of Ice Cream | ex w+k, Eventbrite, Goodby and MAL
+
+2d • Edited • 
+
+3 days. 72 hours. 4,320 minutes. 259,200 seconds until Vegas' sweetest spot opens its doors. 🎲 🍦 🍒 MUSEUM OF ICE CREAM
+
+
+3
+
+​
+
+​
+Kathryn Cavanaugh reposted this
+
+
+View Michael Stoppelman’s profile
+Michael Stoppelman
+
+  • 2nd
+
+Investor, Advisor and former SVP of Engineering @ Yelp
+
+1w • Edited • 
+
+Introducing Marvin (marvin@ccmarvin.com) is an AI agent by ccMarvin (ccmarvin.com) you can email like a human. His goal is to be a helpful research analyst for investors. He’s here to help you get news, research, investor memos, and daily news summaries of your portfolio, sectors, or people on X.
+
+Why did I build Marvin?
+
+A little background on who built Marvin. I did. I’ve been investing professionally as a super angel for 8.5 years. I’ve accumulated a lot of companies, over 250 active companies. Before angel investing I built and ran the engineering team at Yelp for nearly a decade, after that I started investing full-time. Companies like Vercel, Baseten, Namespace, Onebrief, and Benchling. 
+
+How I built Marvin?
+
+As I vibe coded (with Warp, Amp & Claude) I looked for problems to solve, those solutions led to Marvin’s product roadmap. 
+
+The first problem for me? News monitoring for my portfolio, scan X and other sources for all my companies for recent funding, product releases, and deal news and send me a daily update via email.
+
+Example to get started with Marvin, email marvin@ccmarvin.com - “Marvin, can you monitor my portfolio? It has Vercel, SpaceX, Anthropic, OpenAI, Databricks, Andril and Vanta in it.” 
+
+Another common situation — I received a pitch deck and I want a summary of it from an LLM and analysis of it. Now with Marvin, I can just forward the email. 
+
+“Here is a pitch deck, can you use the bessemer memo template and analyze this?” 
+
+Last thing, I want to stay on top of headlines from folks like @sama and @elonmusk but I don’t have time to doomscroll on X, it’s just not a healthy way to spend my day. You can ask Marvin to send you a daily recap from X. 
+
+“Marvin, can you send me a daily newsletter of all the things @sama and @elon are talking about on X for the previous day”  
+
+There are many other things that Marvin can do, you can also ask him.. 
+
+This is my experiment to see if folks like using email for their LLM. Give it a try, just CC marvin@ccmarvin.com.
+
+Technical Details
+
+Marvin is connected to multiple LLM providers under the hood via OpenRouter. For news I’m using xAI’s API and Keenable.ai, if you send in a YouTube video I can get a transcript via the Gemini API, and if you have a deep research query I can do that too. 
+
+Acknowledgments
+
+Special thanks to my friends and colleagues for their feedback and support:
+
+Eytan Elbaz, George Strompolos, Samuel Woldenberg, Ben Austin, Nitay Joffe, Jackie Xu, Jason Mack, Geoff Donaker, Mike Ghaffary, Wendy Lim, Guido Gabrielli, Josh Bruno, May Allen, Raad Michael Mobrem, Bobby Lo, Gert Lanckriet, Ben Chess, Stef Strack, Georg Treu, Christina Melas-Kyriazi, Shouvik Banerjee, Amit Gupta, Josh Solt, Jeremy Stoppelman, Yair Riemer, Ron Rofe… more
+
+View image
+
+148
+
+35
+
+6
+Kathryn Cavanaugh reposted this
+
+
+View Alexis Contos’ profile
+Alexis Contos
+
+  • 2nd
+
+Founder of The Breadwinners | Mother | Angel Investor | Brand Builder
+
+View my newsletter
+
+1mo • Edited • 
+
+"Your brand is what people say about you when you're not in the room."
+
+That was the line that opened my conversation with Kate McAndrew at the Citizens Private Bank Women in Venture Summit in Santa Barbara last week, and across the room, I could see the collective head nodding in agreement.
+
+We were in a room of 100 female GPs & LPs in venture. Smart, accomplished, deeply networked. And the majority of them felt that marketing yourself felt like self-promotion, so they opted out.
+
+My answer: it's all about the reframe. A brand is not a content strategy. It's not a follower count. It's the sum of all touch points you have with your customers. The email you send at 11pm thanking an LP for the lunch. The intro you made to help a founder. How you show up in a room of 10 people you already know. Your brand already exists in the world, the question is whether you're authoring it.
+
+A few things we left the room with:
+
+✨ You already have a brand. The work is moving from one that's accumulated to one that is built with intention, and strategy.
+
+✨ Own what you know. The thing that's unmistakably you, whether you're in a board meeting or a coffee chat, that's where your brand actually lives.
+
+✨ Pick one channel and go hard. Ann Miura-Ko built her brand teaching a class at Stanford. The channel was intimate. The reputation traveled. (shout out to Elisa Schreiber for the advice here!). You don't have to try every channel -- and btw, community building and intimate dinners are a channel! 
+
+✨Treat it like an experiment and go at it consistently. Cringe is cool. Imperfect reps are how this gets built. Commit to testing one thing for 3 months straight. You'll start to see traction if you go all in.
+
+✨ Having POV is not self-promotion. This one is so important: sharing a framework you use or a pattern you're seeing across your portfolio is being useful in public. That's how trust compounds.
+
+Grateful to Caroline Hale and the Citizens Private Bank team for putting on such an incredible event with a beautifully curated group of women. And to Kate for co-hosting a conversation that felt meaningful in so many ways.
+
+And lucky me, I was able to spend time with some of my favorite people, and discovered new friendships with others: Melanie (Mel) Strong, Paige Hendrix Buckner, Vanessa Larco, Helen Min, Lisa Sugar, Jessica Kamada, Tanya Geisler, CPCC, Shaherose Charania, Alex Kearns, Caroline Lewis, Dawn Dobras, Katherine Rice, Kathryn Cavanaugh, Alexandra (Fowler) Loomes, Pam Kostka, Nicole Lacues, Safa Aliabadi
+
+#CitizensPrivateBank #WomenInVenture… more
+
+View image
+1/2
+
+
+132
+
+27
+
+8
+Kathryn Cavanaugh reposted this
+
+
+View Eva Dobrzanska’s profile
+Eva Dobrzanska
+
+  • 3rd+
+
+Head of Investor Relations, Tramlines Ventures | AI Venture studio building companies with shorter liquidity window
+
+Book an appointment
+
+2mo • 
+
+Only 17% of >$750M funds delivered >2.5x return to investors, and yet, the top 30 funds secured 75% of all LP capital deployed in 2024. “Top”… by what metric? 
+
+The average IRR for a large VC fund is 9.7%, compared to 17.4% for smaller funds. 
+
+Genuinely seems like most LPs are backing the worst-performing tier in the market, and doing so with increasing conviction.
+
+And there are consequences. When the same 30 firms control 75% of the capital and all chase the same thesis, you lose the conditions that produce contrarian thinking. 
+
+At that point, investing stops being about identifying the best deal and starts becoming a Keynesian beauty contest: you’re not picking the winner you believe in, you’re trying to guess what everyone else will pick, and then picking that.
+
+#LP #vcmetrics #venturecapital… more
+
+View image
+
+102
+
+19
+
+7
+Kathryn Cavanaugh reposted this
+
+
+View Reese Witherspoon’s profile
+Reese Witherspoon
+
+  • 3rd+
+
+Founder | Award-Winning Actress & Producer | New York Times Bestselling Author 
+
+2mo • 
+
+Avoid the bottom third. 
+
+While training for a movie where I played a professional softball player, I had the privilege of working with a 12-time NCAA championship coach, Sue Enquist. She taught me a lesson I’ve carried ever since: the rule of thirds.
+
+A third of the people you meet will lift you up. They’ll believe in your dreams and encourage you to keep going. A third will be neutral - you won’t impact them, and they won’t impact you. And a third will try to pull you down - mentally, physically, and spiritually. Avoid these people at all costs.
+
+Be mindful of where you spend your time and energy. Because who you surround yourself with can shape everything.… more
+
+
+6,457
+
+321
+
+357
+Kathryn Cavanaugh reposted this
+
+
+View Lee McCabe’s profile
+Lee McCabe
+
+  • 3rd+
+
+Private Equity, Digital Value Creation, Board Member, Investor
+
+9mo • 
+
+LinkedIn has become the platform of mid virtue.
+
+Scroll for five minutes and you’ll spot the archetypes:
+
+The Hustle Bro
+“Woke up at 4am, ran 10 miles, closed a deal before breakfast. Discipline = freedom.”
+
+The Corporate Monk
+“My 7-year-old said something profound about kindness… and it changed how I lead.”
+
+The Engagement Farmer
+“Comment ‘playbook’ and I’ll DM you my secret strategy.” (Spoiler: there is no playbook.)
+
+The Humblebrag Hero
+“Honored, humbled, and thrilled to announce… [insert generic promotion].”
+
+The Platitude Machine
+“Fail fast. Be authentic. Grit wins.” (Groundbreaking.)
+
+The Humanizer
+“My team is my family. Yesterday I spilled my morning coffee, and it reminded me about resilience in business.” (Please.)
+
+The Suffering Success Story
+“I built a $50M ARR business, scaled to hundreds of employees… but deep down, I was miserable.” (Humblebrag wrapped in therapy-speak.)
+
+This isn’t insight. It’s theatre.
+This isn’t authenticity. It’s performance.
+This isn’t a business platform. It’s Instagram with blazers.
+
+Meanwhile, the people who actually build companies, run turnarounds, and create value are drowned out by influencer-scented filler.
+
+So here’s the ask:
+	•	If you’re in the arena, share the bruises and the playbooks.
+	•	If you’ve got numbers, post them.
+	•	If your take is contrarian, stop watering it down.
+	•	And if you’re here to farm likes with another “3 lessons from spilling my latte”  maybe sit this one out.
+
+LinkedIn doesn’t need more influencers. It needs more operators. The middle of this platform is crowded. The edges are wide open.
+
+Enough mid. Time to shake this place up.
+
+#ClaymorePartners #PrivateEquity #Leadership #ValueCreation… more
+
+
+6,865
+
+1,011
+
+199
+Kathryn Cavanaugh
+
+  • 3rd+
+
+Founder and Managing Partner at Capstar Ventures
+
+1yr • 
+
+
+What an incredible 20th HBS Reunion!
+
+In 2003, I moved back to the US to attend HBS after six years working abroad as a chemical engineer building a large scale manufacturing facility for Merck. Living as an expat in London and Singapore was incredible but I knew it was time to return to the States and expand my career beyond engineering (and hard hats!)
+
+I chose HBS for its academic excellence, global student body, and international reach. My two years at HBS were transformative-launching my 20 year career in venture capital while creating lifelong friendships that continue to flourish today. It was wonderful reconnecting last weekend with dear friends from over 15 countries across six continents. So many heartfelt conversations about our lives then and now.
+
+Thank you to Josh Lerner, Noah Kindler, Brigitte Castaing Addimando, Kian Gohar, and Janet Simpson Benvenuti for leading meaningful discussions on the state of VC, AI for business leaders (I will continue to say please and thank you!), frameworks for reflecting on what truly matters in life, and navigating the journey with aging parents. 
+
+Twenty years later, I’m reminded why HBS remains such a gift—the friendships, the continued learning, and the global perspectives that continue to enrich my life. Very grateful!
+
+#HBSReunion #HarvardBusinessSchool… more
+
+View image
+1/8
+
+
+220
+
+6
+
+​
+Kathryn Cavanaugh reposted this
+
+
+View Samir Kaji’s profile
+Samir Kaji
+
+  • 2nd
+
+CEO @ Allocate and Host of Venture Unlocked
+
+1yr • Edited • 
+
+🚩 PSA: Venture is an asset class that simply doesn’t behave like other private market categories.
+
+Applying the same portfolio approach as in PE or private credit doesn’t work in VC — yet we've seen investors make this mistake for decades.
+
+Most investors understand that VC is a buyer-beware asset class and arguably the hardest to get consistently right across cycles (power law behavior/characteristics are a significant contributor). Despite being a rapidly growing space (~$3T in NAV), it might be the only asset where investors typically and consistently want both intellectual stimulation (active participation) and appropriate returns. But achieving both is extremely difficult without a significant time commitment.
+
+VC has the widest return dispersion of any major asset class, with a ~19% gap in net IRR between top and bottom quartile funds. In most vintage years, only the top 10–20% of funds deliver the level of outperformance needed to justify the higher risk (think 2.5–3x+ with 20–25 %+ net IRRs) relative to other asset categories. Unlike institutions, most individuals are less concerned about filling asset buckets or correlations, but rather focused on return.
+
+Yet despite being the most difficult asset classes to navigate, many sophisticated (or not) investors go at it alone, often underestimating the time and network required to access and select fund managers or co-investments that could outperform.
+
+Without committing serious time, investors are far more likely to end up with average or below-average managers who produce beta-like or worse returns rather than the alpha they’re seeking.
+
+With over 4,000 VC managers globally, consistently finding the top 10–20% really does require time, network depth, expertise, and access to high-fidelity, trusted circles — not the limited and surface-level networks many rely on.
+
+Time and time again, I've seen investors suffer from illiquidity and poor returns simply because they underestimated the need to dedicate time. Often, these investors walk away thinking, “VC is a bad asset class.” The asset class admittedly has some serious flaws, but the biggest challenge is adverse selection and the difficulty of winning (which is why the dispersion is so high).
+
+However, the rub is that when it comes to time, VC usually represents <10% of portfolios, yet achieving consistent success often requires 80–90% of their time. The dispersion, lack of transparency, and access constraints make venture fundamentally incompatible with a passive or part-time approach. In many ways, venture is the inverse of how most investors allocate time and capital.
+
+Returns and experience don’t have to be mutually exclusive, but they often are. To consistently achieve both, investors must commit serious time to building relationships, seeing hundreds (if not thousands) of opportunities, and developing true pattern recognition.… more
+
+
+243
+
+25
+
+13
+Kathryn Cavanaugh
+
+  • 3rd+
+
+Founder and Managing Partner at Capstar Ventures
+
+1yr • Edited • 
+
+
+I'm thrilled to announce the first investment for Capstar Ventures Fund II. 
+
+In November 2024, Jaclyn Freeman Hester of Foundry introduced me to Hilary Dubin and Caroline Vasquez Huber to learn about what they are building at Quit With Jones. They created Jones after their own struggles to quit vaping. Their firsthand experience led them to reimagine nicotine cessation, building a judgment-free, design-driven platform that combines personalized nicotine replacement therapy and behavioral support with a vibrant digital community. 
+
+Jones meets users where they are, celebrates progress over perfection, and brings authenticity, empathy, and innovation to a space that desperately needs it. 
+
+The result? Rapid growth, a product and digital experience that resonates with a new generation of quitters and a passionate community.
+
+Hilary and Caroline perfectly embody our thesis of backing founders who are solving their own pain points and who directly relate to and resemble their customer. Their authenticity resonates with today’s consumers, resulting in strong organic customer acquisition and a loyal following of evangelists. 
+
+We are excited to partner with Hilary Dubin and Caroline Vasquez Huber as they continue to scale Quit With Jones and are thrilled to invest alongside Foundry, Felix Capital, Founder Collective, NextView Ventures, NYU Entrepreneurial Institute and Dorm Room Fund.
+
+https://lnkd.in/efP9Ue8Y… more
+
+View Hilary Dubin’s profile
+Hilary Dubin
+
+  • 3rd+
+
+Co-Founder & Co-CEO at Jones | Forbes 30U30
+
+1yr • Edited • 
+
+I'm thrilled to share Jones' recent feature in Forbes and announce the close of our $10M+ Series A led by Foundry. Thank you to our fantastic new investors at Capstar Ventures and Felix Capital & continued support from partners at Founder Collective, NextView Ventures, NYU Entrepreneurial Institute and Dorm Room Fund. We can’t wait to continue building Jones together ❤️ Huge shoutout to Caroline Vasquez Huber and our Jones team for all the amazing work you do to support our #quitters. 
+
+Finally, thank you to Will Yakowicz for sharing our story from the embarrassing start of my JUUL addiction to this huge milestone. Lot's of exciting things to come!
+
+https://lnkd.in/efP9Ue8Y… more
+
+View image
+
+200
+
+21
+
+2
+Kathryn Cavanaugh reposted this
+
+
+View Vanessa Larco’s profile
+Vanessa Larco
+
+  • 2nd
+
+Formerly Partner @ NEA | Early Stage Investor in Category Creating Companies
+
+1yr • 
+
+Not everyone is bullish on consumer-focused companies - but they should be.
+
+I know that’s not exactly the prevailing sentiment in VC right now. But I see things differently.
+
+Every time a major wave of consumer companies has emerged, two things have been true:
+
+1️⃣ A massive tech breakthrough
+2️⃣ A dramatic shift in consumer behavior
+
+Think about mobile. The tech breakthrough was the smartphone. The behavior shift? People suddenly had a computer in their pocket, and the way they engaged with technology changed overnight. 
+
+That combination led to an explosion of new consumer products - apps, platforms, and even entirely new industries.
+
+Right now, another wave is gathering.
+
+1️⃣ The tech breakthrough: Generative AI.
+2️⃣ The behavior shift: consumers are turning to GenAI apps to answer questions, synthesize information and create content. 
+
+PLUS: there’s unprecedented adoption - consumers are engaging with AI at lightning speed, integrating this tech across all aspects of business and personal projects.
+
+These conditions aligning means the next generation of incredible consumer companies is on its way.
+
+I’m looking for founders who see this moment for what it is - an opportunity.
+
+If you’re building new consumer experiences, rethinking how people interact with technology, or creating entirely new categories of products and services, I want to hear from you.
+
+The conditions are right. The moment is now. Who’s ready to ride this wave? 
+… more
+
+
+125
+
+20
+
+2
+
+Show all posts
+Experience
+Capstar Ventures logo
+Founder and Managing Partner
+
+Capstar Ventures
+
+Jan 2019 - Present · 7 yrs 7 mos
+
+Capstar Ventures is an early stage venture capital firm that invests in the next generation of innovative consumer companies solving real pain points. With $50M+ AUM, we invest in passionate founders solving their own pain points who directly relate to and resemble their customer. We invest in revenue generating companies building products, services, technologies, and experiences that address unmet consumer needs in today’s rapidly changing consumer landscape. 
+
+We leverage diverse operating and investing expertise as well as extensive global networks to support early stage founders on their journey from start to scale. We capitalize stars.
+
+www.capstarventures.com… more
+
+Thumbnail for Capstar Ventures Portfolio Companies as of Q4 2025.pdf
+Intraloop logo
+Board Observer
+
+Intraloop
+
+Dec 2025 - Present · 8 mos
+
+Quit With Jones logo
+Board Observer
+
+Quit With Jones
+
+Apr 2025 - Present · 1 yr 4 mos
+
+New York, United States
+
+meetperry logo
+Member
+
+meetperry
+
+Mar 2024 - Present · 2 yrs 5 mos
+
+The Monday Group LLC logo
+Member
+
+The Monday Group LLC
+
+Jun 2024 - Present · 2 yrs 2 mos
+
+Show all
+Education
+Harvard Business School logo
+Harvard Business School
+
+MBA
+
+2003 – 2005
+
+University of Notre Dame logo
+University of Notre Dame
+
+BS, Chemical Engineering
+
+Activities and societies: Division I Women’s Varsity Lacrosse Team.  Selected to Notre Dame Monogram Club for athletic and academic accomplishments.
+
+Show all 3 educations
+Skills (15)
+Start-ups
+
+
+Endorsed by Robert Jordan and 17 others who are highly skilled at this
+
+
+Endorsed by 2 colleagues at Merck
+
+72 endorsements
+
+Venture Capital
+
+
+Endorsed by Lisa Suennen and 6 others who are highly skilled at this
+
+47 endorsements
+
+Show all
+Organizations (3)
+Private Equity Women Investor Network (PEWIN)
+
+Member · Aug 2017 – Present
+
+PEWIN is an invitation-only group for women who hold senior investment roles in their respective organizations. PEWIN provides an intimate forum for senior women general partners, limited partners and private equity professionals to network, share investment ideas, explore potential opportunities to work together and increase the profile of female leaders in the industry. 
+… more
+
+Medtech Women
+
+Founding Member · Jun 2011 – Jun 2016
+
+Medtech Women is an organization comprised of innovators in the medical technology sector, including executives, founders, investors, physicians, and experts in new product innovation and commercialization, all of whom are leaders seeking to advance healthcare.
+
+http://medtechwomen.org/… more
+
+Show all 3 organizations
+Interests
+
+Companies
+
+Groups
+
+Newsletters
+
+Schools
+
+LinkedIn Guide to Creating, CompanyLinkedIn Guide to Creating
+
+8,083,726 followers
+
+
+Follow
+
+Alumni Ventures, CompanyAlumni Ventures
+
+79,556 followers
+
+
+Follow
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Antony SalehStatus is online
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.

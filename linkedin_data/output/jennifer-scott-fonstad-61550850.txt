@@ -1,0 +1,661 @@
+0 notifications
+
+
+Home
+8
+My Network
+Jobs
+Messaging
+23
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+
+Jennifer Scott Fonstad
+
+Owl Capital Managing Partner
+
+
+More
+
+Follow
+Message
+
+Jennifer Scott Fonstad
+· 3rd
+
+Owl Capital Managing Partner
+
+Palm Beach, Florida, United States
+
+·
+
+Contact info
+
+
+Owl Capital
+
+
+Harvard Business School
+
+500+
+
+connections
+
+Message
+
+Follow
+
+More
+Activity
+1,364 followers
+
+
+Follow
+
+Posts
+
+Comments
+
+Images
+View Jennifer Scott Fonstad’s profile
+Jennifer Scott Fonstad
+
+  • 3rd+
+
+Owl Capital Managing Partner
+
+11mo • 
+
+
+Honored to be a part of the Forbes 50 over 50 2025
+#ForbesOver50
+
+View image
+
+153
+
+66
+
+​
+View Jennifer Scott Fonstad’s profile
+Jennifer Scott Fonstad
+
+  • 3rd+
+
+Owl Capital Managing Partner
+
+1yr • 
+
+
+Huge congratulations to May Habib, Waseem Alshikh and the whole Writer team on their debut at #22 as a 2025 CNBC Disruptor!
+
+View image
+
+16
+
+1
+
+​
+View Jennifer Scott Fonstad’s profile
+Jennifer Scott Fonstad
+
+  • 3rd+
+
+Owl Capital Managing Partner
+
+1yr • 
+
+
+Thank you Bill Kelly for a great conversation on Educational Alpha this week!
+
+Direct Spotify URL: https://bit.ly/45M5syS
+Apple: https://lnkd.in/gTY9eP_j
+… more
+
+View image
+
+39
+
+4
+
+​
+View Jennifer Scott Fonstad’s profile
+Jennifer Scott Fonstad
+
+  • 3rd+
+
+Owl Capital Managing Partner
+
+1yr • 
+
+
+Incredible accomplishment by team @Writer - 3X faster and 4X cheaper while delivering end to end solutions for the enterprise - watch the video!… more
+
+View May Habib’s profile
+May Habib
+
+  • 2nd
+
+CEO of WRITER | Enterprise generative AI | Hiring in ML, eng, design, mktg, sales + CS
+
+1yr • 
+
+When we launched AI HQ a couple weeks ago — the first enterprise-grade end to end platform for building and scaling agents — a CIO in financial services who I've known for a while reached out to me re one of the demos we showed in the launch event. 
+
+(It was the awesome fund reporting orchestration that Deep Ratna Srivastav and the incredible team at Franklin Templeton built in our agentic beta.)
+
+The essence of our conversation was “If that demo was real – then there’s no way it was accurate/high quality; and if high quality, no way it was as fast as you showed it. Plus, right now, based on what we’re seeing, agentic like that costs more than humans doing the same job.” 
+
+And what I told him privately is what we're telling everyone today — it was the new Palmyra X5 powering the agents that we launched. 
+
+And as of TODAY — that model is now on Amazon Web Services (AWS) Bedrock — our partner in bringing enterprise grade generative AI to financial services and beyond. 
+
+With Palmyra X5 customers are getting SOTA performance 3x faster than other models — and 4x cheaper. 
+
+Why does that matter for agents? 
+
+Agentic work orchestrations requires real-time agentic collaboration between multiple tools, parallel agents working on complex tasks, and massive document inputs without brittle chunking hacks. 
+
+Palmyra X5 can process a full million-token prompt in ~22 seconds and fire off multi-turn function-calls in ~300 milliseconds, while costing 3–4× less than GPT-4.1. Those two numbers—speed and price—unlock agent behaviors that were previously cost- or time-prohibitive.
+
+And a single call can hold every prompt, retrieved doc, and JSON tool response, eliminating brittle chunking logic.
+
+For a while we called it the 'RAG killer' in house  — RAG still incredibly powerful tool in the tool belt but no question for many use cases our approach to this massive context window simplifies the approach for agentic AI. 
+
+Put simply, X5 brings the low latency of a chat model to workflows that involve thousands of pages, dozens of tool calls, and complex memory - Palmyra X5 is the perfect fit for building scalable agents. 
+
+🤝 Thanks to our incredible partnership with @Amazon Web Services (AWS), X5 is available TODAY on AWS Bedrock as well as the Writer platform. 
+
+Learn more about Bedrock here: https://lnkd.in/gVyJRVfu
+
+And thank you Caroline Hyde for having me on today to talk about Palmyra X5 and our partnership with the Amazon Web Services (AWS) team. … more
+
+
+
+
+16
+
+1
+
+​
+View Jennifer Scott Fonstad’s profile
+Jennifer Scott Fonstad reposted this
+
+
+View May Habib’s profile
+May Habib
+
+  • 2nd
+
+CEO of WRITER | Enterprise generative AI | Hiring in ML, eng, design, mktg, sales + CS
+
+1yr • 
+
+Salesforce walks the talk when it comes to enterprise AI — and that includes how they are reimagining their own mission-critical internal operations.
+
+I am SO excited to share this new video and case study on how Salesforce is using Writer to reinvent their GTM workflows with our full-stack platform.
+
+When we talk about DELIVERING on the promise of AI transformation, this is what we mean:
+
+💥 Mission-critical use cases: To support the launch of Agentforce, the team built an important messaging tool the whole company ended up using with Writer's AI Studio and Knowledge Graph —  and it took a total of 15 minutes to build
+
+💥 ROI: One work day saved per person per week, with that time now spent on intensifying market impact and sales enablement 
+
+💥 Adoption: 3,000 active users, including 50 champions using Writer's AI Studio to build new apps for their teammates
+
+💥 Change management: "The Writer team really acts as strategic advisors for us. We've run prompt writing workshops, hackathons, tool training, they've advised on best practices and so much more.”
+
+Shoutout to Salesforce leaders Ariel Kelman Patrick Stokes Jessica (Strecker) Bergmann Dean Atchison Annemaria Nicholson. THANK YOU for your incredible leadership and strategic vision. We absolutely LOVE working with you and your teams!
+
+ Case study: https://lnkd.in/grCCkN2q
+
+Full video: https://lnkd.in/gaAH-bf9… more
+
+
+
+
+341
+
+12
+
+28
+View Jennifer Scott Fonstad’s profile
+Jennifer Scott Fonstad
+
+  • 3rd+
+
+Owl Capital Managing Partner
+
+1yr • 
+
+
+Deep gratitude to the American Red Cross, the amazing work they do, and the commitment of the team there supporting communities across the globe.  It's an honor to be representing the Red Cross at the International General Assembly in Geneva next week.  Thank you!… more
+
+View company: American Red Cross
+American Red Cross
+
+ 
+
+1yr • 
+
+“After a series of wildfires in California, I found myself looking for a way to support my community locally. The Red Cross kept coming up everywhere I looked — from wildfires to hurricanes. I was drawn to the deeply local work. Many issues, like climate and sustainability, require both local solutions and global partnerships. The Red Cross is one of the few organizations that truly engages frontline disaster recovery and community sustainability both locally and across the world.”
+
+We're excited to share that Jennifer Fonstad has been selected to be our Head of Delegation for the upcoming International Federation of Red Cross and Red Crescent Societies - IFRC General Assembly! She is a passionate entrepreneur and has been a key advisor of our climate crisis efforts.
+
+When Jennifer attends the General Assembly meeting, she'll join representatives from Red Cross and Red Crescent societies around the world. They will work together to determine the IFRC’s priorities for the next two years.
+
+Thank you, Jennifer, and good luck!… more
+
+View image
+1/2
+
+
+122
+
+21
+
+2
+View Jennifer Scott Fonstad’s profile
+Jennifer Scott Fonstad reposted this
+
+
+View May Habib’s profile
+May Habib
+
+  • 2nd
+
+CEO of WRITER | Enterprise generative AI | Hiring in ML, eng, design, mktg, sales + CS
+
+2yr • 
+
+Prediction: 90% of the software you’ll be using in five years hasn’t been written yet. 
+
+And enabled by improving SOTA LLMs, no-code or low-code AI app and workflow builders, and the coming enterprise-grade accuracy of AI agents for decision-making and action-taking — it will be you or someone on your team who did the software writing.
+
+
+191
+
+16
+
+3
+View Jennifer Scott Fonstad’s profile
+Jennifer Scott Fonstad
+
+  • 3rd+
+
+Owl Capital Managing Partner
+
+2yr • 
+
+
+Super proud of the Writer team including May Habib and Waseem Alshikh for the launch of Writer AI Studio
+
+View May Habib’s profile
+May Habib
+
+  • 2nd
+
+CEO of WRITER | Enterprise generative AI | Hiring in ML, eng, design, mktg, sales + CS
+
+2yr • 
+
+📣 I couldn’t be more excited to announce the launch of Writer AI Studio, our new suite of development tools that empowers both business users and developers to harness the full potential of generative AI. 
+
+With Writer AI Studio, we're breaking down the barriers that have held back the widespread adoption of generative AI in the enterprise. 🚀
+
+Now, business users who possess the data, know-how, and context can seamlessly collaborate with AI engineers to build AI apps and workflows that drive real business impact. 
+
+For the past 2+ years, our enterprise customers have told us that they get to QUALITY and PRODUCTION faster with Writer than with any other generative AI company, across a broad range of use cases. 
+
+Getting to quality and accuracy is about data, prompt management, continuous upkeep, business context, and COLLABORATION — and with this release, we've made it easy for anyone to have access to these features. 
+
+Writer customers using AI Studio in beta have already deployed hundreds of highly customized AI apps to drive business value. These apps range from knowledge assistants connected to company data to campaign automation apps that generate a suite of launch assets from a single input PPT, to RFP apps that can streamline operational workflows.
+
+Here's a glimpse of what Writer AI Studio offers:
+
+✅ No-code tools: Non-technical users can easily build apps that automate workflows, generate assets, or answer questions using company data. We've taken the hardest parts of building AI apps and workflows and turned them into easy-to-use building blocks that can be used by anyone.
+
+✅ Writer AI Studio API: API endpoints for integrating Writer's generative AI technology into existing apps or services, with SDKs available for Python and TypeScript.
+
+Our customers have already integrated hundreds of highly customized AI apps using Writer AI Studio in beta, things like digital assistants built into a support agent desktop app and end to end campaign management in a CMS app. 
+
+✅ Writer framework: An OPEN-SOURCE framework that enables developers to quickly create feature-rich AI apps with a visual editor and an extensible Python backend. 
+
+We have to get BEYOND the chat app for the majority of AI apps and workflows. The Writer framework is a result of our acquisition of Streamsync, and I'm so excited to officially welcome Ramiro Medina and the Streamsync team to Writer! 
+
+The powerful framework empowers developers to create feature-rich AI apps fully integrated with the Writer AI platform.
+
+Together, these advancements bring the full power of our Palmyra LLMs and the Writer platform to developers' fingertips.
+
+Today is big step forward in our vision to empower people and transform work. Innovation can come from all corners of an enterprise, and generative AI has dramatically reshaped who can be a builder.
+… more
+
+
+
+
+5
+
+​
+
+​
+View Jennifer Scott Fonstad’s profile
+Jennifer Scott Fonstad
+
+  • 3rd+
+
+Owl Capital Managing Partner
+
+2yr • 
+
+
+Appreciating the amazing work of the Red Cross working on the front lines of every disaster in our community
+
+View company: American Red Cross Northern California Coastal Region
+American Red Cross Northern California Coastal Region
+
+2yr • Edited • 
+
+Thank you to The Battery in San Francisco for hosting us last night for a robust discussion on the Future of Disaster Relief. The speakers, Adrienne Alberts, Chief Diversity Officer, American Red Cross; Kimberly Lawrence, President, Visa; and Jennifer Scott Fonstad, Owl Capital, did an incredible job sharing the innovative solutions and partnerships needed in the face of the rise in billion-dollar disasters.… more
+
+View image
+1/2
+
+
+17
+
+1
+
+​
+View Jennifer Scott Fonstad’s profile
+Jennifer Scott Fonstad
+
+  • 3rd+
+
+Owl Capital Managing Partner
+
+6yr • 
+
+
+Excited to announce that Michael Vaughan has joined me on the Stem Board of Directors!
+
+
+… more
+
+Stem Welcomes former Venmo COO Mike Vaughan to its Board of DirectorsStem Welcomes former Venmo COO Mike Vaughan to its Board of Directors
+
+stem.is
+
+
+36
+
+​
+
+​
+
+Show all posts
+Experience
+Owl Capital logo
+Managing Partner
+
+Owl Capital
+
+Aug 2019 - Present · 7 yrs
+
+San Francisco Bay Area
+
+Harvard Business School logo
+Executive Fellow
+
+Harvard Business School
+
+Aug 2022 - Present · 4 yrs
+
+Mastercard Foundation logo
+Board Member
+
+Mastercard Foundation
+
+Jun 2018 - Present · 8 yrs 2 mos
+
+The Mastercard Foundation is a $40B Foundation focused on creating 30MM jobs in Africa by 2030.  The Foundation began implementing this strategy in 2018 recognizing that over half of the world's youth population will be based in Africa over the next 30 years.… more
+
+Aspect Ventures logo
+Managing Partner
+
+Aspect Ventures
+
+2014 - Present · 12 yrs 7 mos
+
+Draper Fisher Jurvetson logo
+Managing Director
+
+Draper Fisher Jurvetson
+
+Aug 1997 - Feb 2014 · 16 yrs 7 mos
+
+Show all
+Education
+Harvard Business School logo
+Harvard Business School
+
+Master of Business Administration (MBA)
+
+1996 – 1997
+
+Georgetown University logo
+Georgetown University
+
+Bachelor of Science (BS)
+
+1984 – 1988
+
+Skills (15)
+Angel Investing
+
+
+Endorsed by Eric Tilenius who is highly skilled at this
+
+
+Endorsed by 2 colleagues at Bain & Company
+
+9 endorsements
+
+Private Equity
+
+
+Endorsed by 2 colleagues at Bain & Company
+
+6 endorsements
+
+Show all
+Interests
+
+Top Voices
+
+Companies
+
+Newsletters
+
+Schools
+
+Betsy (Elizabeth) Corcoran 
+
+· 3rd
+
+Strategist. Writer. Entrepreneur.
+
+150,028 followers
+
+
+Follow
+
+More profiles for you
+
+Raj Atluru 
+
+· 3rd
+
+Managing Partner at Activate Capital
+
+Message
+
+Emily Melton 
+
+· 3rd
+
+Founder and Managing Partner at Threshold Ventures
+
+Message
+
+John H. N. Fisher
+
+· 3rd
+
+Managing Partner at DFJ (fka Draper Fisher Jurvetson)
+
+Message
+
+Josh Stein 
+
+· 3rd
+
+Founder and Managing Partner at Threshold Ventures  |  Early-stage VC partnering with visionary founders at the threshold of explosive growth
+
+
+Follow
+
+Niklas Zennström 
+
+· 3rd
+
+CEO of Atomico, Founder of Skype, etc
+
+
+Follow
+Show all
+People you may know
+From Jennifer's industry
+
+
+Jack Vu
+
+· 2nd
+
+math & cs @ rice
+
+Connect
+
+Chelsea Tan
+
+· 3rd+
+
+Student at Dalat International School
+
+Connect
+Joud Nasser
+
+· 2nd
+
+Y3 Student@MEET & Engineering Student
+
+Connect
+Kenji Esguerra
+
+· 3rd
+
+Student at Morse High School
+
+Connect
+
+Akul Mittal
+
+· 2nd
+
+Student at Rice University
+
+Connect
+Show all
+You might like
+Newsletters for you
+
+The Monthly AI Recap
+The Monthly AI Recap
+
+A curated look at the biggest AI news, updates and breakthroughs from Google.
+
+Published monthly
+
+Google
+Google
+
+
+Subscribe
+Technology & Innovation News
+Technology & Innovation News
+
+Stay ahead of the curve with curated insights on breakthrough technologies and industry trends.
+
+Published biweekly
+
+Siemens
+Siemens
+
+
+Subscribe
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Antony SalehStatus is online
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.
