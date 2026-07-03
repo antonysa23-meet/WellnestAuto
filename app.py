@@ -234,11 +234,17 @@ def compose_email():
         "for a short call.\n"
         "5. Sign off simply (e.g. 'All the best, Zina') - no formal signature block unless the "
         "reference examples show one.\n\n"
-        "No subject line. Match the reference examples' length (roughly 120-220 words) rather "
+        "Match the reference examples' length (roughly 120-220 words) rather "
         "than a fixed word count. Reference specific, concrete details rather than generic, don't use any form of dashes "
         "flattery. Match any additional writing instructions given below exactly.\n\n"
         "If (and only if) you refernce someone from the the team of Wellnest, use their full name and title (e.g. 'reproductive endocrinologist Dr. Sarah Bjorkman') rather than just first name or title.\n\n"
-        f"REFERENCE EXAMPLES (match this voice and structure, with different content):\n{COMPOSE_EMAIL_EXAMPLES}"
+        "Also write a subject line: short (4-8 words), thematic and specific to the actual bridge you "
+        "used in this email - not a generic greeting. Style examples: 'Fertility meets healthspan "
+        "investing', 'Two women building at early stage', 'Women-led funds, shared thesis', 'Deep tech "
+        "meets healthcare access'. No punctuation-heavy clickbait, no 'Quick question'.\n\n"
+        f"REFERENCE EXAMPLES (match this voice and structure, with different content):\n{COMPOSE_EMAIL_EXAMPLES}\n\n"
+        "Respond with ONLY a JSON object: {\"subject\": string, \"body\": string}. No markdown code "
+        "fences, no ```json wrapper, no explanation before or after."
     )
 
     user_prompt = f"""
@@ -258,11 +264,18 @@ Contact name: {contact_name}
 Writing instructions / context from founder:
 {context or "No additional instructions provided - default to the tone of the reference examples."}
 
-Return ONLY the email body, no subject line.
+Return the JSON object now.
 """
 
-    email_text = call_claude(system_prompt, user_prompt, max_tokens=600)
-    return jsonify({"output": email_text})
+    raw = call_claude(system_prompt, user_prompt, max_tokens=700)
+    raw_stripped = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw.strip())
+    try:
+        email = json.loads(raw_stripped)
+        if not isinstance(email, dict) or "body" not in email:
+            raise ValueError("unexpected shape")
+    except (ValueError, TypeError):
+        email = {"subject": "Following up", "body": raw.strip()}
+    return jsonify({"output": email})
  
  
 if __name__ == "__main__":
