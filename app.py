@@ -174,16 +174,16 @@ EXAMPLE 3:
 Hi Sonia, Your thesis at 100 Plus Capital that healthspan, not just lifespan, is where the real opportunity lies is one I find deeply compelling. Your work at Portfolia investing in women's health and preventative care maps closely to what we're building. I'm Zina, Managing Director at Downing Capital Group, where we invest $1-10M to build early-stage businesses ourselves across healthcare, e-commerce, cybersecurity, and more. We're operators that build alongside founders. One of my most exciting current investments is Wellnest, a fertility clinic platform opening access to fertility care for women. Fertility sits at a fascinating intersection of healthspan and underserved populations, as we're seeing the effects of delaying family building on women. I'd love to find 20 minutes to compare notes on fertility, on women's health investing, and on what the next few years look like at the intersection of biology and technology. Are you open to connecting? All the best,
 
 EXAMPLE 4:
-Hi Shalanda, What you've built with 100KM Ventures is the kind of investor-operator combination I deeply respect - love that you're investing in women at early stages. I'm Zina, Managing Director at Downing Capital Group. We invest $1-10M to build early-stage businesses ourselves across healthcare, e-commerce, cybersecurity, and adjacent sectors. One of my current favorite investments is Wellnest, a fertility clinic platform expanding access to fertility care for women. It's a business I'm personally passionate about - healthcare access for women is long overdue for a rethink, and even cooler, 12 out of the 13 team members are women. I'd love to connect and compare notes on what you're seeing at early stage, share deal learnings, and explore where our perspectives overlap. Would you be open to a quick call? All the best, Zina
+Hi Shalanda, What you've built with 100KM Ventures is the kind of investor-operator combination I deeply respect, and I love that you're investing in women at early stages. I'm Zina, Managing Director at Downing Capital Group. We invest $1-10M to build early-stage businesses ourselves across healthcare, e-commerce, cybersecurity, and adjacent sectors. One of my current favorite investments is Wellnest, a fertility clinic platform expanding access to fertility care for women. It's a business I'm personally passionate about, since healthcare access for women is long overdue for a rethink, and even cooler, 12 out of the 13 team members are women. I'd love to connect and compare notes on what you're seeing at early stage, share deal learnings, and explore where our perspectives overlap. Would you be open to a quick call? All the best, Zina
 
 EXAMPLE 5:
 Hi Shelley, Your work at 11.2 Capital investing in deep tech caught my attention. I love seeing women lead the way in deep tech investments! I'm Zina, Managing Director at Downing Capital Group, where we invest $1-10M to build early-stage companies ourselves across healthcare, e-commerce, cybersecurity, and quite a few other businesses. We're operator investors as we build the businesses ourselves. One of my favorite current investments is Wellnest, a fertility clinic platform opening access to fertility care for women. As technology reshapes what's possible in healthcare delivery, I think there's a compelling intersection with the kind of deep tech bets you're making. I'd love to connect and trade notes on the technologies you're most excited about, on the healthcare opportunities you see, and on where deep tech and care delivery might converge. Would you be open to a 20 minute call? All the best, Zina
 
 EXAMPLE 6:
-Hi Carmen, What an awesome name for a venture fund. As a short intro, I'm Zina, Managing Director at Downing Capital Group, previously 3x founder, 2 exits. We invest $1-10M to build early-stage businesses ourselves across healthcare, e-commerce, cybersecurity, and more. We operate alongside our portfolio companies - operators first, investors second. One of my current favorite investments is Wellnest, a fertility clinic platform democratizing access to fertility care for women. I'm particularly passionate about businesses that open doors for women who have been overlooked. I'd love to compare notes on where we're each seeing the most compelling early-stage opportunities, and explore if there's deal flow or perspective worth sharing. Would you be open to a quick call? Warmly, Zina
+Hi Carmen, What an awesome name for a venture fund. As a short intro, I'm Zina, Managing Director at Downing Capital Group, previously 3x founder, 2 exits. We invest $1-10M to build early-stage businesses ourselves across healthcare, e-commerce, cybersecurity, and more. We operate alongside our portfolio companies, operators first and investors second. One of my current favorite investments is Wellnest, a fertility clinic platform democratizing access to fertility care for women. I'm particularly passionate about businesses that open doors for women who have been overlooked. I'd love to compare notes on where we're each seeing the most compelling early-stage opportunities, and explore if there's deal flow or perspective worth sharing. Would you be open to a quick call? Warmly, Zina
 
 EXAMPLE 7:
-Hi Emily, AIN Ventures and its focus on early-stage companies is close to what we do every day at Downing Capital Group - I'd love to connect and trade perspectives on where we both see the most interesting opportunities right now. I'm Zina, Managing Director at Downing Capital Group, where we invest $1-10M to build early-stage businesses ourselves across healthcare, e-commerce, cybersecurity, and adjacent sectors. In a previous life I was a 3x founder with 2 exits, and now my work is as an investor and operator. One of our most exciting current investments is Wellnest, a fertility clinic platform opening access to fertility care for women. It's the kind of business that's building something structurally important in healthcare, a sector where access has been far too unequal for far too long. We started this business last year and we're already up to 50+ pregnancies, which is pretty awesome. I'd love to swap notes on what we're each seeing at early stage. Would you be open to a short intro call? All the best, Zina"""
+Hi Emily, AIN Ventures and its focus on early-stage companies is close to what we do every day at Downing Capital Group. I'd love to connect and trade perspectives on where we both see the most interesting opportunities right now. I'm Zina, Managing Director at Downing Capital Group, where we invest $1-10M to build early-stage businesses ourselves across healthcare, e-commerce, cybersecurity, and adjacent sectors. In a previous life I was a 3x founder with 2 exits, and now my work is as an investor and operator. One of our most exciting current investments is Wellnest, a fertility clinic platform opening access to fertility care for women. It's the kind of business that's building something structurally important in healthcare, a sector where access has been far too unequal for far too long. We started this business last year and we're already up to 50+ pregnancies, which is pretty awesome. I'd love to swap notes on what we're each seeing at early stage. Would you be open to a short intro call? All the best, Zina"""
 
 
 @app.route("/compose_email", methods=["POST"])
@@ -221,34 +221,37 @@ def compose_email():
         f"About Wellnest: {WELLNEST_CONTEXT}\n\n"
         "Follow this formula, matching the voice, length, and structure of the reference emails "
         "below exactly:\n"
-        "1. Open with a specific, charasmatic, personalized hook about the recipient - their fund/company, a "
+        "1. Greeting on its own line: 'Hi <FirstName>,' by itself, nothing else on that line.\n"
+        "2. Open with a specific, charasmatic, personalized hook about the recipient - their fund/company, a "
         "stated thesis, a specific portfolio company or board seat, or something notable about "
         "their path. Never generic flattery.\n"
-        "2. Briefly introduce yourself as Zina, Managing Director at Downing Capital Group, with "
+        "3. Briefly introduce yourself as Zina, Managing Director at Downing Capital Group, with "
         "the one-line description of what the firm does.\n"
-        "3. Pitch Wellnest as one of your favorite/most exciting current investments, then bridge "
+        "4. Pitch Wellnest as one of your favorite/most exciting current investments, then bridge "
         "it specifically to something about the recipient - their thesis, portfolio, or stated "
         "focus - using the LinkedIn details provided below. "
         "Optionally weave in one concrete Wellnest detail if it fits naturally.\n"
-        "4. Close with a soft ask to connect, compare notes , or trade perspectives, plus a request "
+        "5. Close with a soft ask to connect, compare notes, or trade perspectives, plus a request "
         "for a short call.\n"
-        "5. Sign off simply (e.g. 'All the best, Zina') - no formal signature block unless the "
-        "reference examples show one.\n\n"
-        "Match the reference examples' length (roughly 120-220 words) rather "
-        "than a fixed word count. Reference specific, concrete details rather than generic, don't use any form of dashes "
-        "flattery. Match any additional writing instructions given below exactly.\n\n"
+        "6. Sign off on its own two lines: 'All the best,' then 'Zina' on the next line - never "
+        "joined on one line, no formal signature block beyond that.\n\n"
+        "Match the reference examples' length (roughly 120-220 words) rather than a fixed word "
+        "count. Reference specific, concrete details rather than generic flattery. Match any "
+        "additional writing instructions given below exactly.\n\n"
+        "Never use dashes of any kind (hyphen used as a connector, en dash, em dash) as sentence "
+        "punctuation or an aside. Use a period, comma, or a word like 'and'/'which' instead. "
+        "(Hyphens inside a single word like 'early-stage' or 'founder-turned-investor' are fine - "
+        "it's dashes used to join clauses that are not allowed.)\n\n"
         "If (and only if) you refernce someone from the the team of Wellnest, use their full name and title (e.g. 'reproductive endocrinologist Dr. Sarah Bjorkman') rather than just first name or title.\n\n"
         "Also write a subject line: short (4-8 words), thematic and specific to the actual bridge you "
         "used in this email - not a generic greeting. Style examples: 'Fertility meets healthspan "
         "investing', 'Two women building at early stage', 'Women-led funds, shared thesis', 'Deep tech "
         "meets healthcare access'. No punctuation-heavy clickbait, no 'Quick question'.\n\n"
         f"REFERENCE EXAMPLES (match this voice and structure, with different content):\n{COMPOSE_EMAIL_EXAMPLES}\n\n"
-        "The body MUST be broken into paragraphs separated by a blank line, the same way the "
-        "reference examples read when displayed (hook paragraph, then the Wellnest/bridge "
-        "paragraph, then the closing ask, then the sign-off on its own line) - never one unbroken "
-        "block of text. In the JSON string this means literal escaped newlines between paragraphs, "
-        "exactly like this shape:\n"
-        "{\"subject\": \"Two women building at early stage\", \"body\": \"Hi Addie, <opening "
+        "The body MUST be broken into lines/paragraphs separated by a blank line, the same way the "
+        "reference examples read when displayed - never one unbroken block of text. In the JSON "
+        "string this means literal escaped newlines, exactly like this shape:\n"
+        "{\"subject\": \"Two women building at early stage\", \"body\": \"Hi Addie,\\n\\n<opening "
         "paragraph text>.\\n\\n<Wellnest/bridge paragraph text>.\\n\\n<closing ask paragraph>."
         "\\n\\nAll the best,\\nZina\"}\n\n"
         "Respond with ONLY the JSON object matching that shape. No markdown code fences, no "
