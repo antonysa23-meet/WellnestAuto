@@ -13,19 +13,15 @@ app = Flask(__name__)
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 ANTHROPIC_MODEL = os.getenv("ANTHROPIC_MODEL", "claude-sonnet-4-6")
 
-WEB_SEARCH_TOOL = {"type": "web_search_20260209", "name": "web_search"}
 
-
-def call_claude(system_prompt, user_prompt, max_tokens=1000, tools=None):
-    """Helper to call the Anthropic API. Pass tools=[WEB_SEARCH_TOOL] to let Claude search the web."""
+def call_claude(system_prompt, user_prompt, max_tokens=1000):
+    """Helper to call the Anthropic API."""
     payload = {
         "model": ANTHROPIC_MODEL,
         "max_tokens": max_tokens,
         "system": system_prompt,
         "messages": [{"role": "user", "content": user_prompt}],
     }
-    if tools:
-        payload["tools"] = tools
     response = requests.post(
         "https://api.anthropic.com/v1/messages",
         headers={
@@ -151,43 +147,10 @@ def linkedin_info():
 
     summary = _synthesize_linkedin_summary(linkedin_url, raw_text)
     return jsonify({"output": summary})
- 
- 
-# -----------------------------------------------------------------------
-# 2. Relation to fertility (company research)
-# -----------------------------------------------------------------------
-@app.route("/fertility_relation", methods=["POST"])
-def fertility_relation():
-    """
-    Given a company name, research what they do and summarize their
-    relevance/relation to fertility (Wellnest's space).
-    """
-    data = request.get_json()
-    company = data.get("company", "").strip()
-    investor_type = data.get("investor_type", "")
- 
-    if not company:
-        return jsonify({"error": "company is required"}), 400
 
-    system_prompt = (
-        "You are a research analyst helping a fertility/women's health startup (Wellnest) "
-        "assess potential investors. Search the web for the given company/fund's investment "
-        "portfolio and thesis, then write a concise 2-3 sentence summary of their actual or "
-        "plausible relation/relevance to fertility, women's health, or femtech. If there's no "
-        "clear connection, say so plainly rather than inventing one. Be factual and specific, "
-        "referencing real portfolio companies or thesis areas you found."
-    )
-    user_prompt = (
-        f"Company/Fund: {company}\nInvestor type: {investor_type}\n\n"
-        "Research their investment portfolio and summarize their relation to fertility/women's health."
-    )
 
-    summary = call_claude(system_prompt, user_prompt, max_tokens=300, tools=[WEB_SEARCH_TOOL])
-    return jsonify({"output": summary})
- 
- 
 # -----------------------------------------------------------------------
-# 3. Compose personalized email
+# 2. Compose personalized email
 # -----------------------------------------------------------------------
 WELLNEST_CONTEXT = (
     "Wellnest Fertility is a de novo fertility clinic platform opening access to IVF and "
@@ -246,7 +209,6 @@ def compose_email():
     country = data.get("country", "")
     women_angle = data.get("women_angle", "")
     linkedin_info = data.get("linkedin_info", "")
-    fertility_relation = data.get("fertility_relation", "")
     context = data.get("context", "")  # free-text writing instructions from the Context sheet
 
     system_prompt = (
@@ -266,7 +228,7 @@ def compose_email():
         "the one-line description of what the firm does.\n"
         "3. Pitch Wellnest as one of your favorite/most exciting current investments, then bridge "
         "it specifically to something about the recipient - their thesis, portfolio, or stated "
-        "focus - using the fertility/women's health research and LinkedIn details provided below. "
+        "focus - using the LinkedIn details provided below. "
         "Optionally weave in one concrete Wellnest detail if it fits naturally.\n"
         "4. Close with a soft ask to connect, compare notes , or trade perspectives, plus a request "
         "for a short call.\n"
@@ -285,7 +247,6 @@ Write a cold outreach email using this data:
 Investor/Company: {company}
 Investor type: {investor_type}
 Country: {country}
-Relation to fertility/women's health: {fertility_relation}
 LinkedIn info: {linkedin_info}
 
 Additional project note (if any): {project}
