@@ -1,0 +1,678 @@
+0 notifications
+
+I'm looking for…
+
+Home
+8
+My Network
+Jobs
+Messaging
+23
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+
+Ashley Smith
+
+Investing in early stage technical founders building across AI, dev, data, security, infra. Previously early at GitHub, GitLab, Parse, & Twilio.
+
+
+More
+Message
+
+Follow
+Cover photo
+
+Ashley Smith
+· 3rd
+
+Investing in early stage technical founders building across AI, dev, data, security, infra. Previously early at GitHub, GitLab, Parse, & Twilio.
+
+New York, United States
+
+·
+
+Contact info
+
+
+Vermilion Cliffs Ventures
+
+6,991 followers
+
+
+Follow
+Message
+
+More
+Featured
+Reshared by Ashley Smith
+
+Round names are meaningless right now. 🌱 🌱 🌱 🌱 🌱 
+
+I spent some time talking to Dominic-Madori Davis at TechCrunch about seed round pricing and she published a piece last night that I'm quoted in along with friends Jonathan Lehr at Work-Bench and Shanea Leven at Empromptu.ai. Go read it. She nails the current sentiment in the market. And what I get asked everyday from VCs, LPs, and founders.
+
+The TechCrunch piece captures what's happening. Pete Martin, who raised a $5M seed at a $25M post back in 2024, put it plainly: today "it's pretty typical" to see a $10M seed at a $40-45M post if you're an AI company.
+
+Jonathan Lehr at Work-Bench said what I've been telling every founder I talk to: higher seed valuations mean less margin for error. Less room for experimentation, less tolerance for pivots, more scrutiny if progress doesn't match the capital raised.
+
+Both of those things are true. Here's what didn't fit in my quotes.
+
+The round name is a rounding error on the thesis right now. A $300M seed isn't a seed. $40M YC Demo Day pricing isn't a seed by any definition most of us were trained on. But the labels have stuck around even as the numbers detached from the risk profiles they were designed to describe.
+
+For funds like mine, the math stops working above ~$60M post. So we've moved earlier. Before the product. Sometimes before the founder has left their job. That only works because we're highly specialized and our network is deep in the AI infra market.
+
+For founders: the headline rounds are outliers, not the market. Carta data has seed sitting around $25-30M post this quarter. Price yourself into a corner early and the bar you have to clear for your Series A, which is at record-high valuations right now. It gets very hard very fast.
+
+I wrote more on all of it over on Substack. Link in comments.
+
+
+It’s not your imagination: AI seed startups are commanding higher valuations | TechCrunch
+
+techcrunch.com
+
+38 reactions · 5 comments38 · 5 comments
+
+Reshared by Ashley Smith
+
+Really enjoyed chatting with 🤖 Yaniv Bernstein of The Startup Podcast fame. We talked about building a company at the earliest stages and as an investor, what I look for before there is any product and/or traction. 
+
+Thanks for having me on! ❤️ 
+
+
+44 reactions · 6 comments44 · 6 comments
+
+Post
+
+Thank you Allie Garfinkle for taking the time to share my story and the launch of Vermilion Cliffs Ventures. 💘 
+
+"Ashley Smith’s Southern upbringing gave her a persistent love of surreal and tragic tales, worlds filled with kooky characters and funhouse mirror logic. 
+
+On paper, you may not necessarily expect this of Smith. Her resume reads like a traditional Silicon Valley rise—from early employee marketing jobs at technical juggernauts like Twilio, GitLab, and GitHub, to a gradual but systematic transition to venture capital."
+
+Read the full article linked in comment.
+
+
+Vermillion Cliffs Ventures launches with $13 million debut fund
+
+fortune.com
+
+228 reactions · 49 comments228 · 49 comments
+
+Post
+
+TL:DR;
+
+Small-town Southern kid discovers the internet, leaves her hometown for engineering school, finds her way into startups, gets some exits, and launches an early-stage venture fund investing in technical founders building technical products. 
+
+🌄 Excited to officially launch Vermilion Cliffs Ventures, investing $200k in pre-seed stage technical founders and $500k in seed stage technical founders building developer, data, infrastructure, security, and anything that helps developers create better products. Technical founders creating technical products.
+
+I shared my journey to this point, from small-town to startups to VC, in my Substack linked in the comment below ⬇️
+
+
+148 reactions · 26 comments148 · 26 comments
+
+Reshared by Ashley Smith
+
+🎤 Podcast time 🎤
+
+Had a fantastic chat with my friend and former colleague, Scott Smith! From our days scheming together at Parse (and Facebook) to his current role as CEO at Zight, we delved into our shared journey and experiences building startups.
+
+We cover a ton of ground from building technical companies to the Vermilion Cliffs Ventures launch yesterday, and of course, a bit of friendly gossip.
+
+Thank you for having me Scott! 🩷
+
+
+#29 Ashley Smith, GP & Founder, Vermilion Cliffs Ventures
+
+youtube.com
+
+28 reactions · 3 comments28 · 3 comments
+
+Show all featured items
+
+Activity
+6,991 followers
+
+
+Follow
+
+Posts
+
+Comments
+
+Videos
+
+Images
+View Ashley Smith’s profile
+Ashley Smith reposted this
+
+
+View Kevin Whinnery’s profile
+Kevin Whinnery
+
+  • 3rd+
+
+Developer Experience @ Anthropic
+
+3d • 
+
+First Fable prompt now that it's back:
+
+Create a mystery website at aie-fable.dev for swyx ​'s AI Engineer World's Fair. If attendees find the moral of the story, they get a chance for swag and sweet treats, and bank donations to Muttville Senior Dog Rescue and Community Forward SF.
+
+Use Hono and vanilla JS on the frontend, make no mistakes.… more
+
+View image
+
+28
+
+2
+
+2
+View Ashley Smith’s profile
+Ashley Smith
+
+  • 3rd+
+
+Investing in early stage technical founders building across AI, dev, data, security, infra. Previously early at GitHub, GitLab, Parse, & Twilio.
+
+3d • 
+
+
+Worked with Kevin Whinnery from the Anthropic team on a little surprise celebration for the return of Fable. Old Twilio team unite! :) 
+
+Kevin built this overnight and if you figure it out and show up with your AI Engineer World's Fair Badge, you unlock swag, credits, and more.  
+
+We're driving donations to Muttville Senior Dog Rescue and Community Forward SF via Vermilion Cliffs Ventures and the Anthropic team. 
+
+And Meghan Murphy got us last minute sweet treats for all. 🍧 🍧 🍧 
+
+Happy hunting :) Hope to see you all there.… more
+
+View image
+
+28
+
+4
+
+3
+View Ashley Smith’s profile
+Ashley Smith reposted this
+
+
+View Meghan Grady’s profile
+Meghan Grady
+
+  • 3rd+
+
+Go to market, product, & partner strategy. Enjoy building & scaling companies. Love connecting people.  Marketing at DigitalOcean  Formerly Stripe & Twilio
+
+3d • Edited • 
+
+Such a great time at AI Engineer World’s Fair yesterday! 
+
+In the keynote, Romain shared his thoughts on getting back to the roots of engineering: solving problems & using imagination to do so.
+
+In the evening I got to meet tons of founders and operators at our AI Infra 🤓 / World Cup ⚽️ event with Vermilion Cliffs Ventures. There were many interesting ideas and problems being solved. I noticed in the people in that room are genuinely interested in learning from each other, helping each other, and collaborating.  
+
+Especially fun to get to work with Ashley Smith & Meghan Murphy again! 
+
+Kudos & thank you to the DigitalOcean team that worked on these events, Beth Hernandez, CMP, PCM Isabel Gonzalez Camila Brito & Martin Nguyen… more
+
+View image
+1/5
+
+
+
+107
+
+8
+
+5
+View Ashley Smith’s profile
+Ashley Smith
+
+  • 3rd+
+
+Investing in early stage technical founders building across AI, dev, data, security, infra. Previously early at GitHub, GitLab, Parse, & Twilio.
+
+3d • 
+
+
+What a day at AI Engineer World's Fair yesterday. ⚽ 
+
+Our event with DigitalOcean watching the world cup match between Mexico and Ecuador was electric. So many Vermilion Cliffs Ventures portfolio companies and friends joined a packed room of developers.
+
+Thank you Meghan Murphy and Meghan Grady for all the work organizing and the teams from Atomic Software, Co., Aranya Inc., Baz, Catio, cognee, Keycard, Lemma (YC F25), Paper Compute Company, and StarSling (YC X25) for joining. 
+
+Can't wait for tonight's event with Lenny Pruss from Amplify Partners and a special surprise we've been working on. More details on that in a bit. 
+
+Link in the comments to RSVP. 💃 … more
+
+View image
+1/6
+
+
+
+97
+
+18
+
+4
+View Ashley Smith’s profile
+Ashley Smith reposted this
+
+
+View Maria Palma’s profile
+Maria Palma
+
+  • 3rd+
+
+General Partner at Freestyle Capital. Investing in amazing technical founders. Writing on Substack @unconstrained
+
+5d • 
+
+it's certainly a wild and fun time to be in venture and startups. Thanks Ashley Smith for the hot takes from everyone and including me in it!
+
+View Ashley Smith’s profile
+Ashley Smith
+
+  • 3rd+
+
+Investing in early stage technical founders building across AI, dev, data, security, infra. Previously early at GitHub, GitLab, Parse, & Twilio.
+
+5d • 
+
+I asked 12 investors one question: "What's your hottest take on the VC market today?" 🌶️🌶️🌶️🌶️
+
+“Using AI agents to screen seed founders is like using a high-tech ouija board. The criteria everyone’s scraping for today would have screened out the three $30B+ companies in Founder Collective’s Fund I." - Amanda Herson, General Partner at Founder Collective
+
+“Most AI “technical moats” are just temporary API arbitrage. The real moat is product taste, workflow ownership, and distribution.” - Terri Burns, Founder at Type Capital
+
+““Won’t the model just do this?” is the laziest question in venture.” - Lauri J. Moore, Partner at Bessemer Venture Partners
+
+“VC firms should be less focused on investing in AI/software startups and more focused on consuming AI/software as users themselves.” - Nnamdi Iregbulem, Partner at Lightspeed
+
+“Pattern matching is just bias masquerading as data” - Me :), GP at Vermilion Cliffs Ventures
+
+“VC market in one word right now = kingmaking.” - Robby (Amanda Robson), Solo GP at Modern Technical Fund
+
+“Heavy discounts on secondary sales are an inefficiency tax, a failure of process that can and should be avoided. - Kate Beardsley, Founding Partner at Hannah Grey VC
+
+“Venture (especially early stage) is currently a low status job, and that’s a good thing!” - Ashley Mayer, co-founder and GP at Coalition Operators
+
+“The more the VC grapevine and FOMO drive deal heat, the more founders value independent, first-principles conviction.” - Ariel Winton-Jones, Solo GP at The Aligned Fund
+
+“Inspired by Lorne Michaels on producing, seed investing is an invisible art. If you’re any good at it, you leave no fingerprints.” - Jaren Glover, GP at 47th Street
+
+“VCs will make more money on college graduates than college dropouts in the next 10 years.” - Charles Hudson, Managing Partner at Precursor Ventures
+
+“Founders win this vintage. Grow fast enough, dilute almost nothing.” - Maria Palma, General Partner at Freestyle Capital
+
+More details in the Substack link in the comments.
+
+Inspired by Turner Novak's post also linked the comments. … more
+
+View image
+
+16
+
+1
+
+1
+View Ashley Smith’s profile
+Ashley Smith reposted this
+
+
+View Jessica Peltz-Zatulove’s profile
+Jessica Peltz-Zatulove
+
+  • 3rd+
+
+Founding Partner, Hannah Grey VC
+
+View my newsletter
+
+5d • 
+
+Love this list of spicy takes from friends, hat tip to  the Vermillion Cliff crew for bringing everyone's perspective together - thanks for including us!
+
+Few favorites...
+
+“Heavy discounts on secondary sales are an inefficiency tax, a failure of process that can and should be avoided. - Kate Beardsley, Founding Partner at Hannah Grey VC
+
+“Using AI agents to screen seed founders is like using a high-tech ouija board. The criteria everyone’s scraping for today would have screened out the three $30B+ companies in Founder Collective’s Fund I." - Amanda Herson, General Partner at Founder Collective
+
+““Won’t the model just do this?” is the laziest question in venture.” - Lauri J. Moore, Partner at Bessemer Venture Partners
+
+“Pattern matching is just bias masquerading as data” - Ashley Smith GP at Vermilion Cliffs Ventures
+
+“Founders win this vintage. Grow fast enough, dilute almost nothing.” - Maria Palma, General Partner at Freestyle Capital
+
+More details in the Substack link in the comments.… more
+
+
+19
+
+6
+
+1
+View Ashley Smith’s profile
+Ashley Smith reposted this
+
+
+View company: Founder Collective
+Founder Collective
+
+5d • 
+
+Wise words from Amanda Herson! Seed investing is a people business, and a séance is a sorry shortcut. 🔮
+
+Thanks to Ashley Smith at Vermilion Cliffs Ventures for collecting a dozen sharp takes! Link in comments to the full post.… more
+
+View image
+
+57
+
+2
+
+2
+View Ashley Smith’s profile
+Ashley Smith reposted this
+
+
+View company: Hannah Grey VC
+Hannah Grey VC
+
+5d • 
+
+One of the things we value most at Hannah Grey VC is independent thinking. That's why we enjoyed seeing Kate Beardsley featured in Vermilion Cliffs Ventures' "12 VC Hot Takes," alongside an outstanding group of investors sharing their perspectives on where venture is headed.
+
+Kate's take: "Heavy discounts on secondary sales are an inefficiency tax, a failure of process that can and should be avoided."
+
+As private markets continue to mature, liquidity is becoming a more important part of the venture ecosystem. Better processes, greater transparency, and more efficient secondary markets ultimately benefit founders, investors, and employees alike.
+
+Thanks to Ashley Smith and the Vermilion Cliffs Ventures team for including Kate in this collection of VC hot takes.… more
+
+View image
+
+33
+
+1
+
+2
+View Ashley Smith’s profile
+Ashley Smith reposted this
+
+
+View company: Founder Collective
+Founder Collective
+
+5d • 
+
+Wise words from Amanda Herson! Seed investing is a people business, and a séance is a sorry shortcut. 🔮
+
+Thanks to Ashley Smith at Vermilion Cliffs Ventures for collecting a dozen sharp takes! Link in comments to the full post.… more
+
+View image
+
+57
+
+2
+
+2
+View Ashley Smith’s profile
+Ashley Smith reposted this
+
+
+View company: Paper Compute Company
+Paper Compute Company
+
+5d • 
+
+If you are in town for AIE, join the Paper Compute and @clinebot teams for the after-party. 
+
+Fri, Jul 3, 4:30 AM - 7:00 AM
+
+Paper Compute × Cline: After AIE Dinner Party
+
+ San Francisco, US
+
+3 attendees
+
+View event
+
+5
+
+​
+
+2
+
+Show all posts
+Experience
+Vermilion Cliffs Ventures logo
+GP and Founder
+
+Vermilion Cliffs Ventures · Full-time
+
+Mar 2023 - Present · 3 yrs 5 mos
+
+New York, New York, United States
+
+Buildkite logo
+Board Member and Investor
+
+Buildkite
+
+Nov 2019 - Feb 2022 · 2 yrs 4 mos
+
+New York City Metropolitan Area
+
+OpenView logo
+Venture Partner
+
+OpenView · Full-time
+
+Apr 2019 - Nov 2020 · 1 yr 8 mos
+
+New York City Metropolitan Area
+
+GitHub logo
+Global Vice President of Marketing
+
+GitHub
+
+Jan 2017 - Jun 2018 · 1 yr 6 mos
+
+New York City Metropolitan Area
+
+Acquired by Microsoft - June 2018
+
+GitLab Inc. logo
+Chief Marketing Officer
+
+GitLab Inc.
+
+Sep 2015 - Oct 2016 · 1 yr 2 mos
+
+New York City Metropolitan Area
+
+IPO - October 2021
+
+Show all
+Education
+Georgia Institute of Technology logo
+Georgia Institute of Technology
+
+Bachelor of Science - BS, Biomedical Engineering
+
+
+More profiles for you
+
+Yaniv Bernstein 
+
+· 3rd
+
+Founder @ Vera | Host, The Startup Podcast
+
+
+Follow
+
+Meghan Murphy 
+
+· 3rd
+
+Venture Fund Head of Platform || Developer Led Growth || Technical GTM
+
+
+Follow
+
+Justin Mateen 
+
+· 3rd
+
+Founder of JAM Fund | Co Founder of Tinder
+
+Message
+
+Liu Jiang 
+
+· 2nd
+
+Sunflower Capital
+
+Connect
+
+Yoni Rechtman 
+
+· 3rd
+
+Partner at Slow Ventures
+
+Message
+Show all
+People you may know
+
+Lucia Hosein 
+
+· 2nd
+
+Chemical Engineering at Rice University
+
+Connect
+
+Yashaswi Pasumarthi
+
+· 3rd
+
+Aspiring Investment Banker | Interested in Finance
+
+Connect
+
+Nevo Meir Tapiero 
+
+· 2nd
+
+Co-Founder at Sababa | Retail Fintech & Cashback Infrastructure | Software Engineer | Aerospace & UAV | MEET (MIT) Alumnus
+
+Connect
+
+Anna Esina
+
+· 3rd
+
+High School Student | Finance & Economics Enthusiast | Business, Innovation & Entrepreneurship @ Yale Summer Program | Languages & Global Markets
+
+Connect
+
+Luke Tjiong
+
+· 2nd
+
+incoming larper @ rice
+
+Connect
+Show all
+You might like
+Newsletters for you
+
+The Monthly AI Recap
+The Monthly AI Recap
+
+A curated look at the biggest AI news, updates and breakthroughs from Google.
+
+Published monthly
+
+Google
+Google
+
+
+Subscribe
+Technology & Innovation News
+Technology & Innovation News
+
+Stay ahead of the curve with curated insights on breakthrough technologies and industry trends.
+
+Published biweekly
+
+Siemens
+Siemens
+
+
+Subscribe
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Antony SalehStatus is online
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.

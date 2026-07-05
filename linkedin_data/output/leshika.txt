@@ -1,0 +1,780 @@
+0 notifications
+
+I'm looking for…
+
+Home
+8
+My Network
+Jobs
+Messaging
+23
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+
+Leshika Samarasinghe
+
+Founding Partner at Twine Ventures
+
+
+More
+
+Follow
+Message
+Cover photo
+
+Leshika Samarasinghe
+
+· 3rd
+
+Founding Partner at Twine Ventures
+
+San Francisco, California, United States
+
+·
+
+Contact info
+
+
+Twine Ventures
+
+
+Harvard Business School
+
+500+
+
+connections
+
+Message
+
+Follow
+
+More
+About
+Partnering with early stage founders tackling problems of import in human, planetary, and financial health. https://twineventures.com/
+
+Featured
+Post
+
+
+Excited to share what I've been building over the last year: Twine Ventures partners with early stage founders working to improve human health, climate and financial empowerment. 
+
+I could not be more grateful for the support from limited partners, advisors, co-investors and other collaborators in this effort, especially the mission-driven founders with whom I've had the privilege to partner. Thanks to The Wall Street Journal for the in-depth profile of $25M Twine Fund I. 
+https://lnkd.in/d69dbmwc
+
+Solo Investor Raises $25 Million Debut Fund for Twine Ventures
+
+wsj.com
+
+1K, number of reactions1K
+
+219 comments · 16 reposts
+
+Activity
+5,521 followers
+
+
+Follow
+
+Posts
+
+Comments
+
+Images
+View Leshika Samarasinghe’s profile
+Leshika Samarasinghe
+
+  • 3rd+
+
+Founding Partner at Twine Ventures
+
+2w • 
+
+
+The team at Verse was early to recognize that power, not compute, is what determines how fast the AI economy can scale. We're excited to deepen our partnership with Seyed and Matt as they announce their $54M Series B led by Bessemer Venture Partners, alongside significant collaborations with Calibrant Energy and NVIDIA that will grow Verse's Dispatch Intelligence products and help data center operators get online years faster.… more
+
+View Seyed H. Madaeni, Ph.D.’s profile
+Seyed H. Madaeni, Ph.D.
+
+  • 3rd+
+
+Co-founder & CEO at Verse Inc.
+
+2w • Edited • 
+
+The race to AI supremacy is no longer just a race for chips. It is a race for power.
+
+Every AI model, every gigascale data center, and every query we run depends on electricity. A single ChatGPT query can require many times more energy than a standard Google search. At global scale, this surge in demand is pushing aging energy infrastructure to its breaking point.
+
+The most advanced software systems ever built are now constrained by one of the oldest physical challenges in the world: access to the grid. Miss your interconnection window in tight markets like PJM, and your data center could wait years — in some cases close to a decade — to get online. Developers are losing time they simply do not have.
+
+Today, I am thrilled to announce that Verse has raised an oversubscribed $54M Series B led by Bessemer Venture Partners, with participation from GV (Google Ventures), NVIDIA, and Norrsken VC.
+
+I want to especially thank Lindsey Li and David Cowan at Bessemer for believing in our vision and in the scale of the problem we are working to solve. From our earliest conversations, they understood that the next great infrastructure bottleneck for AI would not only be compute. It would be power.
+
+But software alone cannot plug directly into the dirt. To truly solve the speed-to-power crisis, we are launching Dispatch Intelligence™ alongside a major new strategic collaboration with Calibrant Energy. Thank you Philip Martin for all the strategic thinking and vision.
+
+Most legacy approaches force data centers to make a painful choice: curtail or shift compute workloads to accommodate the grid. We believe that is a false compromise.
+
+Dispatch Intelligence takes a fundamentally different path. With Calibrant, we are turning that path into a full-stack solution. By intelligently orchestrating physical, behind-the-meter energy assets right where compute happens, we can present a flexible load to the utility without impacting performance.
+
+Data center operators can run at full capacity, bypass multi-year utility bottlenecks, and bring capacity online years faster. We are enabling a new model: power delivered on-site and on-demand, matching energy infrastructure to the speed of AI innovation without slowing down a single GPU.
+
+When Matt Penfold and I co-founded Verse, we bet on a future where software-driven, distributed energy resources would define grid resilience. That future arrived much faster than anyone anticipated.
+
+We are here to make sure the AI era is not left waiting on electrons.
+
+Philip Martin Abhijoy Mitra Roni Hiranand Michael McBride Amit Mukherjee Agate S. Freimane Cody Simms Leshika Samarasinghe Brad Armstrong
+
+👇 Read the full announcement and our vision for Dispatch Intelligence in the comments below.… more
+
+
+29
+
+3
+
+​
+View Leshika Samarasinghe’s profile
+Leshika Samarasinghe
+
+  • 3rd+
+
+Founding Partner at Twine Ventures
+
+4mo • 
+
+
+Congratulations to the team at Rowspace on their Series A financing co-led by Sequoia and Emergence. Thrilled to double down with Michael Manapat and Yibo Ling as they transform fragmented financial data into actionable insights for some of the world's leading investment firms. … more
+
+View Michael Manapat’s profile
+Michael Manapat
+
+  • 3rd+
+
+Co-Founder at Rowspace
+
+4mo • Edited • 
+
+I've gotten to spend time over the past year with some of the most forward-thinking investors in the world, learning where AI is meeting their needs and where it isn’t.
+
+All of these firms know they need to drive AI transformation on a fast timeline. But, as one put it bluntly: “All these AI tools are only as good as the data you feed them, and ours is a mess.”
+
+This may be true, but their data also represents decades spent building proprietary knowledge that codifies how they think, operate, and win. It just happens to be scattered and fragmented across many systems. The real challenge is scaling this edge to make faster, sharper decisions. There's no quick-win alpha.
+
+That's why we built Rowspace—launching today with $50M from Sequoia Capital, Emergence Capital, Stripe, Conviction, Basis Set, Twine Ventures, and many others.
+
+What we do:
+-Map firm data comprehensively—memos, decks, models, ledgers, positions, etc. from systems like Salesforce, DealCloud, Box, Egnyte, SharePoint, Everest, Dynamo, Snowflake, PowerBI, and more. We do this in our customers’ environments for maximum data security.
+-Model how they actually work—reconciling conflicts, deciding what to trust, what to prioritize, what to ignore. We extract meaning and make it available on demand. (It's one thing to recall an answer from a database. It's another to know which addbacks apply to an EBITDA calculation based on a specific credit covenant.)
+-Push that intelligence into the tools where decisions happen—chat, real-time dashboards, Excel, Teams, wherever you already work—with full traceability down to the calculation.
+
+We're already working with some of the most storied firms in the industry: a global growth pioneer with 50 years of history, a crossover fund invested in the most notable tech IPOs of the last decade, and one of the leading credit originators in the world. They chose Rowspace for the depth, nuance, and specificity we’re able to deliver.
+
+Try Rowspace if your firm wants to accelerate with AI in ways you can trust.
+Or come build with us if you want to build at this level of depth for customers shaping our economy.… more
+
+View image
+
+55
+
+2
+
+​
+View Leshika Samarasinghe’s profile
+Leshika Samarasinghe
+
+  • 3rd+
+
+Founding Partner at Twine Ventures
+
+5mo • 
+
+
+Alaffia Health was one of our first investments at Twine Ventures. TJ, Adun, and Oyinade have gone on to build a leader in agentic AI for payment integrity, delivering millions in savings at scale for their health plan partners and ultimately enabling a more affordable system. Congratulations to the team on this milestone financing led by Transformation Capital Todd Cozzens. … more
+
+View TJ Ademiluyi’s profile
+TJ Ademiluyi
+
+  • 3rd+
+
+CEO & Founder at Alaffia Health | Forbes 30 Under 30
+
+5mo • 
+
+Six years ago, I left my job at Goldman Sachs and turned down a private equity job I had worked toward for years, often through 80hr+ weeks. While I was excited to invest in businesses that were transforming industries, I realized that my real passion was creating impact from the driver’s seat in a space I cared deeply about. So Adun, Oyinade, and I had an idea, which we put into a simple framework: healthcare + AI (before it was cool) = potential for outsized & positive impact for everyone. 
+
+Growing up, we watched our parents build a provider revenue cycle management business. We saw firsthand the complexity and inefficiency that healthcare organizations (providers, payers, and vendors alike) navigate every day, particularly due to limited innovation and tech adoption. That exposure stayed with us, so we got to work.
+
+We built the first version of Alaffia, raised our initial round of funding, and hired our first team members. There have been many long days/nights since, and many moments when things didn’t go as planned. But staying resilient and keeping our mission front and center is what kept us going until today. 
+
+That mission: reduce billing errors, waste, and administrative burden to directly and quantifiably reduce healthcare costs for all.
+
+We've come a long way since embarking on that mission. Today, I'm incredibly proud to announce that we've raised $55M in Series B funding led by Transformation Capital, bringing our total capital raised to $73M.
+
+This funding is a testament to the passion and dedication of the entire Alaffia Health team and to everything we've accomplished together. With over $120M in savings delivered for our health plan partners so far, I'm more bullish on our thesis than ever and more confident in what we’re building.
+
+I feel so fortunate to be sharing this journey with Transformation Capital and all our incredible investors who are doubling down in this round, including FirstMark, Tau Ventures, and Twine Ventures. 
+
+I'm incredibly grateful for the entire Alaffia team, including so many of us who are still here since we got started. It’s a new day for affordability in healthcare, and we’re just getting started. Stay tuned!
+
+Read the full announcement: https://lnkd.in/ewump447
+
+cc: Adun, Oyinade, Anthony… more
+
+View image
+
+62
+
+4
+
+​
+View Leshika Samarasinghe’s profile
+Leshika Samarasinghe
+
+  • 3rd+
+
+Founding Partner at Twine Ventures
+
+5mo • 
+
+
+Excited to partner with Hashem, Dawit, Raffay, and the team at Oasys as they build a new infrastructure layer for modern behavioral health. Their AI-native operating system bridges physiological and mental health data to make care more personalized, data-driven, and accessible.
+
+Congrats to the team on this seed financing to further their important work!… more
+
+View company: Oasys
+Oasys
+
+5mo • Edited • 
+
+Today marks a pivotal moment for Oasys: the announcement of $4.6 million in total funding, advancing our mission to make mental health care more measurable, data-driven, and proactive.
+
+We started Oasys with a simple belief: mental health care deserves the same level of infrastructure, data, and operational rigor as the rest of modern medicine, without adding more burden to clinicians.
+
+Over the past year, we’ve built an AI-native operating system for behavioral health clinics that brings together practice management, billing, documentation, and patient data in one place. Today Oasys supports 25+ clinics across the country and helps teams spend less time on admin work and more time on patient care.
+
+This round gives us the opportunity to move faster: deepening our product, expanding integrations, and growing the team as we continue working closely with behavioral health professionals across a wide range of care settings.
+
+We are incredibly grateful to our investors at Pathlight Ventures, 1984 Ventures, Twine Ventures, and Better Ventures for believing in the vision, and to the clinicians and partners who trust us every day.
+
+For more details on our next chapter at Oasys, head to our website https://oasys.health/, read our press release (link in comments), and check out our exclusive coverage in Axios.… more
+
+View image
+
+69
+
+3
+
+​
+View Leshika Samarasinghe’s profile
+Leshika Samarasinghe
+
+  • 3rd+
+
+Founding Partner at Twine Ventures
+
+8mo • 
+
+
+It's been incredible to witness the Ava's team relentless execution and related product growth over the last few years; proud to continue to support Reza Rahman, Omar Sinno, and Abed L. in their mission of automating debt management and improving financial resilience for millions of Americans.… more
+
+View Reza Rahman’s profile
+Reza Rahman
+
+  • 2nd
+
+Fintech Founder; ex-Stripe, LinkedIn, Gusto
+
+8mo • Edited • 
+
+When Omar Sinno, Abed L., and I started Ava, we knew we were taking on a massive challenge. American households are carrying over $18T in debt, often paying interest rates north of 20%—and it’s only getting worse. The system is broken: it’s expensive, confusing, and stacked against consumers.
+
+Our vision is simple:
+Build a personal, tireless financial advocate powered by agentic AI—one that helps people improve their credit, save on debt, and automate the hard stuff so they can focus on living their lives.
+
+Along the way, we’ve had amazing investors support and guide us. Thank you, David Thacker, Gokul Rajaram, Cherian Mathew, Raed A. Masri, Charles Hudson, Gopi Rangan, Wendy Lim, Leshika Samarasinghe and many others for your support.
+
+We’re just getting started!
+
+https://lnkd.in/dWJweW5m… more
+
+
+Fintech Startup Ava Secures $15.5M to Tackle America’s $1T Debt CrisisFintech Startup Ava Secures $15.5M to Tackle America’s $1T Debt Crisis
+
+apnews.com
+
+
+48
+
+​
+
+​
+View Leshika Samarasinghe’s profile
+Leshika Samarasinghe
+
+  • 3rd+
+
+Founding Partner at Twine Ventures
+
+9mo • Edited • 
+
+
+Thank you to all of the founders and investors who joined our recent dinner on the future of AI in energy and industrials and to our friends at SE Ventures and J.P. Morgan for cohosting. 
+
+We can't imagine a better time to be building in physical AI - if you're a preseed founder exploring this space we'd love to hear from you!
+
+Frontier Machines Mytra Presto Schematic Ventures Nexus Intelligence Innovation Endeavors Parspec Bay Compute UnitX Guidewheel Nema Systems Congruent Ventures Rovo Wireframe Ventures Prelude Ventures Hammerhead AI Quintess AI SE Ventures J.P. Morgan… more
+
+View image
+
+120
+
+3
+
+1
+View Leshika Samarasinghe’s profile
+Leshika Samarasinghe
+
+  • 3rd+
+
+Founding Partner at Twine Ventures
+
+9mo • 
+
+
+Congrats to Kunal Mehta and the team at Endeavor Flow on the launch of their healthcare payments platform and the strong reception from practices. Excited about their mission to ease the burden of medical debt with solutions that work for both patients and providers (and, always fun to partner with Hani Elias!).… more
+
+View Kunal Mehta’s profile
+Kunal Mehta
+
+  • 3rd+
+
+Founder, Endeavor |  Partner, Isos Ventures
+
+9mo • Edited • 
+
+I'm excited to announce the launch of Endeavor Flow - a payments platform built for medical and dental practices. Over the past year, our team has integrated with credit providers across the FICO spectrum and partnered with leading dental service organizations to deliver a seamless, integrated solution that helps patients access the best payment options at the point-of-sale. 
+
+The financial burden on patients in the United States is staggering. Over $220 billion in medical debt is severely affecting credit and access. Endeavor integrates with lenders that put the patient first, and is working with tax-advantaged options to help patients and practices find the best payment plan that works for them. By integrating with alternate payment options, Endeavor increases case acceptance, preserves revenue for practices, and helps patients access treatment without financial uncertainty.
+
+I'm excited for the work we did at Anchor to launch Endeavor and grateful to continue building this with Jeremiah Cole, Zak Allen, Kenneth Shaw, Melody B., Hani Elias and a team of incredible product and healthcare experts. To our practice partners, we are grateful to be working with you. For dental, veterinary, or fertility groups that wish to learn more, please reach out to kunal@endeavorflow.com or via DM to learn more! 
+
+Our team is hiring across implementation specialists, AI/ML engineers, data analysts, and customer support so please reach out if our mission excites you.
+
+Leshika Samarasinghe Twine Ventures John Nordin J Ventures MB2 Dental Evolve Med Spa Matthew McGaw… more
+
+
+Endeavor Health - Smarter Payments. Better Care.Endeavor Health - Smarter Payments. Better Care.
+
+endeavorflow.com
+
+
+21
+
+​
+
+​
+View Leshika Samarasinghe’s profile
+Leshika Samarasinghe
+
+  • 3rd+
+
+Founding Partner at Twine Ventures
+
+10mo • 
+
+
+Congratulations to the team at Waltz Health on joining forces with EVERSANA! Excited for the impact this new platform will deliver in expanding patient access, lowering drug costs, and transforming the prescription experience.
+
+Thank you for the partnership Mark Thierer, Jonathon Thierer, Jeff Park, Blake Slansky, Tina Wu, MD, MBA.
+
+https://lnkd.in/gMqfFD8a … more
+
+
+Eversana, Waltz Health to merge and form combined pharmaceutical pricing platformEversana, Waltz Health to merge and form combined pharmaceutical pricing platform
+
+fiercehealthcare.com
+
+
+48
+
+3
+
+​
+View Leshika Samarasinghe’s profile
+Leshika Samarasinghe
+
+  • 3rd+
+
+Founding Partner at Twine Ventures
+
+1yr • 
+
+
+Great insights from my partner at Twine Ventures, Ethan Yeh, on the current tipping point in transforming healthcare. 
+
+In case you've yet to meet Ethan, he's had a front row seat to the topic given his background as a health economist and then most recently leading the data science organization at Stripe. At Twine we think interdisciplinary thinking leads to outsized outcomes (hence the firm name!) so it's been awesome to build with someone whose work across tech, data, policy, and human and planetary health embodies this perspective. … more
+
+View Ethan Yeh’s profile
+Ethan Yeh
+
+  • 3rd+
+
+Managing Partner at Twine Ventures | Data Science + Health
+
+1yr • Edited • 
+
+Is AI the Key to Healthcare’s “Missing” Industrial Revolution?
+
+Healthcare is one of the only major sectors that missed out on the productivity gains of the digital revolution. Over the last 20 years, while other industries 2-3x their rate of growth, healthcare fell dramatically behind - even with EHRs and digital tools.
+
+Will AI be the game-changer? Not by itself. But we’re at a tipping point where five critical factors - data interoperability, value-based care, cost containment, and more - are aligning to give data/ software/AI a real shot at transforming healthcare productivity.
+
+Read more:… more
+
+
+Healthcare’s missing industrial revolutionHealthcare’s missing industrial revolution
+
+twinenotes.substack.com
+
+
+59
+
+2
+
+​
+View Leshika Samarasinghe’s profile
+Leshika Samarasinghe
+
+  • 3rd+
+
+Founding Partner at Twine Ventures
+
+1yr • 
+
+
+It's been inspiring to see the impact that the Alchemy team has had in improving access to essential medications in the little over a year since we first partnered. Thank you for your unwavering passion Peter Park, Sid Viswanathan, and Susie J. Crowe and congrats on these additional resources to further your important work!… more
+
+View Sid Viswanathan’s profile
+Sid Viswanathan
+
+  • 3rd+
+
+Founder & Co-CEO at Alchemy | Building in-house pharmacies for safety net clinics
+
+Visit my website
+
+1yr • Edited • 
+
+Big news𝗅 🎉
+
+I am thrilled to announce that Alchemy has raised a $31M Seed round, led by Andreessen Horowitz with participation from Magic Johnson Enterprises, Sheryl Sandberg, and existing investors Twine Ventures, Springbank and AlleyCorp. 
+
+This funding enables us to continue building in-house pharmacies for safety net clinics, with a focus on patients living with HIV and Hepatitis C. 
+
+Last week, I had the privilege of sitting down with Earvin “Magic” Johnson to discuss his personal journey with HIV, his vision for advancing HIV access and equity in the U.S., and the role he believes Alchemy will play in the coming decades.
+
+Full press release: https://lnkd.in/dfGAHst2
+
+#fundraise #alchemy #healthtech… more
+
+
+
+
+63
+
+5
+
+1
+
+Show all posts
+Experience
+Twine Ventures logo
+Founder & General Partner 
+
+Twine Ventures
+
+Jun 2021 - Present · 5 yrs 2 mos
+
+San Francisco, California, United States
+
+Twine Ventures is an early stage venture capital firm partnering with mission-driven founders improving human health, climate, and financial empowerment.
+
+Thumbnail for 28: with Leshika Samarasinghe, Founder and General Partner, Twine Ventures
+Thumbnail for Meet the 55 rising-star VCs who shook up the industry in 2021, according to other VCs
+Thumbnail for A Comeback of the First-Time Venture Fund? Stay Tuned
+Alchemy logo
+Investor
+
+Alchemy
+
+2023 - Present · 3 yrs 7 mos
+
+Compass Regulatory logo
+Investor 
+
+Compass Regulatory
+
+2023 - Present · 3 yrs 7 mos
+
+Verse Inc. logo
+Investor 
+
+Verse Inc.
+
+2023 - Present · 3 yrs 7 mos
+
+Digital Biology, Inc. logo
+Investor 
+
+Digital Biology, Inc.
+
+2022 - Present · 4 yrs 7 mos
+
+Show all
+Education
+Harvard Business School logo
+Harvard Business School
+
+MBA
+
+2007 – 2009
+
+Stanford University logo
+Stanford University
+
+BA, International Relations, with honors
+
+1999 – 2003
+
+Skills (10)
+Venture Capital
+
+
+Endorsed by Sean Petersen and 5 others who are highly skilled at this
+
+
+Endorsed by 2 colleagues at Advanced Research Projects Agency-Energy (ARPA-E)
+
+49 endorsements
+
+Strategy
+
+
+Endorsed by Garry Thaniel and 2 others who are highly skilled at this
+
+
+Endorsed by 6 colleagues at Google
+
+42 endorsements
+
+Show all
+Patents
+Graphical user interface for a display screen
+
+US D537834 · Issued Mar 6, 2007
+
+Interests
+
+Top Voices
+
+Companies
+
+Groups
+
+Schools
+
+Anand Chandrasekaran 
+
+· 3rd
+
+Managing Partner, Celesta Capital and Founder of Crescendo & HiO || Former Partner @ General Catalyst, 80+ investments, 10🦄s || Product @ Meta/Airtel/Five9.
+
+384,412 followers
+
+
+Follow
+
+Garry Tan 
+
+· 2nd
+
+President & CEO, Y Combinator
+
+333,141 followers
+
+
+Follow
+Show all
+
+More profiles for you
+
+Ethan Yeh 
+
+· 3rd
+
+Managing Partner at Twine Ventures | Data Science + Health
+
+
+Follow
+
+Shad Ahmed 
+
+· 3rd
+
+Economic Mobility & AI @ Anthropic
+
+Message
+
+Tina Wu, MD, MBA 
+
+· 3rd
+
+Founder | CMO | ER physician
+
+Message
+
+Emily Libresco 
+
+· 3rd
+
+Head of Marketing & Communications at Lerer Hippeau, formerly with Melinda Gates
+
+Message
+
+TJ Ademiluyi 
+
+· 3rd
+
+CEO & Founder at Alaffia Health | Forbes 30 Under 30
+
+
+Follow
+Show all
+People you may know
+From Leshika's school
+
+
+Ivan Franco-Hernandez 
+
+· 2nd
+
+Deferred MBA @ UVA | @ Citi | Rice Alum 
+
+Connect
+
+Emilio Guerra 
+
+· 2nd
+
+Business Student at Rice University | Finance Concentration | Latin American & Latinx Studies Minor
+
+Connect
+
+Dr. Yucel Yilmaz 
+
+· 2nd
+
+PhD, MBA | CEO @ Impocor Group | AI Risk & Defense Systems | SDVOB Federal & State Contractor | Logistics • CRM • Infrastructure | Sevices-Disabled Veteran
+
+Connect
+
+Piotr Kierner 
+
+· 2nd
+
+Growth & Ops @ Inspiren | AI in Healthcare | Harvard SVMP
+
+Connect
+
+Ivan Hernandez 
+
+· 2nd
+
+Tech Strategy & Operations @ Pfizer | Prev. Microsoft & Google | Product, Healthcare & Technology
+
+Connect
+Show all
+You might like
+Pages for you
+
+
+Cursor
+
+Software Development
+
+367,860 followers
+
+
+Alex & 20 other connections follow this page
+
+
+Follow
+
+Stripe
+
+Technology, Information and Internet
+
+1,534,445 followers
+
+
+Alex & 18 other connections follow this page
+
+
+Follow
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Antony SalehStatus is online
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.

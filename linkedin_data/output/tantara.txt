@@ -1,0 +1,719 @@
+0 notifications
+
+
+Home
+8
+My Network
+Jobs
+Messaging
+23
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+
+Tara Tan
+
+Investing in the future of computing | Strange VC
+
+
+More
+View my newsletter
+Message
+
+Follow
+Cover photo
+
+Tara Tan
+· 3rd
+
+Investing in the future of computing | Strange VC
+
+San Francisco, California, United States
+
+·
+
+Contact info
+
+
+Strange Ventures
+
+
+Harvard University
+
+16,545 followers
+
+·
+
+500+
+
+connections
+
+Followed by Yassin
+
+
+Follow
+Message
+View my newsletter
+
+More
+Profile enhanced with Premium
+
+About
+I built Strange to back founders building the future of computing.
+
+I am the founder and General Partner at Strange Ventures, a first-check fund investing in deeply technical teams turning unconventional ideas into breakthrough companies. 
+
+Previously, I was a General Partner at IDEO Ventures, behind the storied design firm that pioneered UX and helped shape computing as we know it. I’ve spent 15+ years at the intersection of design, emerging technology, and venture, bringing dozens of paradigm-shifting products to life from a napkin sketch, post-it, or prototype.
+
+I believe great design is a form of clarity. It doesn’t just make something usable. It reveals what matters most.
+
+If you’re building something early, strange, and a little too ambitious, let’s talk. You can reach me at tara at strangevc.com.
+
+Top skills
+
+Venture Capital • Design • Startups • Investments • Technology
+
+Featured
+Link
+
+
+The Strange Review | Tara Tan | Substack
+
+https://thereview.strangevc.com/
+
+We publish long form essays on Tuesdays, and a review on the latest news on Fridays.
+
+Post
+
+Storied design firm Pentagram used Midjourney to create illustrations for a recent brand project. 
+
+It caused quite the uproar. 
+
+Some hated that they used AI. 
+Some were disappointed that they didn't go far enough in their use of AI. 
+
+The designers started with handmade human inputs, creating a montage with cut-out paper and paint. Then used AI to create variations for a website project.
+
+Observation: 
+Pentagram, a 50 year old design firm, known for its craft (typefaces), is experimenting with new creative tools. 
+
+Is this a sign that generative AI is now —definitively— part of the design stack?
+
+What is your take?
+
+
+1,980 reactions · 142 comments1,980 · 142 comments
+
+Post
+
+Did Cursor + Anthropic's MCP just make billion-dollar businesses like Zapier obsolete?  
+
+MCP lets AI agents connect directly with APIs, databases, and services—cutting out low-code tools like Zapier. Cursor just integrated it into their code agent, meaning you can now build end-to-end apps and workflows without manual automation tools.
+
+Why This Is a Big Deal:
+
+1.  No More Static Triggers → AI Agents React Dynamically
+
+Before: Zapier waits for an explicit trigger (“When an email arrives, do X”).
+Now: MCP-powered agents monitor, understand, and act when needed—no predefined trigger necessary.
+
+2. No More Manual Workflow Design → AI Builds Workflows on the Fly
+
+Before: You set up rigid automation chains in Make or Pipedream.
+Now: AI decides the best workflow based on real-time needs—no need to predefine connections.
+
+With the pace of product improvements in software agents in the last few months, millions of people could generate end-to-end software or automation flows in minutes within the year. 
+
+Strange? Inevitable. 
+
+While Cursor and Windsurf are more focused on developers today, the market for the "prosumer" app creator will eclipse this market.  
+
+Fun fact: Zapier is the OG of seedscaling, getting to $230M ARR with only $1.4M in funding. 
+
+Handy links to learn more: 
+Anthropic MCP docs: https://lnkd.in/gK9nxHKh
+How to integrate MCP in Cursor https://lnkd.in/gp2z8yhU
+Composio has a handy a list of MCP servers: https://mcp.composio.dev/
+
+
+1,653 reactions · 174 comments1,653 · 174 comments
+
+Newsletter
+
+
+The Strange Review
+
+Published weekly · 3,980 subscribers
+
+The latest in AI and the future of computing. Subscribe on Substack for the full experience: thereview.strangevc.com
+
+
+Subscribe
+Link
+
+
+The Bicycle & A Lesson in Invention
+
+The Strange Review
+
+
+Activity
+16,545 followers
+
+
+Follow
+
+Posts
+
+Comments
+
+Videos
+
+Images
+
+Newsletters
+View Tara Tan’s profile
+Tara Tan
+
+  • 3rd+
+
+Investing in the future of computing | Strange VC
+
+View my newsletter
+
+6d • 
+
+
+My friends at the big AI labs read The Brief before their Monday meetings. 
+
+Things not to miss this week:
+
+→ The government let Anthropic turn its most powerful model back on, but only for companies it picked.
+
+→ Chinese AI models are now used about 3x more than US ones on a major platform, and a former Meta and Google DeepMind exec says one of them is now what he reaches for every day. What happens when they become not jut the cheap option, but the good one?
+
+→ OpenAI and Broadcom built their own AI chip in nine months, and used OpenAI's models to help design it. The same Broadcom now makes chips for Google, Meta, ByteDance, and OpenAI. 
+
+→ The AI boom is eating the world's memory chips, and prices are climbing fast. Due to the industry-wide memory shortage, Apple raised prices. MacBooks and iPads just went up as much as $300. 
+
+→ A proposed federal rule would let political appointees overrule scientists on $1.1 trillion in research grants. 
+
+
+Read it at the The Strange Review ↓
+https://lnkd.in/gd9vswUN… more
+
+
+The Brief: Mythos Redeployed The Brief: Mythos Redeployed 
+
+thereview.strangevc.com
+
+
+7
+
+2
+
+​
+View Tara Tan’s profile
+Tara Tan
+
+  • 3rd+
+
+Investing in the future of computing | Strange VC
+
+View my newsletter
+
+1w • 
+
+
+A surprising number of readers from big AI tell me they read Strange Review before their Monday meetings.
+
+Here's a weekly download on the technologies, companies, and shifts worth paying attention to: 
+
+→ Two of the eight authors from the seminal Attention is All You Need paper shifted teams this week. Noam Shazeer went to OpenAI, Ashish Vaswani to Nvidia.
+
+→ A senator says the NSA director told him Anthropic’s Mythos got into almost all of its classified systems in hours (yes, really)
+
+→ SpaceX is buying Cursor for $60 billion, the biggest acquisition of a venture-backed startup we’ve ever seen
+
+→ Z.ai’s open GLM-5.2 caught up to Claude Opus 4.8 on a tough physics test, for about a sixth of the price
+
+→ FERC is making six grid operators rewrite how data centers plug into the power grid
+
+→ Midjourney gets into health tech with a wellness spa and an MRI machine
+
+Subscribe and get the full breakdown →… more
+
+The Brief: Power Moves & /Goal
+
+The Strange Review
+
+
+Subscribe
+The Brief: Power Moves & /Goal
+
+Tara Tan
+
+
+4
+
+​
+
+​
+View Tara Tan’s profile
+Tara Tan
+
+  • 3rd+
+
+Investing in the future of computing | Strange VC
+
+View my newsletter
+
+1w • 
+
+
+Happy Sunday! This week was all about power.
+
+Two of the eight people who wrote the paper that basically kicked off modern AI (“Attention Is All You Need”) switched teams this week. Noam Shazeer went to OpenAI, Ashish Vaswani to Nvidia.
+
+A few other things worth getting the download on:
+
+→ A senator says the NSA director told him Anthropic’s Mythos got into almost all of its classified systems in hours (yes, really)
+
+→ SpaceX is buying Cursor for $60 billion, the biggest acquisition of a venture-backed startup we’ve ever seen
+
+→ Z.ai’s open GLM-5.2 caught up to Claude Opus 4.8 on a tough physics test, for about a sixth of the price
+
+→ FERC is making six grid operators rewrite how data centers plug into the power grid
+
+→ Midjourney gets into health tech with a wellness spa and an MRI machine
+
+A surprising number of readers from AI companies tell me they read The Strange Review before their Monday meetings. Get the full breakdown in the link below→… more
+
+
+4
+
+1
+
+​
+View Tara Tan’s profile
+Tara Tan
+
+  • 3rd+
+
+Investing in the future of computing | Strange VC
+
+View my newsletter
+
+2w • 
+
+
+coding is the first killer use case for AI.
+
+claude code was one of the primary bottoms-up growth engines for Anthropic’s 540x revenue growth (the other was enterprise contracts).
+
+yesterday xAI paid $60B for Cursor to get in the same game.
+
+they had compute, model, attention. what they didn't have was where devs actually build, and where the best training data gets generated.
+
+why big AI has to full stack or die. new piece ↓… more
+
+AI companies have to go Full Stack or Die
+
+The Strange Review
+
+
+Subscribe
+AI companies have to go Full Stack or Die
+
+Tara Tan
+
+
+14
+
+3
+
+​
+View Tara Tan’s profile
+Tara Tan
+
+  • 3rd+
+
+Investing in the future of computing | Strange VC
+
+View my newsletter
+
+2w • 
+
+
+coding is the first killer use case for AI.
+
+claude code was one of the primary bottoms-up growth engines for Anthropic’s 540x revenue growth (the other was enterprise contracts). 
+
+yesterday xAI paid $60B for Cursor to get in the same game.
+
+they had compute, model, attention. what they didn't have was where devs actually build, and where the best training data gets generated.
+
+why big AI has to full stack or die. new piece ↓… more
+
+
+3
+
+1
+
+​
+View Tara Tan’s profile
+Tara Tan
+
+  • 3rd+
+
+Investing in the future of computing | Strange VC
+
+View my newsletter
+
+2w • 
+
+
+excited to host this dinner in a few weeks with several cracked inventor-founders. (thanks @andrewcote for bringing us deep tech folks together once a year at sf deep tech week!)   
+
+Request an invite: https://luma.com/deep-7t2o… more
+
+
+Strange Gatherings: The Inventors’ Dinner · LumaStrange Gatherings: The Inventors’ Dinner · Luma
+
+luma.com
+
+
+7
+
+​
+
+​
+View Tara Tan’s profile
+Tara Tan
+
+  • 3rd+
+
+Investing in the future of computing | Strange VC
+
+View my newsletter
+
+2w • 
+
+
+The US government just pulled a live frontier model offline for the first time. Anthropic's Fable 5 and Mythos 5 is now gone for every user worldwide, three days after launch.
+
+This is unprecedented, and I predict we'll see a few things unfold from here:
+
+1. US frontier models might be forced to KYC every developer and user. That's probably a death knell to user growth.
+
+2. Closed-source model companies will start moving aggressively up the stack toward the application layer. They can beat out app-layer competition on token unit economics alone.
+
+3. The inference infrastructure around supporting multiple models just became more important than ever. (If you're building in this space, please reach out!)
+
+Also, other things to pay attention to this week:
+
+→ SpaceX completed the largest IPO in history at ~$2.2T. Impressive narrative shift from space company to AI infrastructure company months before listing.
+
+→ Apple rebuilt Siri on a licensed Google Gemini model at ~$1B/year. The most valuable hardware company is leasing its frontier model from Google, and betting on the orchestration layer. 
+
+→ OpenRouter launched Fusion, a multi-model synthesis layer that matched frontier performance at half the cost.
+
+→ CZ Biohub released ESMFold2, an open-source protein AI that designed and lab-validated therapeutic binders in days. A direct challenge to DeepMind's closed-model moat.
+
+→ Amazon disclosed 2.5B gallons of data-center water use, close to 5% of metro Seattle's annual consumption. Water is becoming a real constraint on the AI buildout.
+
+Subscribe to The Strange Review to get it in your inbox: thereview.strangevc.com Full link below!… more
+
+
+The Strange Review | Tara Tan | SubstackThe Strange Review | Tara Tan | Substack
+
+thereview.strangevc.com
+
+
+7
+
+1
+
+​
+View Tara Tan’s profile
+Tara Tan
+
+  • 3rd+
+
+Investing in the future of computing | Strange VC
+
+View my newsletter
+
+3w • 
+
+
+Shipping is fun. Deadlines to demo are better.
+
+Join us for Strange Sessions #5, our monthly demo night for founders, researchers, and creative technologists.
+
+Work in progress encouraged. Come jam!
+
+https://luma.com/0ici5tta… more
+
+
+Strange Sessions #5: Loops · LumaStrange Sessions #5: Loops · Luma
+
+luma.com
+
+
+3
+
+​
+
+​
+View Tara Tan’s profile
+Tara Tan
+
+  • 3rd+
+
+Investing in the future of computing | Strange VC
+
+View my newsletter
+
+3w • 
+
+
+Anthropic shipped their new Fable model this week with anti-distillation built into the model itself, to safeguard against competitors replicating their work.
+
+They're buying time. It's their short window of alpha before everyone catches up. 
+
+And after a few months of building loops and watching token costs balloon as workflows scale, I'm less convinced by the VC rhetoric that frontier models will eat everything. The frontier race is real, but it's a finite game. I think the better position is building the inference infrastructure that all these loops run on.
+
+New piece on the finite game of frontier models.… more
+
+The Finite Game of Being First
+
+The Strange Review
+
+
+Subscribe
+The Finite Game of Being First
+
+Tara Tan
+
+
+5
+
+​
+
+​
+View Tara Tan’s profile
+Tara Tan
+
+  • 3rd+
+
+Investing in the future of computing | Strange VC
+
+View my newsletter
+
+3w • 
+
+
+Things to watch in the future of computing this week:
+
+→ SpaceX signs $920M/month Google GPU deal, hitting ~$26B annualized compute revenue. That would make it one of the largest GPU lessors on the planet. 
+
+→ Anthropic publishes internal data: Claude now writes 80% of its own codebase and calls for global pause in AI development (again) 
+
+→ NVIDIA releases Cosmos 3, an open foundation model for physical AI, extending its platform play into robotics 
+
+→ OpenAI ships Dreaming V3, a self-updating memory system for ChatGPT
+
+→Wolfram published a research essay systematically exploring what happens when agents compete in iterated games, and if adversarial pressure changes that' dynamic 
+
+→ MIT publishes a categorical framework for AI systems that expand their own scientific reasoning 
+
+→ SemiAnalysis breaks down the interconnect transition from copper to ruthenium
+
+Get the download on The Strange Review https://lnkd.in/g6r2NUgu… more
+
+
+2
+
+1
+
+​
+
+Show all posts
+Experience
+Strange Ventures logo
+Founder and Managing Partner
+
+Strange Ventures · Full-time
+
+May 2023 - Present · 3 yrs 3 mos
+
+San Francisco, California, United States
+
+Strange Ventures is an investment firm focused on the future of computing.
+
+We're building an enduring first-check fund, partnering with inventor-CEOs at the earliest stages. Our portfolio includes companies like Archetype (pre-seed), MagicPath (pre-seed), VideoDB (seed), BLNG (pre-seed), and more to be announced.… more
+
+ Venture Capital, Technology and +2 skills
+
+IDEO logo
+General Partner (Investing)
+
+IDEO · Full-time
+
+Mar 2016 - Dec 2022 · 6 yrs 10 mos
+
+General Partner at IDEO Ventures. 
+
+Achieved top-decile returns in ICV Fund I (2018 vintage) as cofounder and general partner.… more
+
+ Venture Capital and Design
+
+Formlabs logo
+Design Director
+
+Formlabs
+
+2014 - 2016 · 2 yrs
+
+Various Companies logo
+Founder
+
+Various Companies · Full-time
+
+2007 - 2014 · 7 yrs
+
+Created wildly ambitious interactive installations that toured to Japan and Singapore, including a multimedia live film experience with an original soundtrack, and the world's first iPhone play. 
+
+Built creative campaigns for global brands. Exhibited at the World Expo.
+
+Journalist.… more
+
+Education
+Harvard University logo
+Harvard University
+
+Masters of Design Studies, Technology
+
+Activities and societies: • Co-Chair of Women In Design
+• Leadership Fellow at the Harvard Graduate Leadership Council
+• Fellow at Harvard Business School Women Founders Forum
+• Fellow at Harvard Berkman Digital Problem Solving Initiative (DPSI) Pioneer
+• Researcher at MIT Open Documentary Lab
+• Harvard Innovation Lab, Harvard Business School Asian Business Conference
+
+University of Bristol logo
+University of Bristol
+
+B.A.
+
+Graduated with First class (hons).
+
+Skills (5)
+Startups
+
+Investments
+
+
+Founder and Managing Partner at Strange Ventures
+
+Show all
+Publications
+Please, Insert Human
+
+Medium
+
+Show publication
+Why blockchain and other emerging technologies need human-centered design
+
+The Strange Review
+
+Show publication
+Languages
+English
+
+Native or bilingual proficiency
+
+Mandarin
+
+Professional working proficiency
+
+Interests
+
+Companies
+
+Groups
+
+Newsletters
+
+Schools
+
+VINC, CompanyVINC
+
+7,540 followers
+
+
+Follow
+
+The LEGO Foundation, CompanyThe LEGO Foundation
+
+154,945 followers
+
+
+Follow
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Antony SalehStatus is online
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.
