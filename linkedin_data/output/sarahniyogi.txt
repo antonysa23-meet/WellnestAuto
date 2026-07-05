@@ -1,0 +1,636 @@
+0 notifications
+
+
+Home
+8
+My Network
+Jobs
+Messaging
+22
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+
+Sarah Tierney Niyogi
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+
+More
+
+Follow
+Message
+Cover photo
+
+Sarah Tierney Niyogi
+· 3rd
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+San Francisco, California, United States
+
+·
+
+Contact info
+
+
+Stanford Law School
+
+500+
+
+connections
+
+Message
+
+Follow
+
+More
+About
+With 15+ years of experience working with high-growth private and public technology companies, Sarah Niyogi is a results-oriented, analytical, and collaborative attorney and operator with expertise across artificial intelligence, software, robotics, and hardware.  She's worked as an operator growing generational companies that include Dropbox, Plaid, and Scale AI. Her law firm clients included Intel, Apple (hardware products), Yahoo, and Novartis.
+
+Beyond her executive leadership experience, she enjoys advising, investing in, and mentoring early stage start-ups, and helping founders and new GCs.
+
+Activity
+4,988 followers
+
+
+Follow
+
+Posts
+
+Comments
+
+Images
+View Sarah Tierney Niyogi’s profile
+Sarah Tierney Niyogi
+
+  • 3rd+
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+5d • 
+
+
+It's amazing what a small, laser-focused team can accomplish... in only 8 months!  We're working to measure and advance the frontier of AI and we're just getting started.
+
+I'll be opening up a role for a product & privacy counsel in our SF office in the next few weeks.  If working at a company growing insanely fast on novel issues at the forefront of AI adoption sounds like fun, DM me.… more
+
+View Anastasios Angelopoulos’ profile
+Anastasios Angelopoulos
+
+  • 3rd+
+
+Cofounder and CEO at Arena
+
+5d • Edited • 
+
+Arena has crossed $100M annualized revenue run rate, eight months after launching our evaluation product, making us one of the fastest-growing businesses of all time.
+
+With our recent release of Agent Mode, millions of users on Arena are doing real work with agents, from coding to document analysis, in long-running, multi-turn sessions with hundreds of tool calls. We use this platform to evaluate objective criteria like task completion rates, hallucination rates, and more, far beyond our original human preference voting model. This expansion has taken us from a student project at Berkeley to one of the fastest growing companies in history. Go Bears! 🐻
+
+Our core thesis is simple: to align AI with human values, we must directly measure its impact on people in the real world. Today's milestone is proof that Arena’s platform is the de-facto standard for post-deployment evaluation of AI.
+
+So, how does Arena make money?
+
+Our platform serves as a real-world CI/CD system for AI models on the distribution of real user queries. By helping businesses understand the strengths and weaknesses of models in-the-wild, we can help them improve their performance not just on benchmarks, but for actual people. Once a model is staged for public release, we evaluate it for free, for the good of the community.
+
+The constant, live stream of diverse queries ensures that the evaluations happen on real work that models can't study for, and reflect model performance on code writing/debugging, research, brainstorming, creative generation, document creation and professional productivity. Real tasks, judged by the people who do them. Today the Arena platform has 700M+ total conversations, 82M+ total votes, and over 10M+ monthly visitors from over 150 countries around the world. Every day, ~80% of the user queries are net-new.
+
+None of this could have happened without two groups: our team at Arena that created this amazing business and the 10M+ monthly visitors who vote, evaluate, and give feedback every day on arena.ai. Thank you all for making this possible.
+
+If Arena's mission resonates with you, apply for a role or DM me here. I'd love to talk with anyone who wants to help shape the future of AI through frontier evaluation research.… more
+
+View image
+
+63
+
+5
+
+​
+View Sarah Tierney Niyogi’s profile
+Sarah Tierney Niyogi
+
+  • 3rd+
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+1mo • 
+
+
+This is an incredible step forward in measuring agent performance across key dimensions.  Check out our Arena blog post on the methodology for measurement and signal comparisons of the top models. Proud to be a part of this team. … more
+
+View company: Arena
+Arena
+
+ 
+
+1mo • 
+
+Introducing Agent Arena: real-world agentic evals at scale.
+
+How do you evaluate agents doing actual work? We measure millions of live sessions where real users accomplish real tasks.
+
+On Arena, models now get web search, filesystem, and terminal tools to complete complex workflows: writing code, creating slide deck, researching the web, building apps, and analyzing documents.
+
+Every session produces rich signals. Users iterate with the agent turn-by-turn: approving, editing, correcting, praise or expressing frustration. The environment gives feedback too: shell errors, tool failures, recovery attempts, and more.
+Our leaderboard measures each model's agentic performance using causal inference across five signals: task success, steerability, error recovery, user praise vs. complaint, and tool hallucination.
+
+This leaderboard snapshot is built from 300K+ tasks, 2M+ tool calls, and 40M lines of code by agents.
+
+Top labs in Agent Arena:
+- #1 OpenAI: GPT-5.5 (High)
+- #2 Anthropic: Claude-Opus-4.7 (Thinking)
+- #3 Z.ai: GLM-5.1
+- #4 Google DeepMind: Gemini-3.1-Pro
+- #5 Kimi (Moonshot AI): Kimi-K2.6
+More analysis in the thread, with the full technical blog below.
+
+What are people actually using agents for?
+
+We analyzed the task distribution in Agent Arena across a 7-day window: 160K real user tasks spanning coding, debugging, research, document creation, frontend development, file analysis, and long multi-step workflows.
+
+The largest categories were:
+- Code writing (17.5%)
+- Research and lookup (10.8%)
+- Planning and brainstorming (10.6%)
+- Multimodal image/video work (10.2%)
+- Document creation (9.1%)
+- Code debugging (8.9%)
+
+Agent usage is broad: it’s not just coding, but research, planning, content creation, file work, and complex workflows that combine multiple tools over many turns.
+
+The aggregate ranking combines multiple signals: task success, user praise vs. complaints, steerability, bash recovery, and tool hallucination.
+
+Top models win in different ways: some complete tasks more reliably, some recover better from errors, and some are easier for users to steer.
+
+Higher-cost models generally deliver stronger agentic performance, but not always. Agent Arena helps measure the trade-off: which models are strongest, which are most efficient, and track how the frontier is moving.
+
+In a 7-day window, Agent Arena logged 2.06M tool calls across 160K+ real user tasks.
+
+The most-used tools were:
+- bash: 936K calls
+- write_file: 550K calls
+- web_search: 276K calls
+- read_file: 118K calls
+- fetch_page: 86K calls
+
+This gives us a new lens on agent behavior: not just what models answer, but how they search, code, edit, recover, and interact with the environment.
+
+This is the core motivation for Agent Arena: evaluate agents on real, messy, long-horizon work.
+
+Check out our technical blog for the Agent Arena methodology: https://lnkd.in/gjJ6yQNc
+
+The full Agent Arena Leaderboard is here: arena.ai/leaderboard/agent … more
+
+View image
+1/7
+
+
+31
+
+1
+
+​
+View Sarah Tierney Niyogi’s profile
+Sarah Tierney Niyogi
+
+  • 3rd+
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+3mo • 
+
+
+We’re hiring an Associate General Counsel - Commercial & Intellectual Property for the legal team at Arena (link in comments)! Come and join one of the fastest growing AI companies in history and help us advance our mission of measuring and advancing the frontier of AI for real-world use.
+
+Why apply?
+- You want to work with an amazing group of brilliant and kind people building and selling cutting edge AI products.
+- You enjoy working on legal questions without clear answers and developing legal strategy in areas where there is no precedent.
+- You want to position yourself to lead one of the next great AI companies (as the 2nd lawyer, you’ll get the exposure of a generalist, the opportunity to learn everything I know, and my support in your career).
+- You want to build for legal and internal teams – we’ve got Sandstone, Claude Code, Render, Vercel, Supabase, and any tool you could wish for to build your own apps to do your own work and collaborate across the team.  Essentially unlimited tokens to build a legal department of the future and a security team that is serious about enabling non-technical teams to build.
+… more
+
+
+147
+
+11
+
+10
+View Sarah Tierney Niyogi’s profile
+Sarah Tierney Niyogi
+
+  • 3rd+
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+4mo • 
+
+
+If you are looking for a team license for a general purpose AI tool, Claude is likely your best bet.  But, if you're a product and engineering team choosing APIs to run agents, this Pareto frontier cost v. capability graph shows that Google currently offers the most flexible and broad set of model options, with xAI Grok, GLM, and Xiaomi also offering optimized models for chat, coding, and agentic workflows. Pretty amazing that 2 of the models on the Pareto frontier are open source (MIT licensed).… more
+
+View company: Arena
+Arena
+
+ 
+
+4mo • 
+
+Gemini-3.1-Flash-Lite-Preview by Google DeepMind moves the Pareto frontier as one of the most efficient models in its tier ($0.25 in / $1.50 out per MTokens). 
+
+As a family, Gemini-3.1 offers a clear cost-to-quality ladder, with both variants leading within their price bands.
+
+- Gemini-3.1 Pro leads with models priced higher
+- Gemini-3.1 Flash Lite leads in a lower cost band
+- Older variant Gemini 3 Flash also sits on the frontier in between
+
+Check out the full leaderboard details at: arena.ai/leaderboard… more
+
+View image
+
+18
+
+1
+
+1
+View Sarah Tierney Niyogi’s profile
+Sarah Tierney Niyogi
+
+  • 3rd+
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+4mo • 
+
+
+I hear from a lot of early career lawyers that they are wary of becoming corporate or commercial counsel these days.
+
+The fear makes sense: there's a loud narrative that the work is going to be quickly commoditized by AI.
+
+But if you run from the disruption, you might be missing one of the biggest career upsides.
+
+Being in a field that is actively being disrupted gives you a front-row seat to redesigning the profession. As a corporate or commercial counsel right now, you get the opportunity to disrupt your own work. You get to figure out how to build agents, manage those agents, and continuously push your focus to the edge of what is truly, strategically valuable to the business.
+
+Learning how to automate the baseline and manage the AI doing it—that feels like one of the most critical skill sets you can build as an attorney.
+
+I’m not saying you can’t do the exact same thing as a product, regulatory, or litigation attorney. You absolutely can. But the feedback loop in transactional law practice is happening right now, and the lawyers leaning into the disruption are the ones who will emerge with the skills to redefine other areas of legal practice.… more
+
+
+124
+
+6
+
+​
+View Sarah Tierney Niyogi’s profile
+Sarah Tierney Niyogi
+
+  • 3rd+
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+4mo • 
+
+
+The jump for Opus 4.6 on coding is pretty amazing.  A year ago, it was kind of tricky and annoying as a non-technical person to get set-up on Cursor, etc. and get an app off the ground.  Now, it's shockingly easy and your app will likely work on the very first try.  Hard to imagine the progress that will happen in the next year.… more
+
+View company: Arena
+Arena
+
+ 
+
+4mo • Edited • 
+
+📰  BREAKING: Claude Opus 4.6 is now #1 across Code, Text and Expert Arena! Congrats to the Anthropic team on the incredible milestone! The frontier just moved. 👏 
+
+Opus 4.6 shows significant gains across the board:
+◾  #1 Code Arena: +106 score vs Opus 4.5
+◾ #1 Text Arena: scoring 1496, +10 vs Gemini 3 Pro
+◾  #1 Expert Arena: +~50 lead 
+
+Additionally in the Text Arena, Claude Opus also ranks #1 in key categories:
+- Instruction Following 
+- Hard Prompts
+- Longer Query
+
+The Expert leaderboard is built with a framework that identifies the toughest, most expert-level prompts from real users. Learn more about how Arena scores differ from traditional static benchmarks with our researcher Evan:
+https://lnkd.in/gHnuZkSj
+
+Check Claude Opus 4.6 on the detailed leaderboards for Text, Code, Expert and key categories at: arena.ai/leaderboard… more
+
+View image
+1/3
+
+
+24
+
+2
+
+1
+View Sarah Tierney Niyogi’s profile
+Sarah Tierney Niyogi
+
+  • 3rd+
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+5mo • 
+
+
+If you're like me, you're probably over-using thinking models.  Latency awareness on my easier prompts is an amazing productivity boost.… more
+
+View company: Arena
+Arena
+
+ 
+
+5mo • 
+
+👋 Say hello to Max!
+
+Max is Arena’s intelligent router, powered by 5+ million real-world community votes.
+
+Max routes each prompt to the most capable model with latency in mind. AI models excel at different things (code, math, speed, reasoning). Max orchestrates across model strengths to deliver reliable performance across real-world use cases.
+
+◾ Available today in Direct chat here: arena.ai/max
+◾ Read more about it on our blog: https://lnkd.in/gA5t8wg6… more
+
+
+
+
+15
+
+​
+
+​
+View Sarah Tierney Niyogi’s profile
+Sarah Tierney Niyogi
+
+  • 3rd+
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+5mo • 
+
+
+Such a fun story behind Gemini 2.5 Flash Image aka Nano Banana 🍌 https://lnkd.in/girj8xqg LMArena
+
+
+How Nano Banana got its nameHow Nano Banana got its name
+
+blog.google
+
+
+13
+
+​
+
+​
+View Sarah Tierney Niyogi’s profile
+Sarah Tierney Niyogi
+
+  • 3rd+
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+5mo • 
+
+
+I'm constantly amazed by what AI can do.  It's H1-B lottery strategy season. Of course, as a start-up GC, I have no idea who needs visa support.  Enter AI to help me design a Google Form to collect that information.  
+
+First, I explain the situation and ask Gemini to draft a survey for me to collect immigration details. Gemini drafts a near-perfect survey.  No surprise.
+
+But, after writing the survey, Gemini offered to write a Google App Script that would generate the Google Form... no manual form building required.  Yes, thank you Gemini.  There was an error in the first Google App Script draft.  I gave Gemini the error code and it gave me a new version of the script.  And, voila, I have a Google Form ready to send to the whole company.  1 hour of work, condensed to 5 minutes.  And, delighted to know that I'll never build a Google Form manually again.  Now brainstorming what else I can build with Gemini + Google App Script...
+
+Any suggestions? … more
+
+View image
+
+89
+
+6
+
+​
+View Sarah Tierney Niyogi’s profile
+Sarah Tierney Niyogi
+
+  • 3rd+
+
+GC @ Arena | Previously Scale AI, Plaid, Dropbox
+
+5mo • 
+
+
+Big news today - LMArena announced our Series A!
+
+We have an incredible team of researchers and builders. Our mission is to measure and advance the frontier of AI for real world use.  We're hiring to accelerate product development and expand our scientific evaluation infrastructure.  There's tremendous demand for assessing the reliability and safety of AI.  If you are interested in solving problems in our space, please reach out! 
+
+And, thank you to Felicis, UC Investments (University of California), a16z, the House Fund, LDV Partners, Kleiner Perkins, Lightspeed and Laude Ventures for your tremendous support for our mission. … more
+
+View company: Arena
+Arena
+
+ 
+
+5mo • Edited • 
+
+Today, we’re excited to announce our $150M Series A at a $1.7B valuation—nearly 3× our May seed round. Since launching evaluations in Sept, our annualized consumption run rate has surpassed $30M.
+
+Our mission is clear: to measure and advance the frontier of AI for real-world use, ensuring that developers, researchers, enterprises, and everyday users can understand how AI behaves where it matters most.
+
+The round was led by Felicis and UC Investments (University of California), with participation from Andreessen Horowitz, The House Fund, LDV Partners, Kleiner Perkins, Lightspeed and Laude Ventures. This milestone reflects a growing industry consensus: AI cannot scale responsibly without independent, transparent, and continuous evaluation.
+
+Over the past year, LMArena has become the world’s most trusted community platform for understanding how AI models perform in real-world conditions. As AI reaches billions of people across the globe, the need for measurement grounded in lived experience—not benchmarks alone—has never been more urgent.
+
+Today, we serve more than 5 million monthly users across 150 countries. Together, our community generates over 60 million conversations every month, evaluating model capability and reliability across text, code, image, video, and search. We will move even faster to build new features and improve our product experience for the community to evaluate the frontier of AI.
+
+This unprecedented engagement signals a fundamental shift in expectations: the world now demands AI that is measurable, comparable, and accountable. 
+
+This new funding allows us to meaningfully scale our engineering, research, platform operations, and community initiatives to meet accelerating global demand. With our team, partners, and global community behind us, we’ll keep redefining how the AI frontier is measured and advanced—on our path to building the world’s most trusted evaluation platform.
+
+Read more on our blog: https://lnkd.in/gdvWi8nU… more
+
+View image
+
+107
+
+15
+
+​
+
+Show all posts
+Experience
+Arena logo
+General Counsel
+
+Arena · Full-time
+
+Oct 2025 - Present · 10 mos
+
+San Francisco Bay Area · On-site
+
+The L Suite (TechGC) logo
+Founding Member
+
+The L Suite (TechGC)
+
+Jan 2017 - Present · 9 yrs 7 mos
+
+We are an independent, invitation-only, peer community where General Counsels share knowledge/ best practices and support each other.
+
+Recall Capital logo
+Partner
+
+Recall Capital · Full-time
+
+Mar 2023 - Feb 2025 · 2 yrs
+
+San Francisco, California, United States
+
+Scale AI logo
+General Counsel, Corporate Secretary, and Head of the CLIC Team
+
+Scale AI
+
+Sep 2018 - Feb 2023 · 4 yrs 6 mos
+
+San Francisco Bay Area
+
+Build and lead Communications, Legal, Compliance, and IT functions for Scale AI across commercial and federal business units
+
+* Lead a fast-growing global team of approximately 30 professionals, with a focus on team development, collaboration, and driving business results
+
+* Act as corporate secretary overseeing board governance and shareholder relations
+
+* Oversee global privacy and security compliance spanning GDPR, SOC2, ISO 27001, HIPAA, FedRAMP, NIST 800-171, etc.… more
+
+Niyogi Law PC logo
+Principal
+
+Niyogi Law PC
+
+Mar 2017 - Mar 2019 · 2 yrs 1 mo
+
+San Francisco Bay Area
+
+Clients included Scale AI, Motive, Segment, Branch, Fleetsmith, Anki, Grovo, Transcend, and more.
+
+Show all
+Education
+Stanford Law School logo
+Stanford Law School
+
+JD
+
+Activities and societies: Research Assistant to Prof. Jonathan Zittrain ("The Future of the Internet"), Teaching Assistant to Prof. Daniel Ho (Law and Statistics), Stanford Center for Internet and Society
+
+The University of Texas at Austin logo
+The University of Texas at Austin
+
+BS/BA, Computer Science, Plan II
+
+Activities and societies: Research Assistant to Dr. Bruce Porter in the Artificial Intelligence Lab
+
+Show all 3 educations
+Skills (12)
+Intellectual Property
+
+
+Endorsed by Olga V. Mack and 7 others who are highly skilled at this
+
+
+Endorsed by 3 colleagues at The L Suite (TechGC)
+
+45 endorsements
+
+Negotiation
+
+
+Endorsed by 3 colleagues at Morrison Foerster
+
+6 endorsements
+
+Show all
+Recommendations
+
+Received (5)
+
+Given (3)
+
+William Yoon 
+
+· 3rd
+
+Legal at Dropbox | Former Google | Former Facebook
+
+June 17, 2017, William worked with Sarah on the same team
+
+Sarah is without a doubt one of the best lawyers I have ever worked with. Aside from her substantive prowess, she possesses impeccable work ethic and an extremely sophisticated approach to pragmatic legal counseling. Sarah's true differentiator, however, is her deep expertise in the operational complexities of managing and scaling a fast-growing legal department. She has the ability to quickly identify inefficiencies and implement solutions that yield exponential returns. Sarah is truly the rare legal counsel who is a force multiplier and produces results at a rate that only the top 0.00001% of global legal professionals can deliver. 
+
+
+Richard A. Beutel 
+
+· 3rd
+
+Founding Principal of Cyrrus Analytics LLC
+
+October 18, 2015, Richard A. managed Sarah directly
+
+I had the pleasure of working with Sarah when she joined our Dell Government Relations Office as a Tisdale Fellow. Sarah's work was excellent, thorough and highly useful. She was an absolute pleasure to work with and I recommend her highly.
+
+Richard Beutel
+
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Antony SalehStatus is online
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.

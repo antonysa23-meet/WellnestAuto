@@ -1,0 +1,753 @@
+0 notifications
+
+I'm looking for…
+
+Home
+8
+My Network
+Jobs
+Messaging
+22
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+
+Olivia Wang
+
+Investing @ Olive Capital
+
+
+More
+Message
+
+Follow
+
+Olivia Wang
+· 3rd
+
+Investing @ Olive Capital
+
+San Francisco, California, United States
+
+·
+
+Contact info
+
+
+The Johns Hopkins University
+
+18,815 followers
+
+·
+
+500+
+
+connections
+
+Followed by Ofer
+
+
+Follow
+Message
+
+More
+About
+Help me prioritize your message: reach me at https://21.co/oliviawang	
+
+Activity
+18,815 followers
+
+
+Follow
+
+Posts
+
+Comments
+View Olivia Wang’s profile
+Olivia Wang
+
+  • 3rd+
+
+Investing @ Olive Capital
+
+2w • 
+
+
+It's been incredible watching Philipp Wu, Yide Shentu, Nemo Jin, and David Tse build XDOF to advance general-purpose robotics. Excited to see them come out of stealth. Proud to be an early supporter and partner on the journey. 🤖🚀… more
+
+View Philipp Wu’s profile
+Philipp Wu
+
+  • 3rd+
+
+Robotics!
+
+2w • 
+
+I’m excited to announce that XDOF is coming out of stealth with $70 million in fundraising to build core infrastructure for robot foundation models!
+
+My co-founders Yide Shentu, Nemo Jin, and I have been pursuing the dream of general purpose robots for our entire lives. It’s clear to us that general purpose robots are coming, and we are building XDOF to help make them a reality.
+
+We’ve already been working behind the scenes to support major labs and companies deploying robots. In us, they have a partner with full-stack expertise, from hardware to operations to policy training.
+
+As our first public contribution to the space, we are open-sourcing ABC-130K, the largest open source teleoperation dataset, in collaboration with our partners from UC Berkeley, Carnegie Mellon, MIT and Amazon FAR.
+
+Thank you to our customers, partners, collaborators and investors for your trust and conviction in us. Together, we can accelerate the future of robotics!… more
+
+View image
+
+20
+
+3
+
+​
+View Olivia Wang’s profile
+Olivia Wang
+
+  • 3rd+
+
+Investing @ Olive Capital
+
+4w • 
+
+
+Excited to see Stedman Hood, Harry Bleyan, and the Neon Health team launch this! 
+
+View Stedman Hood’s profile
+Stedman Hood
+
+  • 2nd
+
+Co-founder @ Neon Health | AI-powered patient access
+
+Visit my website
+
+4w • 
+
+We just launched a tool to automate the most tedious part of running a call center: 
+
+QA.
+
+Today, call centers have human QA teams who have to review ~5% of all the calls running through their call centers. It's incredibly tedious and error-prone.
+
+So we built the Neon's AI-powered “QA team in a box”. 
+
+Automated QA & Insights on every call:
+
+1. Evaluate every call against program-specific work instructions
+2. Prioritize coaching for your agents with recommended training modules
+3. Track call quality trends and compliance metrics in real-time
+
+Q: Why did we build this specifically for patient access teams?
+A: Existing call center tools like Genesys and Five9 offer QA and sentiment analysis. 
+
+But they’re far too generic to evaluate brand-specific work instructions and clinical guidelines.
+ 
+By contrast, Neon | AI-powered patient access's AI Quality Engine is purpose-built for patient access leaders – to deliver a level of observability and oversight that has never before been possible without costly human review.
+
+What questions do you wish you could answer about your call center operations? … more
+
+
+
+5
+
+​
+
+​
+View Olivia Wang’s profile
+Olivia Wang reposted this
+
+
+View Kevin Carter’s profile
+Kevin Carter
+
+  • 3rd+
+
+Founder and General Partner
+
+1mo • Edited • 
+
+I’m incredibly grateful to have learned from Ron during my years at SV Angel. I wrote a short note reflecting on a few lessons from him that I believe are increasingly important in today’s startup ecosystem: ronconway.carrd.co
+
+We are all behind you, Ron.… more
+
+
+A note about Ron ConwayA note about Ron Conway
+
+ronconway.carrd.co
+
+
+204
+
+13
+
+3
+View Olivia Wang’s profile
+Olivia Wang reposted this
+
+
+View Danial Jameel’s profile
+Danial Jameel
+
+  • 2nd
+
+Modernizing Banks & Credit Unions Operations with AI | Founder/CEO Saris AI | Founder Ready Education (YC S16, acquired) | Forbes 30under30 | YPO
+
+1mo • Edited • 
+
+I couldn’t be more excited to share that Saris AI has raised a $28.8M Series A, led by Alex Kolicich from 8VC.
+
+We founded Saris around a simple conviction: the future of financial services is humans and AI working side by side. Not AI replacing people, but AI removing operational burden so humans can focus on what they do best.
+
+Over the last few years, the Saris team has been obsessively close to our customers, mapping workflows, understanding daily operations, and doing the actual work across lending and compliance. I still fondly recall the week-long onsite sessions with our early customers, and the late-night iterations (shoutout to Alice, James, Tommy Endres, Julien Andreu, and Clément Flodrops).
+
+One recent story to highlight why Saris matters:
+• A credit union is using Saris to process and fund ~$45M in consumer loans every month. Employees use Saris an average of 4.46 hours per day. Loan packages that took 45–90 minutes are now completed in under 7 minutes. Members get funded faster, they have a delightful experience, and operational efficiency improves!
+
+What’s next:
+• Creating the standard: Today’s AI playbook in financial services is suboptimal. Most companies build point solutions, extend SaaS offerings, or provide sandboxes. This leaves teams to spend months/years managing integrations, maintain infrastructure, inference costs, and proving ROI. We rejected that model. This is a feedback loop without outcomes in mind. We are building a foundational engine that gives financial institutions a unified way to run agentic workflows across lending, compliance, and operations. Point solutions are easy. Building a seamless system that unifies humans, AI agents, infrastructure, data, and regulatory interactions is not. That’s the standard we’re building towards.
+
+• Customer first: Everything we build is ultimately about helping our customers better serve their communities. They are the heroes of this story. The more time I spend with banks and credit unions, the more I fall in love with the mission, whether it’s helping a hardware store in rural Mississippi secure financing, supporting an agriculture loan in Illinois, or helping a young family buy their first home.
+
+·  Growing the team: If you love to solve real world problems using agentic AI at a scale that impacts millions of people, come join us!
+
+I’m incredibly grateful to my cofounders (Alice Dinu and James Dang), the Saris AI team, and our amazing customers.
+
+https://lnkd.in/g5EtD5t5
+
+Special thank you to our investors who believed in our mission: Alex Kolicich & Nahom Yimam (8VC), Nakul Mandan, Samantha Price (Audacious Ventures), Satya Patel & Hunter Walk (Homebrew), Kevin Covert and team (Btech Consortium), Brian Regan (Service Credit Union), Qasar Younis, Michael Ma & Joe Montana (Liquid 2 Ventures), Harish Abbott, Carlos Delatorre, Allison Pickens, Joe Alala, III, Oleg Rogynskyy, Olivia Wang, Timothy Chen, Declan Kelly and Will Zheng.… more
+
+View image
+1/3
+
+
+177
+
+44
+
+11
+View Olivia Wang’s profile
+Olivia Wang reposted this
+
+
+View company: Two Bear Capital
+Two Bear Capital
+
+ 
+
+2mo • Edited • 
+
+Earlier this month, Two Bear Capital, Breakout Ventures, and AIX Ventures co-hosted a dinner that brought together a small group of women venture capitalists. This was an evening of thoughtful conversations among investors focused on the intersection of biotech and technology platforms.
+
+Thank you to our co-sponsors AIX Ventures (Lucy Chong) and Breakout Ventures (Dana Watt, PhD) for creating this event with us, we are already looking forward to the next one.
+
+Thank you to our attendees who made this evening special. Amalia C. (Two Bear Capital), Lavinia van Hamel Platerink (Two Bear Capital), Jenna Aronson (Two Bear Capital), Dana Watt, PhD (Breakout Ventures), Lucy Chong (AIX Ventures), Anna Fokina (DCVC Bio), Sonya B., Kelly Nissen, Ph.D. (Alexandria Real Estate Equities, Inc.), Charlotte Xia (Fusion Fund), Ekaterina Shchukina (Eli Lilly and Company), Kristina Kitko (Eli Lilly and Company), Celestine “Cee Cee” Schnugg (Boom Capital), Olivia Wang (Olive Capital), Nicole Sonnert (Playground Global), and Vreni Schoenenberger, Ph.D (Advisor).… more
+
+View image
+1/2
+
+
+127
+
+11
+
+9
+View Olivia Wang’s profile
+Olivia Wang reposted this
+
+
+View company: Science
+Science
+
+2mo • 
+
+Our CEO Max Hodak joined Juan Benet for a conversation about BCI breakthroughs at Science and how they will benefit patients. 
+
+View company: Protocol Labs
+Protocol Labs
+
+ 
+
+2mo • 
+
+Excited to share the launch of the Juan Benet Podcast series, exploring the future of neurotech, computing, intelligence, and more.
+
+In the first episode, Juan sits down with Max Hodak, Founder and CEO of Science, for a deep conversation on the rapidly advancing neurotech landscape.
+
+They discuss:
+-The clinical progress of PRIMA, Science’s retinal prosthetic already helping patients with age-related macular degeneration regain the ability to read and recognize faces
+-Biohybrid brain implants that grow living neurons onto silicon chips for more natural integration with the cortex
+-The evolution of BCI technology — from early Utah Array systems to today’s fully implantable devices enabled by the “smartphone dividend”
+-What it takes to build Fast R&D: atomic-level control, heavy vertical integration, and hiring for urgency and strong judgment
+
+Watch the full episode on YouTube: https://lnkd.in/d4aVU3m3… more
+
+
+
+
+74
+
+1
+
+5
+View Olivia Wang’s profile
+Olivia Wang reposted this
+
+
+Lawrence M. Chu
+
+  • 2nd
+
+Builder of Strategies, Companies & Communities | Board Member + Senior Advisor | Value-Add Investor | Elite M&A Attorney | Always curious…
+
+3mo • Edited • 
+
+🚨Just over *3 weeks* to go until THE best #AI event of the year takes place in the global epicenter of artificial intelligence, San Francisco…
+
+🤖 HumanX is happening April 6th to 9th at Moscone Center (together with a very exclusive Founders Forum Group invite-only gathering - FoundersX - April 9th and 10th in the Napa Valley 🤫).  If you're not already familiar, HumanX has become THE enterprise AI event — not a vendor expo, not a glorified demo day, but 300+ world-class speakers across four days tackling how AI is actually and effectively getting deployed at scale.
+
+🎙️The speaker lineup is insanely good - all the BIGGEST founder, CEO, investor and innovator names in AI providing actionable strategies and insights from the bleeding edge.  The program is organized by job function, not by buzzword, so the sessions and the people you're sitting next to are actually relevant to what you do.  And the personal interactions - from the bespoke schedule built with HX’s own AI tailored to your particular interests, to the superb networking of high-caliber attendees (1/3 are C-suite!) that you’ll find in the hallways - will deliver a very unique experience.
+
+🔥 Last year sold out. This year is bigger, better and even more creative. I'd go as far as saying if you're making decisions about AI (investing in it, building with it, buying it) and you're not there, you're going to regret it.  Register here: humanx.co/register
+
+(DM me for a discount code. It’s going to be informative AND fun.)
+
+#strategic #insights #enterprise #artificialintelligence #deployment #frontier #agents #GenAI #sanfrancisco #humanX2026… more
+
+View image
+1/5
+
+
+254
+
+25
+
+45
+View Olivia Wang’s profile
+Olivia Wang reposted this
+
+
+View Corban Tillemann-Dick’s profile
+Corban Tillemann-Dick
+
+  • 3rd+
+
+Founder & CEO of Maybell Quantum Industries
+
+3mo • 
+
+This is what the future of quantum cryogenics looks like. 
+
+When we founded Maybell, this was the first patent we filed. 5 years later, it’s ready to unveil to the world and ready to order! 
+
+Reach out if you’re hoping to run more than 5 dilution refrigerators and you want to spend less money, have higher uptime, and achieve unmatched device performance.… more
+
+View company: Maybell Quantum
+Maybell Quantum
+
+ 
+
+3mo • Edited • 
+
+Introducing Maybell’s ColdCloud!
+
+Everyone in quantum is talking about qubits. Not enough people are talking about what keeps them cold.
+
+Today we're announcing ColdCloud®: a patented cryogenic architecture that replaces rooms full of standalone dilution refrigerators with a robust, scalable, unified platform. Centralized pre-cooling cooling. Distributed modular nodes. 90%+ reductions in electricity and cooling water. Cooldown in hours. Independent node operation. Datacenter-ready reliability.
+
+Dilution refrigerators have taken quantum computing from impossible to possible. ColdCloud® takes it from possible to practical.
+
+Read the full announcement: https://lnkd.in/dscd9ZuE
+
+Come talk to us in Denver at Booth 2200 at the APS Global Physics Summit next week or hop on our shuttle to see Maybell's facility in person (sign up link below).
+
+#ColdCloud #QuantumInfrastructure #Cryogenics #MaybellQuantum #QuantumComputing… more
+
+
+Maybell Quantum Launches ColdCloud®: A Patented Architecture for Scalable Quantum Cryogenics | MaybellMaybell Quantum Launches ColdCloud®: A Patented Architecture for Scalable Quantum Cryogenics | Maybell
+
+maybellquantum.com
+
+
+45
+
+6
+
+1
+View Olivia Wang’s profile
+Olivia Wang reposted this
+
+
+View company: Science
+Science
+
+3mo • 
+
+"I think that BCI is not a specific product, I think there's going to be a bunch of BCI companies going after different applications where different types of probes will make sense. To me, it firmly feels like we're in the takeoff era." 
+
+Science founder and CEO Max Hodak joined Y Combinator to talk about the future of brain-computer interfaces.… more
+
+
+
+
+151
+
+3
+
+14
+View Olivia Wang’s profile
+Olivia Wang reposted this
+
+
+View Michael Daugherty’s profile
+Michael Daugherty
+
+  • 3rd+
+
+Founder @ Quill - Personal, Private, Post-Meeting AI
+
+4mo • 
+
+A great conversation is often the best experience of your day.
+
+But what brings us down to earth afterward? All the mundane work we have to do coming out of a great, dense conversation. Everything we have to remember. Everything we said we’d get to someday but inevitably let slip. A single conversation can spawn many tasks - and most of us have more than one conversation each day!
+
+Today we're announcing Quill Meetings's evolution into your personal Chief of AI Staff and a $6.5M seed round led by Basis Set Ventures and 500 Global to make it real.
+
+Quill started as a private, local-first AI notetaker that gave users control over how their data is processed and stored. That foundation of respect for users hasn’t changed. What has changed is what Quill can help you do with all your context.
+
+Autonomous AI agents are like coworkers who are great at taking direction and doing specific jobs but who you wouldn’t trust to run the company. The human role is becoming making decisions, setting direction, and making connections. More multi-tasking, more responsibilities. Engineers are already living this - now when I code, I’m typically managing 5-6 agents at the same time and thinking about how to guide them, QA them, and improve them.
+
+Quill is built to help you scale your capacity in this world.
+
+With Quill, you can ask "Who should I introduce Julian to?" and it will recall a conversation from months ago, cross-reference your Airtable CRM for relevant investors, and draft the intro emails. It listens to your engineering standup and suggests updating two specific Linear tickets. It learns how you write sales follow-ups and starts drafting them before you ask.
+
+Before he joined Quill, Clayton Bryan fed a year of Quill conversations into a digital clone that now coaches startup founders on his behalf with just a phone call and an understanding of his unique point-of-view.
+
+Because Quill’s users own their data completely, power users are already building their own automations on top of Quill. Enterprises in regulated industries like financial services, deep tech, and healthcare are deploying it inside their own networks with zero data leaving their control.
+
+This is what we mean by a Chief of AI Staff. Not one more generic summary. An AI on your side that works the way you want, that earns your trust, and that helps you stay centered in an increasingly complex world.
+
+Every one of our investors was a user of Quill before writing a check. We’re live, we’re hiring engineers, and we’re just getting started.… more
+
+View company: Quill Meetings
+Quill Meetings
+
+4mo • 
+
+We’re excited to introduce you to Quilliam - Your Chief of AI Staff!
+
+Most AI note-takers stop at transcription. They record what was said, organize it into bullet points, and call it a day. 
+
+Quilliam is not just a note taker, it does the work. 
+
+It’s an agentic assistant that lives inside Quill and has the context it needs to be successful. 
+
+Ask it to draft follow-up emails, create Linear tickets from your standup, pull insights from your last quarter of customer calls - all through natural language. 
+
+With Quill, you get an intelligent agent without the privacy trade-offs that come with cloud-based tools. This isn’t about replacing your workflow. It’s about finishing the tasks your meetings create—without adding three more tools to your stack.
+
+Download Quill → https://is.gd/zxo0Wz
+
+#ProductLaunch #AIAssistant #MeetingProductivity #QuillMeetings #LocalFirst… more
+
+
+
+
+86
+
+30
+
+17
+
+Show all posts
+Experience
+Olive Capital logo
+Investor
+
+Olive Capital · Full-time
+
+2021 - Present · 5 yrs 7 mos
+
+Menlo Park, California, United States
+
+ZhenFund  logo
+ZhenFund 
+
+7 yrs
+
+Head of US 
+
+May 2016 - Dec 2020 · 4 yrs 8 mos
+
+San Francisco 
+
+Investor
+
+Full-time
+
+2014 - Dec 2016 · 3 yrs
+
+Beijing
+
+Huobi Global logo
+Board Member
+
+Huobi Global
+
+Jul 2014 - Jul 2018 · 4 yrs 1 mo
+
+Beijing, China
+
+Credit Suisse logo
+Asia Equity Sales Analyst
+
+Credit Suisse
+
+Jul 2011 - Nov 2013 · 2 yrs 5 mos
+
+New York, New York
+
+Education
+The Johns Hopkins University logo
+The Johns Hopkins University
+
+International Studies, Political Science, China, Political Economics, Political Philosophy
+
+2007 – 2011
+
+Activities and societies: Alpha Kappa Psi, Relay for Life, Ballet, Dance
+
+Phillips Andover Academy
+
+2004 – 2007
+
+Skills (5)
+Venture Capital
+
+10 endorsements
+
+Financial Modeling
+
+
+Endorsed by 2 colleagues at ZhenFund 真格基金
+
+15 endorsements
+
+Show all
+Honors & awards
+Forbes 30 under 30 
+
+Issued by Forbes · Jan 2018
+
+
+Associated with ZhenFund 
+
+Featured as 30 under 30 for Venture Capital in Forbes' US 2018 list. https://www.forbes.com/profile/olivia-wang/#7bc0310834b2
+
+Languages
+Chinese
+
+Native or bilingual proficiency
+
+Spanish
+
+Professional working proficiency
+
+Interests
+
+Top Voices
+
+Companies
+
+Groups
+
+Newsletters
+
+Schools
+
+Scott Galloway 
+
+· 3rd
+
+Professor of Marketing, NYU Stern | Bestselling Author | Founder, Prof G Media | Host #ProfGPod, #PivotPodcast, #ProfGMarkets, #RagingModerates
+
+956,036 followers
+
+
+Follow
+
+Will Ahmed 
+
+· 3rd
+
+Founder & CEO at WHOOP®
+
+154,245 followers
+
+
+Follow
+Show all
+
+More profiles for you
+
+Sue Xu 
+
+· 2nd
+
+Managing Partner at Amino Capital
+
+
+Follow
+
+Elaine Dai 
+
+· 2nd
+
+Partner at Alt Capital
+
+
+Follow
+sam gould
+
+· 3rd+
+
+Company Owner at Olive Capital 
+
+Connect
+
+Celestine “Cee Cee” Schnugg 
+
+· 2nd
+
+Inception Capital & VC at Boom Capital (1st check for deep tech)
+
+Connect
+
+Amalia C. 
+
+· 3rd
+
+Principal Investor at Two Bear Capital 
+
+Connect
+Show all
+People you may know
+
+Lucia Hosein 
+
+· 2nd
+
+Chemical Engineering at Rice University
+
+Connect
+Jaedrian Mure is open to work
+Jaedrian Mure 
+
+· 3rd
+
+Student at University at Buffalo
+
+Connect
+
+Nevo Meir Tapiero 
+
+· 2nd
+
+Co-Founder at Sababa | Retail Fintech & Cashback Infrastructure | Software Engineer | Aerospace & UAV | MEET (MIT) Alumnus
+
+Connect
+Sammy Tran
+
+· 3rd
+
+Student at Klein High School, YLS 26’ Scholar
+
+Connect
+
+Paul LeSage Eakin 
+
+· 2nd
+
+AI and Business at Rice, building impactful agents
+
+Connect
+Show all
+You might like
+Newsletters for you
+
+The Monthly AI Recap
+The Monthly AI Recap
+
+A curated look at the biggest AI news, updates and breakthroughs from Google.
+
+Published monthly
+
+Google
+Google
+
+
+Subscribe
+Technology & Innovation News
+Technology & Innovation News
+
+Stay ahead of the curve with curated insights on breakthrough technologies and industry trends.
+
+Published biweekly
+
+Siemens
+Siemens
+
+
+Subscribe
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
