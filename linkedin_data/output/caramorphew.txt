@@ -1,0 +1,670 @@
+0 notifications
+
+I'm looking for…
+
+Home
+8
+My Network
+Jobs
+Messaging
+23
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+
+Cara Morphew
+
+Finance at Talentism
+
+
+More
+Message
+
+Follow
+Cover photo
+
+Cara Morphew
+· 2nd
+
+Finance at Talentism
+
+Minneapolis, Minnesota, United States
+
+·
+
+Contact info
+
+
+Talentism
+
+
+Northwestern University - Kellogg School of Management
+
+5,042 followers
+
+·
+
+500+
+
+connections
+
+
+Follow
+Message
+
+More
+Activity
+5,042 followers
+
+
+Follow
+
+Posts
+
+Comments
+View Cara Morphew’s profile
+Cara Morphew reposted this
+
+
+View Brendan Keeler’s profile
+Brendan Keeler
+
+  • 3rd+
+
+Interoperability Practice Lead at HTD Health
+
+View my newsletter
+
+10mo • 
+
+A friend of mine is looking for her next role in healthtech, with a focus on women’s health. She’s open to senior product manager or product operations manager positions in a remote/hybrid (NYC). Any team would be lucky to have her!
+
+- 7 years in startups, including 3.5 in healthcare owning a proprietary EMR
+- Builds products that simplify provider workflows and boost clinical efficiency
+- Experienced in fertility-focused EMRs, from feature design to lab integrations
+- Known for optimizing processes and operations
+- Bridges the gap between clinicians and engineering to deliver real-world impact
+- Passionate about scalable, user-centered solutions that empower providers
+
+If your team is looking for a strategic, hands-on product leader in healthtech, DM me!… more
+
+
+101
+
+11
+
+8
+View Cara Morphew’s profile
+Cara Morphew
+
+  • 2nd
+
+Finance at Talentism
+
+10mo • 
+
+
+2.5 years ago, Dive In invested in Thinking Machines Data Science because the team believed in Stephanie Sy's bold vision and her potential as a leader. 
+
+As part of our model, Dive In pairs capital with executive coaching through Talentism. 
+
+That coaching journey inspired something powerful: Stef went on to create Sparky, a Slack-based AI coach designed to make Talentism coaching more accessible.
+
+Now Talentism is releasing Sparky to the public via our free pilot. This is a great opportunity for founders, investors, execs, or managers to experiment with coaching and see how it can impact your growth as a leader. If you're interested, please sign up here - https://lnkd.in/eyknTqad… more
+
+View Stephanie Sy’s profile
+Stephanie Sy
+
+  • 3rd+
+
+Founder & CEO at Thinking Machines
+
+1yr • 
+
+LLMs will be sycophantic and validate you, even if you're in the wrong. Great executive coaches are supportive but hold you to account. How do you build a GenAI experience that avoids the Validation Trap and builds human potential? 
+
+Sharing a writeup of my favorite GenAI project of the year! As someone who's been coached by Talentism, i deeply believe in their clarity framework. It has been transformative for me, and it's been exciting to see how we can bring that IP to more people.
+
+We built Sparky, a multi-agent system that acts as a secondary coach on Slack. We designed a multi- agent model to flow through stages of Investigation, Clarification, Diagnosis and co-creating an Experiment with humans, in a way that felt supportive and natural! 
+👍 4.5/5 coaching quality rating from senior coaches
+💝  “I could hear Jeff [Talentism’s CEO] in a few of the answers, and that was a pleasure.”
+
+Real pleasure to co-design this with Jessi Gormezano, the senior coaches, and get Ope Bukola's brain on figuring out what's next … more
+
+View image
+
+17
+
+2
+
+​
+View Cara Morphew’s profile
+Cara Morphew reposted this
+
+
+View Jeff Hunter’s profile
+Jeff Hunter
+
+  • 2nd
+
+Learning Leader, Talentist, Founder
+
+Visit my website
+
+11mo • Edited • 
+
+Talentism helps you achieve goals that you fear are out of reach. 
+
+Our coaches are experts in an innovative methodology that has helped thousands of leaders build iconic companies and create world-class teams. 
+
+I was skeptical that we would ever be able to create an AI coach that could match our coaches' level of insight and expertise. But one of our clients (and a Dive In investment), Thinking Machines Data Science, has been creating AI solutions for years. They partnered with us to create something truly extraordinary: an engaging, critical AI coach fully versed in Talentism’s philosophy, methods, and frameworks. 
+
+Our alpha product blew my mind. And our beta is even better. 
+
+If you are interested in having a Talentism expert available 24/7 while you do your work in Slack, please sign up for our new FREE pilot https://lnkd.in/eyknTqad… more
+
+
+
+
+43
+
+6
+
+13
+View Cara Morphew’s profile
+Cara Morphew reposted this
+
+
+View Peter Walker’s profile
+Peter Walker
+
+  • 2nd
+
+Head of Insights @ Carta | Data Storyteller
+
+11mo • 
+
+8 years in: are small VC funds or big(ger) VC funds performing better?
+
+Drum roll...it's smaller funds.
+
+But there's so much to discuss beyond the headline TVPI (Total Value to Paid-In Capital) multiples. Let's dig into to data first then implications.
+
+𝗗𝗮𝘁𝗮 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗿
+
+• Net TVPI figures laid out in percentiles (25th, 50th, 75th, 90th, and 95th). 
+• Data is a snapshot of performance as of Q1 2025.
+
+𝗗𝗮𝘁𝗮 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀 𝗳𝗼𝗿 𝗡𝗲𝘁 𝗧𝗩𝗣𝗜
+
+• Funds with $1M-$10M to invest have higher marks at the 90th and 95th percentiles than any other fund size group.
+  
+• Between $10M-$25M and $25M-$100M, performance varies. Top decile marks are actually higher at the bigger tier between the two, but it's competitive.
+  
+• Funds with over $100M typically have lower top decile marks.
+
+The obvious question is "why don't LPs fund more tiny funds, they outperform". Well, it's pretty tough to invest $100M into 10 funds of $10M each (not least because no one would want to be the ONLY LP in a fund). And of course there are many more $10M funds, so choosing a top decile manager is maybe even harder here!
+
+Beyond that, I think it's under-discussed that emerging manager funds are often in competition with one another. If an LP has $5M to give to the emerging manager space, choosing between a $25M fund and a $50M fund is tricky - and may have very little to do with fund size.
+
+The classic dilemma on fundraising: do we spend time trying to convince an LP to focus on emerging managers AND THEN pick us, or do we narrowly target LPs who are already bought into the emerging manager thesis?
+
+Two final notes:
+
+1) TVPI is not DPI and 8 years is not 12 years. More life to live in this analysis.
+
+2) 75th percentile (aka top quartile) being below 3x across fund sizes after 8 years is...not great.
+
+Share with your favorite GP 🙏
+
+#TVPI #venturefunds #venturecapital #smallfunds … more
+
+View image
+
+484
+
+81
+
+52
+View Cara Morphew’s profile
+Cara Morphew reposted this
+
+
+View Angela Winegar’s profile
+Angela Winegar
+
+  • 3rd+
+
+CMO @ Invisible | Angel Investor & early stage GTM Advisor | Ex-Bain, Carta, Investor
+
+Visit my website
+
+11mo • 
+
+The Windsurf-Google deal has me thinking about a trend that should worry everyone who cares about Silicon Valley's future.
+
+Another strategic acquisition to sidestep regulatory hurdles. Another group of employees left holding seemingly worthless equity. It's becoming a playbook (see Scale, Character, Inflection).
+
+CEOs getting huge payouts, preferred investors taken care of, but employees left with limited comms and a lot of questions. 
+
+You know what drives Silicon Valley's innovation engine? It's not just the unicorn exits. It's the thousands of employees who cash out modest gains and invest that capital back into the ecosystem. They become angels. They are financially secure enough to start companies. They mentor. They pay it forward.
+
+But when deals are structured to benefit only the CEO, board, and preferred shareholders, we break that.
+
+There hasn't been enough detailed reporting on it, but from early reports on X, employees don't seem to have heard much. Think:
+
+🎯 An engineer who joined Windsurf 3 years ago, took a 30% pay cut from Google for equity upside 
+💸 Their unvested shares? Worthless in this structure 
+🏃‍♀️ Their vested shares? Probably worthless if they haven't exercised, might get a small dividend if they have but maybe not even that
+⏰ 3-4 years of their life betting on building a generational company, probably wasted
+
+The ripple effects matter:
+
+First, talent will leave. Why stay at shell companies when Big Tech offers guaranteed comp? And why take the risk of a lower salary if what was formerly an 'M&A' exit has no upside for you? 'Shell' company is the going term for a reason.
+
+Second, trust erodes. It poisons the founder pitch "join us early for the equity upside." Early-stage recruiting will get harder.
+
+Third — we lose future angels. Those employees who would have made $500K from a normal acquisition? They're the ones who write tiny checks into the next generation of startups. No liquidity for them means less capital for early-stage founders.
+
+I get it. Regulatory constraints are real. Strategic acquisitions make sense for the acquirers. They make sense for preferred shareholders. But Silicon Valley works because we believe in equity. Because we have decades to show it works, and we believe that building something meaningful should create wealth for everyone who helped build it.
+
+As someone who studied public policy, I am saddened at this new trend that is seemingly penalizing employees to sidestep regulatory concerns. I sincerely hope we're not sacrificing long-term ecosystem health for short-term regulatory arbitrage.… more
+
+
+1,546
+
+103
+
+37
+View Cara Morphew’s profile
+Cara Morphew
+
+  • 2nd
+
+Finance at Talentism
+
+1yr • 
+
+
+Dive In is continuing to accept applications for our Founder Learning Lab - a free 2 month group coaching program, for early stage startups, moderated by Talentism executive coaches. 
+
+This program will offer:
+🤝 Peer network: Learn faster together. Share wins, dodge pitfalls, and connect with founders who get it.
+👩‍🏫 Expert coaching: Accelerate your learning with Talentism coaches and battle-tested strategies from thousands of founder journeys, including high growth startups like Casper, Duolingo, and Tia.
+💰 Potential Investment: Opportunity to receive Dive In investment following this experience.
+
+If you know of a founder who could be a good fit, please have them apply here: https://lnkd.in/gNCs2K7W… more
+
+
+Founder Learning Lab | Dive InFounder Learning Lab | Dive In
+
+diveinlabs.com
+
+
+24
+
+2
+
+2
+View Cara Morphew’s profile
+Cara Morphew
+
+  • 2nd
+
+Finance at Talentism
+
+1yr • Edited • 
+
+
+I recently joined Dive In and to say I’m excited for what’s next is an understatement. As many of you know, I’m incredibly passionate about creating a more equitable ecosystem by investing in diverse founders, which is at the core of Dive In’s thesis.
+
+Dive In is an early-stage venture firm taking a unique approach to maximizing portfolio returns by pairing capital with world-class executive coaching from Talentism, a firm dedicated to transforming confusion into clarity, accelerating learning, and unlocking human potential.
+
+I’m excited to share that Dive In and Talentism are launching Founder Learning Lab - a 2 month group coaching program moderated by Talentism executive coaches. This program will offer founders access to a strong peer network, expert coaching, and potential investment.
+
+Learn more and apply for the program here:… more
+
+
+Founder Learning Lab | DiveinFounder Learning Lab | Divein
+
+diveinlabs.com
+
+
+90
+
+8
+
+​
+View Cara Morphew’s profile
+Cara Morphew reposted this
+
+
+View Shelly Patel’s profile
+Shelly Patel
+
+  • 3rd+
+
+Early-Stage Operator & Advisor. Marketplace, Growth & GTM Expert. Founder of the World's First Indian BBQ Sauce. Ex-Uber.
+
+1yr • Edited • 
+
+At Base, we're building the place where people connect intellectually, in real life. And we’re expanding to the Mile High City. I'm looking for smart people to join our team! 
+
+This is a perfect opportunity for someone early in their career, with some operational and/or hospitality chops. Someone ambitious who wants to be part of something big that's about to take off. 
+
+If this sounds exciting to you, come meet us at our Denver hiring event next week! We can’t wait to connect with talented folks who want to help us launch this great city!
+
+📅 Event Details: February 11, RiNo (Denver). Link in comments. 
+
+Many of you know - finding great talent in a new city is tough. So please share this post widely. We appreciate it!… more
+
+
+54
+
+6
+
+15
+View Cara Morphew’s profile
+Cara Morphew
+
+  • 2nd
+
+Finance at Talentism
+
+1yr • 
+
+
+I’m happy to share that I’m starting a new position as Managing Partner at Dive In!
+
+View celebration image
+Starting a new position
+
+
+244
+
+30
+
+​
+View Cara Morphew’s profile
+Cara Morphew reposted this
+
+
+View Tessa Flippin’s profile
+Tessa Flippin
+
+  • 2nd
+
+Founder and Managing Partner at Capitalize VC | Stanford University | Kauffman Fellow
+
+1yr • Edited • 
+
+#vcsforkamala is LIVE. 
+
+As of this morning, 110 VCs representing ~$150 Billion in assets under management have signed the pledge and The New York Times is covering the action here: https://lnkd.in/gq49BXCE
+
+To join us in endorsing VP Kamala Harris for president, please go to www.vcsforkamala.org to sign the pledge. 
+
+Thank you Leslie Feinzaig, for your leadership in starting this movement. And I am so proud of us, the group of volunteers, who made it happen! ❤️
+
+#letsdothis
+Christie Pitts, Jonathan Azoff, Kate Brodock, Kate Gardiner, La Keisha Landrum Pierre, Naseem Sayani (she/her), Mandy Bynum (she/her), Shila Nieves Burney 🇵🇷, Sydney Paige Thomas, Tiana Tukes and myself… more
+
+
+More Than 100 Silicon Valley Investors Pledge to Support Kamala HarrisMore Than 100 Silicon Valley Investors Pledge to Support Kamala Harris
+
+nytimes.com
+
+
+166
+
+22
+
+11
+
+Show all posts
+Experience
+Talentism logo
+Head of Finance
+
+Talentism · Full-time
+
+Jan 2026 - Present · 7 mos
+
+Dive In logo
+Managing Partner
+
+Dive In
+
+2025 - Present · 1 yr 7 mos
+
+Sweater logo
+Sweater
+
+3 yrs
+
+Managing Partner
+
+2023 - 2025 · 2 yrs
+
+Partner
+
+Feb 2022 - 2023 · 1 yr
+
+Selwyn Ventures logo
+Partner
+
+Selwyn Ventures
+
+2021 - 2022 · 1 yr
+
+BeenThere Technologies, Inc. logo
+Co-Founder
+
+BeenThere Technologies, Inc.
+
+2017 - 2022 · 5 yrs
+
+Greater Chicago Area
+
+Show all
+Education
+Northwestern University - Kellogg School of Management logo
+Northwestern University - Kellogg School of Management
+
+2018 – 2019
+
+Wisconsin School of Business logo
+Wisconsin School of Business
+
+Bachelors of Business Administration, Finance
+
+2008 – 2012
+
+Skills (21)
+Microsoft Excel
+
+
+Endorsed by 10 colleagues at NetSuite
+
+15 endorsements
+
+PowerPoint
+
+
+Endorsed by 4 colleagues at NetSuite
+
+10 endorsements
+
+Show all
+
+More profiles for you
+
+Colin Keeler 
+
+· 3rd
+
+Head of Finance and Business Development @ Kiva
+
+Message
+
+Renuka Belwalkar 
+
+· 3rd
+
+Investing, consulting and building | Forbes Under 30 Scholar
+
+Message
+
+Brendan Keeler 
+
+· 3rd
+
+Interoperability Practice Lead at HTD Health
+
+
+Follow
+
+Camilla Dolan 
+
+· 3rd
+
+General Partner at Eka Ventures
+
+
+Follow
+
+Mubarak Sumaila
+
+· 2nd
+
+Techstars and Google-backed Fintech Founder and CEO | Ethical Banking | Venture Builder | Tech Advisor | Startup Philosopher | Man-on-a-Mission
+
+Connect
+Show all
+People you may know
+From Cara's company
+
+
+Priyanka Subramanian 
+
+· 3rd
+
+Mom | Head of Clarity Learning @ Talentism | Ex-Founder | L&D | Product
+
+Connect
+
+Christine Rimer 
+
+· 3rd
+
+AI Acceleration Leader | Workshops, Coaching & Advisory | Board Member
+
+Connect
+
+Ali Husain 
+
+· 3rd
+
+Co-Founder & CEO | Building the coordination layer for AI-native organizations | Ex-Microsoft
+
+Connect
+
+Renuka Belwalkar 
+
+· 3rd
+
+Investing, consulting and building | Forbes Under 30 Scholar
+
+Connect
+
+Lucia Creed 
+
+· 3rd
+
+Building Collaborative Systems for Impact Through Mentorship, Neuroscience & Community-Driven Leadership | 2025 ToTC Catalyst Honoree | Founder | Executive Coach | Strategist | Student
+
+Connect
+Show all
+You might like
+Pages for you
+
+
+Cursor
+
+Software Development
+
+367,886 followers
+
+
+Alex & 20 other connections follow this page
+
+
+Follow
+
+Stripe
+
+Technology, Information and Internet
+
+1,534,503 followers
+
+
+Alex & 18 other connections follow this page
+
+
+Follow
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Antony SalehStatus is online
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.
